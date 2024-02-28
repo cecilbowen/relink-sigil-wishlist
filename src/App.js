@@ -60,8 +60,8 @@ const App = () => {
 
       <div>
         <small>
-          <a href="https://github.com/cecilbowen/relink-sigil-wishlist">Source Code</a> |&nbsp;
-          <a href="https://github.com/cecilbowen/relink-sigil-wishlist/issues/1">Suggest a Missing Sigil</a> |&nbsp;
+          <a target="_blank" rel="noopener noreferrer" href="https://github.com/cecilbowen/relink-sigil-wishlist">Source Code</a> |&nbsp;
+          <a target="_blank" rel="noopener noreferrer" href="https://github.com/cecilbowen/relink-sigil-wishlist/issues/1">Suggest a Missing Sigil</a> |&nbsp;
           <a target="_blank" rel="noopener noreferrer" href="https://redd.it/1aqtuno">Reference</a>&nbsp;
         </small>
       </div>
