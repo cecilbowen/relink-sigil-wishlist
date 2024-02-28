@@ -1,0 +1,335 @@
+[
+  {
+    "name": "A Lingering Regret",
+    "town": "Folca",
+    "sigils": [
+      "Aegis II"
+    ]
+  },
+  {
+    "name": "Annoying Neighbors",
+    "town": "Folca",
+    "sigils": [
+      "Attack Power I"
+    ]
+  },
+  {
+    "name": "Cleansing the Dead",
+    "town": "Folca",
+    "sigils": []
+  },
+  {
+    "name": "Collecting Godstones",
+    "town": "Folca",
+    "sigils": []
+  },
+  {
+    "name": "Fresh Material",
+    "town": "Folca",
+    "sigils": [
+      "Regen II"
+    ]
+  },
+  {
+    "name": "Help Your Fellow Farer",
+    "town": "Folca",
+    "sigils": []
+  },
+  {
+    "name": "The Gourmet Way",
+    "town": "Folca",
+    "sigils": [
+      "Critical Damage II"
+    ]
+  },
+  {
+    "name": "Infested Skyways",
+    "town": "Folca",
+    "sigils": [
+      "Stun Power I"
+    ]
+  },
+  {
+    "name": "Long Time No Fix",
+    "town": "Folca",
+    "sigils": [
+      "Rupie Tycoon I"
+    ]
+  },
+  {
+    "name": "Memories on Ice",
+    "town": "Folca",
+    "sigils": [
+      "Critical Damage II"
+    ]
+  },
+  {
+    "name": "Miracle Mushrooms",
+    "town": "Folca",
+    "sigils": [
+      "Health I"
+    ]
+  },
+  {
+    "name": "Oddly Specific Request",
+    "town": "Folca",
+    "sigils": [
+      "Damage Cap III"
+    ]
+  },
+  {
+    "name": "On the Tip of My Chip",
+    "town": "Folca",
+    "sigils": []
+  },
+  {
+    "name": "Pebbles of Perfection",
+    "town": "Folca",
+    "sigils": [
+      "Critical Hit Rate I"
+    ]
+  },
+  {
+    "name": "Presentproof Investing",
+    "town": "Folca",
+    "sigils": []
+  },
+  {
+    "name": "Results Guaranteed",
+    "town": "Folca",
+    "sigils": [
+      "Attack Power I"
+    ]
+  },
+  {
+    "name": "Sculpting Fire",
+    "town": "Folca",
+    "sigils": []
+  },
+  {
+    "name": "Soaring Dream",
+    "town": "Folca",
+    "sigils": [
+      "Attack Power I"
+    ]
+  },
+  {
+    "name": "Stuffed Stocks",
+    "town": "Folca",
+    "sigils": []
+  },
+  {
+    "name": "Vulnerable Nights",
+    "town": "Folca",
+    "sigils": []
+  },
+  {
+    "name": "Forget Me Not",
+    "town": "Folca",
+    "sigils": [
+      "Attack Power III"
+    ]
+  },
+  {
+    "name": "A Curious Charm",
+    "town": "Folca",
+    "sigils": [
+      "Stamina IV",
+      "Quick Cooldown IV"
+    ]
+  },
+  {
+    "name": "Save the Crustaceans",
+    "town": "Folca",
+    "sigils": [
+      "Crabby Resonance"
+    ]
+  },
+  {
+    "name": "Save the Crustaceans part Deux",
+    "town": "Folca",
+    "sigils": []
+  },
+  {
+    "name": "Save the Crustaceans the Third",
+    "town": "Folca",
+    "sigils": []
+  },
+  {
+    "name": "Save the Crustaceans Reloaded",
+    "town": "Folca",
+    "sigils": [
+      "Stun Power I"
+    ]
+  },
+  {
+    "name": "Save the Crustaceans Beyond",
+    "town": "Folca",
+    "sigils": []
+  },
+  {
+    "name": "Save the Crustaceans Neo",
+    "town": "Folca",
+    "sigils": []
+  },
+  {
+    "name": "Save the Crustaceans Returns",
+    "town": "Folca",
+    "sigils": []
+  },
+  {
+    "name": "Save the Crustaceans New Dawn",
+    "town": "Folca",
+    "sigils": []
+  },
+  {
+    "name": "Save the Crustaceans Chronicles",
+    "town": "Folca",
+    "sigils": []
+  },
+  {
+    "name": "Save the Crustaceans Origins",
+    "town": "Folca",
+    "sigils": []
+  },
+  {
+    "name": "Save the Crustaceans Supremacy",
+    "town": "Folca",
+    "sigils": []
+  },
+  {
+    "name": "Save the Crustaceans Infinity",
+    "town": "Seedhollow",
+    "sigils": []
+  },
+  {
+    "name": "A Barrold of My Own",
+    "town": "Seedhollow",
+    "sigils": [
+      "Cascade II"
+    ]
+  },
+  {
+    "name": "Aid from Afar",
+    "town": "Seedhollow",
+    "sigils": [
+      "Potion Hoarder III"
+    ]
+  },
+  {
+    "name": "Bug Hunt",
+    "town": "Seedhollow",
+    "sigils": []
+  },
+  {
+    "name": "Family Reporting",
+    "town": "Seedhollow",
+    "sigils": [
+      "Stamina II"
+    ]
+  },
+  {
+    "name": "Icey Interior",
+    "town": "Seedhollow",
+    "sigils": []
+  },
+  {
+    "name": "In Defense of the City",
+    "town": "Seedhollow",
+    "sigils": []
+  },
+  {
+    "name": "Loathsome Wings",
+    "town": "Seedhollow",
+    "sigils": []
+  },
+  {
+    "name": "Magimorphosis",
+    "town": "Seedhollow",
+    "sigils": []
+  },
+  {
+    "name": "Nightmare of a Shadow",
+    "town": "Seedhollow",
+    "sigils": [
+      "Blight Resistance III"
+    ]
+  },
+  {
+    "name": "Out of Serpentine Spite",
+    "town": "Seedhollow",
+    "sigils": []
+  },
+  {
+    "name": "Red-Hot Seller",
+    "town": "Seedhollow",
+    "sigils": [
+      "Injury to Insult II"
+    ]
+  },
+  {
+    "name": "Regret and Repentance",
+    "town": "Seedhollow",
+    "sigils": []
+  },
+  {
+    "name": "The Forbidden Spirit",
+    "town": "Seedhollow",
+    "sigils": [
+      "Critical Damage II"
+    ]
+  },
+  {
+    "name": "To Whirl Again",
+    "town": "Seedhollow",
+    "sigils": [
+      "Sandtomb Resistance I"
+    ]
+  },
+  {
+    "name": "Trowel and Error",
+    "town": "Seedhollow",
+    "sigils": [
+      "Attack Power II",
+      "Improved Guard II"
+    ]
+  },
+  {
+    "name": "Wolves at the Door",
+    "town": "Seedhollow",
+    "sigils": [
+      "Quick Cooldown II"
+    ]
+  },
+  {
+    "name": "Violet Requiem",
+    "town": "Seedhollow",
+    "sigils": [
+      "Critical Hit Rate II"
+    ]
+  },
+  {
+    "name": "Goopy Research",
+    "town": "Seedhollow",
+    "sigils": [
+      "Aegis III",
+      "Fast Learner III"
+    ]
+  },
+  {
+    "name": "Squishy Lies the Crown",
+    "town": "Seedhollow",
+    "sigils": [
+      "Low Profile IV",
+      "Rupie Tycoon IV"
+    ]
+  },
+  {
+    "name": "A Vision of Vitality",
+    "town": "Seedhollow",
+    "sigils": [
+      "Attack Power IV",
+      "Health IV"
+    ]
+  }
+]

@@ -1,0 +1,1500 @@
+[
+  {
+    "name": "Bash the Goblin Hordes",
+    "difficulty": "Easy",
+    "sigils": {
+      "firstClear": [
+        "Rupie Tycoon I"
+      ],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "Worried About Papa",
+    "difficulty": "Easy",
+    "sigils": {
+      "firstClear": [
+        "Stun Power I"
+      ],
+      "reward": [],
+      "drop": [
+        "Linked Together I",
+        "Stun Power I",
+        "Charged Attack I"
+      ]
+    }
+  },
+  {
+    "name": "Protect Our Woods",
+    "difficulty": "Easy",
+    "sigils": {
+      "firstClear": [
+        "Attack Power I"
+      ],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "Fort Fumigation",
+    "difficulty": "Easy",
+    "sigils": {
+      "firstClear": [
+        "Fast Learner I"
+      ],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "Tomorrow's Prayers",
+    "difficulty": "Easy",
+    "sigils": {
+      "firstClear": [
+        "Health I"
+      ],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "Defeat—*wheeze*—Goblin Boss",
+    "difficulty": "Easy",
+    "sigils": {
+      "firstClear": [
+        "Improved Guard I"
+      ],
+      "reward": [],
+      "drop": [
+        "Improved Guard I",
+        "Dizzy Resistance I",
+        "Guts I"
+      ]
+    }
+  },
+  {
+    "name": "Make Our Skies Safe Again",
+    "difficulty": "Easy",
+    "sigils": {
+      "firstClear": [
+        "Critical Hit Rate I"
+      ],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "Guard Our Hometown",
+    "difficulty": "Normal",
+    "sigils": {
+      "firstClear": [
+        "Potion Hoarder I"
+      ],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "Spare the Rod, Spoil the Valley",
+    "difficulty": "Normal",
+    "sigils": {
+      "firstClear": [
+        "Low Profile II"
+      ],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "Eye Have a Problem",
+    "difficulty": "Normal",
+    "sigils": {
+      "firstClear": [
+        "Critical Damage II"
+      ],
+      "reward": [],
+      "drop": [
+        "Critical Hit Rate II",
+        "Critical Damage II",
+        "Overdrive Assassin II"
+      ]
+    }
+  },
+  {
+    "name": "Only You Can Prevent Forest Flyers",
+    "difficulty": "Normal",
+    "sigils": {
+      "firstClear": [
+        "Exploiter II"
+      ],
+      "reward": [],
+      "drop": [
+        "Exploiter II",
+        "Nimble Onslaught II",
+        "Low Profile II"
+      ]
+    }
+  },
+  {
+    "name": "Saga Grande: The Beginning",
+    "difficulty": "Normal",
+    "sigils": {
+      "firstClear": [
+        "Stamina II"
+      ],
+      "reward": [],
+      "drop": [
+        "Stamina II",
+        "Dodge Payback II",
+        "Health II"
+      ]
+    }
+  },
+  {
+    "name": "Rilla Done Did It",
+    "difficulty": "Normal",
+    "sigils": {
+      "firstClear": [
+        "Attack Power II"
+      ],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "Golemology 101: Desert Golems",
+    "difficulty": "Normal",
+    "sigils": {
+      "firstClear": [
+        "Garrison II"
+      ],
+      "reward": [],
+      "drop": [
+        "Health II",
+        "Steel Nerves II",
+        "Precise Wrath II"
+      ]
+    }
+  },
+  {
+    "name": "Dagger Really Done Did It",
+    "difficulty": "Normal",
+    "sigils": {
+      "firstClear": [
+        "Regen II"
+      ],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "Sweep the Volcano",
+    "difficulty": "Normal",
+    "sigils": {
+      "firstClear": [
+        "Provoke II"
+      ],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "On the Front Lines",
+    "difficulty": "Normal",
+    "sigils": {
+      "firstClear": [
+        "Linked Together II"
+      ],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "I See a Bloody Vision",
+    "difficulty": "Normal",
+    "sigils": {
+      "firstClear": [
+        "Drain II"
+      ],
+      "reward": [],
+      "drop": [
+        "Drain III",
+        "Injury to Insult III",
+        "Slow Resistance III"
+      ]
+    }
+  },
+  {
+    "name": "The Saga Continues: Ice",
+    "difficulty": "Normal",
+    "sigils": {
+      "firstClear": [
+        "Quick Cooldown II"
+      ],
+      "reward": [],
+      "drop": [
+        "Skilled Assault III",
+        "Attack Power III",
+        "Enmity III"
+      ]
+    }
+  },
+  {
+    "name": "The Saga Continues: Fire",
+    "difficulty": "Hard",
+    "sigils": {
+      "firstClear": [
+        "Quick Charge II"
+      ],
+      "reward": [],
+      "drop": [
+        "Quick Charge III",
+        "Charged Attack III",
+        "Linked Together III"
+      ]
+    }
+  },
+  {
+    "name": "Rules the Skies",
+    "difficulty": "Hard",
+    "sigils": {
+      "firstClear": [],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "Unthinning the Troops",
+    "difficulty": "Hard",
+    "sigils": {
+      "firstClear": [],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "The Juice of Jealousy",
+    "difficulty": "Hard",
+    "sigils": {
+      "firstClear": [
+        "Fast Learner III"
+      ],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "Protect the Rep",
+    "difficulty": "Hard",
+    "sigils": {
+      "firstClear": [
+        "Stun Power III"
+      ],
+      "reward": [],
+      "drop": [
+        "Stun Power IV",
+        "Charged Attack IV",
+        "Potion Hoarder IV"
+      ]
+    }
+  },
+  {
+    "name": "Delts of Our Lives",
+    "difficulty": "Hard",
+    "sigils": {
+      "firstClear": [
+        "Health III"
+      ],
+      "reward": [],
+      "drop": [
+        "Improved Guard IV",
+        "Health IV",
+        "Stamina IV"
+      ]
+    }
+  },
+  {
+    "name": "Collector's Digest",
+    "difficulty": "Hard",
+    "sigils": {
+      "firstClear": [],
+      "reward": [
+        "Potion Hoarder III",
+        "Fast Learner III",
+        "Rupie Tycoon III"
+      ],
+      "drop": []
+    }
+  },
+  {
+    "name": "I See a Flaming Vision",
+    "difficulty": "Hard",
+    "sigils": {
+      "firstClear": [],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "Hide and Chic",
+    "difficulty": "Hard",
+    "sigils": {
+      "firstClear": [
+        "Attack Power III"
+      ],
+      "reward": [],
+      "drop": [
+        "Attack Power IV",
+        "Linked Together IV",
+        "Glaciate Resistance IV"
+      ]
+    }
+  },
+  {
+    "name": "Drumsticks au Griffin",
+    "difficulty": "Hard",
+    "sigils": {
+      "firstClear": [
+        "Exploiter III"
+      ],
+      "reward": [],
+      "drop": [
+        "Exploiter IV",
+        "Firm Stance IV",
+        "Nimble Onslaught IV"
+      ]
+    }
+  },
+  {
+    "name": "Looming Tower, Leering Eye",
+    "difficulty": "Very Hard",
+    "sigils": {
+      "firstClear": [
+        "Critical Hit Rate III"
+      ],
+      "reward": [],
+      "drop": [
+        "Critical Hit Rate IV",
+        "Lucky Charge IV",
+        "Throw IV"
+      ]
+    }
+  },
+  {
+    "name": "Wings of Antiquity",
+    "difficulty": "Very Hard",
+    "sigils": {
+      "firstClear": [
+        "Skilled Assault III"
+      ],
+      "reward": [],
+      "drop": [
+        "Stamina IV",
+        "Concentrated Fire IV",
+        "Skilled Assault IV"
+      ]
+    }
+  },
+  {
+    "name": "Seeds of Trouble",
+    "difficulty": "Very Hard",
+    "sigils": {
+      "firstClear": [],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "A Bone to Peak",
+    "difficulty": "Very Hard",
+    "sigils": {
+      "firstClear": [
+        "Regen III"
+      ],
+      "reward": [],
+      "drop": [
+        "Improved Healing IV",
+        "Precise Resilience IV",
+        "Regen IV"
+      ]
+    }
+  },
+  {
+    "name": "Absolutely No Trespassers!",
+    "difficulty": "Very Hard",
+    "sigils": {
+      "firstClear": [
+        "Nimble Onslaught III"
+      ],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "Dark Refrain",
+    "difficulty": "Very Hard",
+    "sigils": {
+      "firstClear": [],
+      "reward": [
+        "Blight Resistance II",
+        "Blight Resistance III"
+      ],
+      "drop": []
+    }
+  },
+  {
+    "name": "Golemology 102: Volcanic Golems",
+    "difficulty": "Very Hard",
+    "sigils": {
+      "firstClear": [
+        "Aegis III"
+      ],
+      "reward": [],
+      "drop": [
+        "Garrison IV",
+        "Guard Payback IV",
+        "Provoke IV"
+      ]
+    }
+  },
+  {
+    "name": "No One Likes Leftovers",
+    "difficulty": "Very Hard",
+    "sigils": {
+      "firstClear": [
+        "Overdrive Assassin III"
+      ],
+      "reward": [],
+      "drop": [
+        "Quick Cooldown IV",
+        "Charged Attack IV",
+        "Paralysis Resistance IV"
+      ]
+    }
+  },
+  {
+    "name": "I See a Deathly Vision",
+    "difficulty": "Very Hard",
+    "sigils": {
+      "firstClear": [
+        "Slow Resistance IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Enmity IV",
+        "Life on the Line IV",
+        "Drain IV"
+      ]
+    }
+  },
+  {
+    "name": "The Next Hot Topic",
+    "difficulty": "Extreme",
+    "sigils": {
+      "firstClear": [
+        "Burn Resistance III"
+      ],
+      "reward": [],
+      "drop": [
+        "Combo Finisher IV",
+        "Tyranny IV",
+        "Quick Charge IV"
+      ]
+    }
+  },
+  {
+    "name": "License to Thrill",
+    "difficulty": "Extreme",
+    "sigils": {
+      "firstClear": [
+        "Damage Cap III"
+      ],
+      "reward": [],
+      "drop": [
+        "Health V",
+        "Stamina III+",
+        "Nimble Defense V"
+      ]
+    }
+  },
+  {
+    "name": "Assault Formation!",
+    "difficulty": "Extreme",
+    "sigils": {
+      "firstClear": [],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "Great Goblins of Fire",
+    "difficulty": "Extreme",
+    "sigils": {
+      "firstClear": [],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "Shedding Light on the Pillar",
+    "difficulty": "Extreme",
+    "sigils": {
+      "firstClear": [],
+      "reward": [],
+      "drop": []
+    }
+  },
+  {
+    "name": "Saga Illustrated: The Beginning",
+    "difficulty": "Extreme",
+    "sigils": {
+      "firstClear": [
+        "Attack Power IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Attack Power V",
+        "Skilled Assault III+",
+        "Cascade V"
+      ]
+    }
+  },
+  {
+    "name": "General Investigation: Gallanza",
+    "difficulty": "Extreme",
+    "sigils": {
+      "firstClear": [
+        "Critical Hit Rate IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Critical Hit Rate V",
+        "Critical Damage III+",
+        "Lucky Charge V"
+      ]
+    }
+  },
+  {
+    "name": "General Investigation: Maglielle",
+    "difficulty": "Extreme",
+    "sigils": {
+      "firstClear": [
+        "Improved Guard IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Stun Power V",
+        "Improved Guard V",
+        "Combo Booster V"
+      ]
+    }
+  },
+  {
+    "name": "Learning from the Past",
+    "difficulty": "Extreme",
+    "sigils": {
+      "firstClear": [
+        "Aegis IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Aegis V",
+        "Concentrated Fire V",
+        "Throw V"
+      ]
+    }
+  },
+  {
+    "name": "Saga Illustrated: Inferno",
+    "difficulty": "Extreme",
+    "sigils": {
+      "firstClear": [
+        "Quick Charge IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Uplift V",
+        "Charged Attack III+",
+        "Quick Charge V"
+      ]
+    }
+  },
+  {
+    "name": "General Investigation: Id",
+    "difficulty": "Extreme",
+    "sigils": {
+      "firstClear": [
+        "Linked Together IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Damage Cap V",
+        "Linked Together III+",
+        "Guard Payback V"
+      ]
+    }
+  },
+  {
+    "name": "Wings of Conflagration",
+    "difficulty": "Extreme",
+    "sigils": {
+      "firstClear": [
+        "Firm Stance IV",
+        "Tyranny III+"
+      ],
+      "reward": [],
+      "drop": [
+        "Tyranny V",
+        "Combo Booster V",
+        "Firm Stance V"
+      ]
+    }
+  },
+  {
+    "name": "Wings of Upheaval",
+    "difficulty": "Extreme",
+    "sigils": {
+      "firstClear": [
+        "Health III+"
+      ],
+      "reward": [],
+      "drop": [
+        "Garrison V",
+        "Health V",
+        "Glaciate Resistance V"
+      ]
+    }
+  },
+  {
+    "name": "Wings of the Storm",
+    "difficulty": "Extreme",
+    "sigils": {
+      "firstClear": [
+        "Sandtomb Resistance IV",
+        "Dodge Payback III+"
+      ],
+      "reward": [],
+      "drop": [
+        "Dodge Payback V",
+        "Nimble Onslaught V",
+        "Sandtomb Resistance V"
+      ]
+    }
+  },
+  {
+    "name": "Wings of Rime",
+    "difficulty": "Extreme",
+    "sigils": {
+      "firstClear": [
+        "Burn Resistance IV",
+        "Injury to Insult III+"
+      ],
+      "reward": [],
+      "drop": [
+        "Quick Cooldown V",
+        "Injury to Insult V",
+        "Burn Resistance V"
+      ]
+    }
+  },
+  {
+    "name": "To Know the Unknowable",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Autorevive IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Regen V",
+        "Damage Cap V",
+        "Autorevive V"
+      ]
+    }
+  },
+  {
+    "name": "Slimepede",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [],
+      "reward": [
+        "Potion Hoarder V",
+        "Fast Learner V",
+        "Rupie Tycoon V"
+      ],
+      "drop": []
+    }
+  },
+  {
+    "name": "Rumble in the Desert",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Stun Power IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Stun Power V",
+        "Steady Focus V",
+        "Potion Hoarder V"
+      ]
+    }
+  },
+  {
+    "name": "Armor Is Best Served Cold",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Aegis IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Attack Power V",
+        "Linked Together V",
+        "Aegis IV+"
+      ]
+    }
+  },
+  {
+    "name": "A Heated Rivalry",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Tyranny IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Combo Finisher V",
+        "Provoke V",
+        "Guard Payback IV+"
+      ]
+    }
+  },
+  {
+    "name": "Death, Taxes, and Goblins",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Health IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Guts V",
+        "Health V",
+        "Stamina IV+"
+      ]
+    }
+  },
+  {
+    "name": "Icy Eye on the Holy Prize",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Skilled Assault IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Overdrive Assassin V",
+        "Break Assassin V",
+        "Critical Hit Rate IV+"
+      ]
+    }
+  },
+  {
+    "name": "Golemology 103: Forest Golems",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Garrison IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Aegis V",
+        "Improved Guard V",
+        "Steel Nerves IV+"
+      ]
+    }
+  },
+  {
+    "name": "Hope in the Machine",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Throw IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Concentrated Fire V",
+        "Quick Cooldown V",
+        "Charged Attack IV+"
+      ]
+    }
+  },
+  {
+    "name": "A New Breed",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Nimble Onslaught IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Exploiter V",
+        "Low Profile V",
+        "Dodge Payback IV+"
+      ]
+    }
+  },
+  {
+    "name": "I See a Grim Vision",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Regen IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Enmity V",
+        "Drain V",
+        "Injury to Insult IV+"
+      ]
+    }
+  },
+  {
+    "name": "Throw a Smith a Bone",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Drain IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Improved Healing V",
+        "Regen V",
+        "Precise Resilience IV+"
+      ]
+    }
+  },
+  {
+    "name": "Revenge of the Hordes",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [],
+      "reward": [],
+      "drop": [
+        "Health V",
+        "Stamina V",
+        "Guts V"
+      ]
+    }
+  },
+  {
+    "name": "Serenity Upon the Mount",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [],
+      "reward": [],
+      "drop": [
+        "Critical Hit Rate V",
+        "Overdrive Assassin V",
+        "Break Assassin V"
+      ]
+    }
+  },
+  {
+    "name": "Roost and Reign",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [],
+      "reward": [],
+      "drop": [
+        "Exploiter V",
+        "Low Profile V",
+        "Dodge Payback V"
+      ]
+    }
+  },
+  {
+    "name": "Boss Done Wants It Did",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Health IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Aegis V",
+        "Garrison V",
+        "Steel Nerves V"
+      ]
+    }
+  },
+  {
+    "name": "Hallowed Be Thy Ground",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [],
+      "reward": [],
+      "drop": [
+        "Regen V",
+        "Drain V",
+        "Attack Power V"
+      ]
+    }
+  },
+  {
+    "name": "Know Your Enemy",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Overdrive Assassin IV"
+      ],
+      "reward": [],
+      "drop": [
+        "Quick Charge V",
+        "Quick Cooldown V",
+        "Concentrated Fire V"
+      ]
+    }
+  },
+  {
+    "name": "I See a Chromatic Vision",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Attack Power V"
+      ],
+      "reward": [],
+      "drop": [
+        "Linked Together V",
+        "Aegis V",
+        "Combo Booster V"
+      ]
+    }
+  },
+  {
+    "name": "The Saga Continues: Wind",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [],
+      "reward": [],
+      "drop": [
+        "Stamina IV+",
+        "Dodge Payback V",
+        "Improved Dodge"
+      ]
+    }
+  },
+  {
+    "name": "Saga Illustrated: Crystal",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [],
+      "reward": [],
+      "drop": [
+        "Skilled Assault IV+",
+        "Cascade V",
+        "Quick Cooldown V"
+      ]
+    }
+  },
+  {
+    "name": "Id Bears Repeating",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Damage Cap IV+"
+      ],
+      "reward": [],
+      "drop": [
+        "Linked Together IV+",
+        "Uplift V",
+        "Precise Wrath V"
+      ]
+    }
+  },
+  {
+    "name": "The Saga Continues: Silver",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Critical Hit Rate V"
+      ],
+      "reward": [],
+      "drop": [
+        "Critical Damage IV+",
+        "Life on the Line V",
+        "Tyranny V"
+      ]
+    }
+  },
+  {
+    "name": "Saga Illustrated: Veil",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Exploiter V"
+      ],
+      "reward": [],
+      "drop": [
+        "Combo Booster IV+",
+        "Improved Guard V",
+        "Regen V"
+      ]
+    }
+  },
+  {
+    "name": "The Saga Continues: Earth",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Injury to Insult V"
+      ],
+      "reward": [],
+      "drop": [
+        "Concentrated Fire IV+",
+        "Aegis V",
+        "Low Profile V"
+      ]
+    }
+  },
+  {
+    "name": "Saga Illustrated: Hellfire",
+    "difficulty": "Maniac",
+    "sigils": {
+      "firstClear": [
+        "Steady Focus V"
+      ],
+      "reward": [],
+      "drop": [
+        "Quick Charge IV+",
+        "Charged Attack V",
+        "Overdrive Assassin V"
+      ]
+    }
+  },
+  {
+    "name": "Saga Grande: Happily Ever After",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [],
+      "reward": [],
+      "drop": [
+        "Damage Cap IV+",
+        "Autorevive V",
+        "Blight Resistance V"
+      ]
+    }
+  },
+  {
+    "name": "The Final Report",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [],
+      "reward": [],
+      "drop": [
+        "Attack Power V",
+        "Critical Hit Rate V",
+        "Stun Power V"
+      ]
+    }
+  },
+  {
+    "name": "Blazing Trial",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [
+        "Damage Cap V"
+      ],
+      "reward": [
+        "Combo Finisher V",
+        "Combo Booster V",
+        "Tyranny V"
+      ],
+      "drop": [
+        "Combo Booster V+",
+        "Combo Finisher V",
+        "Provoke V"
+      ],
+      "unlisted": [
+        "Damage Cap V+",
+        "Tyranny V+",
+        "Combo Finisher V+",
+        "Firm Stance V"
+      ]
+    }
+  },
+  {
+    "name": "Grounded Trial",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [
+        "Improved Guard V"
+      ],
+      "reward": [
+        "Guard Payback V",
+        "Guard Payback V+",
+        "Health V"
+      ],
+      "drop": [
+        "Health V+",
+        "Aegis V",
+        "Guts V"
+      ],
+      "unlisted": [
+        "Aegis V+"
+      ]
+    }
+  },
+  {
+    "name": "Stormy Trial",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [
+        "Improved Dodge"
+      ],
+      "reward": [
+        "Dodge Payback V",
+        "Dodge Payback V+",
+        "Improved Dodge"
+      ],
+      "drop": [
+        "Dodge Payback V+",
+        "Improved Healing V",
+        "Autorevive V"
+      ],
+      "unlisted": [
+        "Improved Dodge+",
+        "Nimble Defense V+"
+      ]
+    }
+  },
+  {
+    "name": "Frigid Trial",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [
+        "Quick Cooldown V"
+      ],
+      "reward": [
+        "Insult to Injury V",
+        "Insult to Injury V+",
+        "Steel Nerves V"
+      ],
+      "drop": [
+        "Steel Nerves V+",
+        "Cascade V",
+        "Quick Cooldown V"
+      ]
+    }
+  },
+  {
+    "name": "Worst Vacation Ever",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [
+        "Critical Hit Rate V+"
+      ],
+      "reward": [
+        "Attack Power V",
+        "Critical Hit Rate V",
+        "Critical Damage V"
+      ],
+      "drop": [
+        "Critical Hit Rate V+",
+        "Drain V",
+        "Combo Booster V+"
+      ]
+    }
+  },
+  {
+    "name": "Trade Barriers",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [
+        "Stun Power V+"
+      ],
+      "reward": [
+        "Stun Power V",
+        "Charged Attack V",
+        "Guard Payback V"
+      ],
+      "drop": [
+        "Stun Power V+",
+        "Precise Resilience V+",
+        "Guard Payback V"
+      ],
+      "unlisted": [
+        "Linked Together V+"
+      ]
+    }
+  },
+  {
+    "name": "Melting Pot of Hostility",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [
+        "Attack Power V+"
+      ],
+      "reward": [
+        "Concentrated Fire V",
+        "Tyranny V",
+        "Skilled Assault V"
+      ],
+      "drop": [
+        "Skilled Assault V+",
+        "Concentrated Fire V+",
+        "Damage Cap V"
+      ],
+      "unlisted": [
+        "Damage Cap V+",
+        "Tyranny V+"
+      ]
+    }
+  },
+  {
+    "name": "Banquet of Ice and Corpses",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [
+        "Linked Together V+"
+      ],
+      "reward": [
+        "Linked Together V",
+        "Linked Together V+",
+        "Health V"
+      ],
+      "drop": [
+        "Linked Together V+",
+        "Aegis V+",
+        "Potion Hoarder V"
+      ]
+    }
+  },
+  {
+    "name": "For a Freer Folca",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [
+        "Health V+"
+      ],
+      "reward": [
+        "Stamina V",
+        "Overdrive Assassin V",
+        "Dodge Payback V"
+      ],
+      "drop": [
+        "Nimble Defense V+",
+        "Stamina V",
+        "Dodge Payback V+"
+      ],
+      "unlisted": [
+        "Stamina V+"
+      ]
+    }
+  },
+  {
+    "name": "A Quest of Fire and Earth",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [],
+      "reward": [
+        "Combo Finisher V",
+        "Combo Booster V",
+        "Tyranny V"
+      ],
+      "drop": [
+        "Guard Payback V+",
+        "Garrison V+",
+        "Tyranny V"
+      ],
+      "unlisted": [
+        "Tyranny V+",
+        "Aegis V+"
+      ]
+    }
+  },
+  {
+    "name": "A Quest of Frost and Storm",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [],
+      "reward": [
+        "Injury to Insult V+",
+        "Injury to Insult V",
+        "Improved Dodge"
+      ],
+      "drop": [
+        "Injury to Insult V+",
+        "Nimble Defense V+",
+        "Nimble Onslaught V"
+      ],
+      "unlisted": [
+        "Improved Dodge+"
+      ]
+    }
+  },
+  {
+    "name": "The Wolf and the Veil",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [
+        "Combo Booster V+"
+      ],
+      "reward": [
+        "Critical Hit Rate V",
+        "Stun Power V",
+        "Critical Damage V"
+      ],
+      "drop": [
+        "Critical Damage V+",
+        "Improved Guard V+",
+        "Regen V"
+      ],
+      "unlisted": [
+        "Exploiter V+"
+      ]
+    }
+  },
+  {
+    "name": "Calamity Incarnate",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [
+        "Enmity V+"
+      ],
+      "reward": [
+        "Enmity V",
+        "Dodge Payback V",
+        "Life on the Line V"
+      ],
+      "drop": [
+        "Enmity V+",
+        "Improved Dodge+",
+        "Life on the Line V"
+      ]
+    }
+  },
+  {
+    "name": "As Fierce as the Silver Wolf",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [
+        "Break Assassin V+"
+      ],
+      "reward": [
+        "Critical Hit Rate V",
+        "Tyranny V",
+        "Skilled Assault V"
+      ],
+      "drop": [
+        "Critical Hit Rate V+",
+        "Skilled Assault V+",
+        "Cascade V"
+      ]
+    }
+  },
+  {
+    "name": "Memories of Fire",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [
+        "Lucky Charge V+"
+      ],
+      "reward": [
+        "Charged Attack V",
+        "Linked Together V",
+        "Lucky Charge V"
+      ],
+      "drop": [
+        "Charged Attack V+",
+        "Lucky Charge V+",
+        "Linked Together V+"
+      ]
+    }
+  },
+  {
+    "name": "Thunderbolts and Lightning",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [
+        "Aegis V"
+      ],
+      "reward": [
+        "Health V",
+        "Garrison V",
+        "Aegis V"
+      ],
+      "drop": [
+        "Health V+",
+        "Aegis V+",
+        "Slow Resistance V"
+      ],
+      "unlisted": [
+        "Improved Guard+",
+        "Garrison V+"
+      ]
+    }
+  },
+  {
+    "name": "Into the Abyss",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [
+        "Skilled Assault V"
+      ],
+      "reward": [
+        "Attack Power V",
+        "Critical Hit Rate V",
+        "Stun Power V"
+      ],
+      "drop": [
+        "Attack Power V+",
+        "Charged Attack V+",
+        "Paralysis Resistance V"
+      ],
+      "unlisted": [
+        "Critical Hit Rate V+"
+      ]
+    }
+  },
+  {
+    "name": "The Automagod Strikes Back",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [
+        "Quick Charge V+"
+      ],
+      "reward": [
+        "Enmity V",
+        "Charged Attack V",
+        "Skilled Assault V"
+      ],
+      "drop": [
+        "Skilled Assault V+",
+        "Garrison V+",
+        "Quick Charge V+"
+      ]
+    }
+  },
+  {
+    "name": "The Tale of Bahamut's Rage",
+    "difficulty": "Proud",
+    "sigils": {
+      "firstClear": [
+        "Tyranny V+"
+      ],
+      "reward": [
+        "Stamina V",
+        "Combo Booster V",
+        "Tyranny V"
+      ],
+      "drop": [
+        "Damage Cap V+",
+        "Tyranny V+",
+        "Stamina V+"
+      ]
+    }
+  }
+]
