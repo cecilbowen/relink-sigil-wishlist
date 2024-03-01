@@ -7,8 +7,10 @@
         "Rupie Tycoon I"
       ],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "401310"
   },
   {
     "name": "Worried About Papa",
@@ -22,8 +24,14 @@
         "Linked Together I",
         "Stun Power I",
         "Charged Attack I"
+      ],
+      "unlisted": [
+        "Sandtomb Resistance I",
+        "Potion Hoarder I",
+        "Steady Focus I"
       ]
-    }
+    },
+    "id": "401303"
   },
   {
     "name": "Protect Our Woods",
@@ -33,8 +41,10 @@
         "Attack Power I"
       ],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "401315"
   },
   {
     "name": "Fort Fumigation",
@@ -44,8 +54,10 @@
         "Fast Learner I"
       ],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "401305"
   },
   {
     "name": "Tomorrow's Prayers",
@@ -55,8 +67,10 @@
         "Health I"
       ],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "401316"
   },
   {
     "name": "Defeat—*wheeze*—Goblin Boss",
@@ -70,8 +84,16 @@
         "Improved Guard I",
         "Dizzy Resistance I",
         "Guts I"
+      ],
+      "unlisted": [
+        "Health I",
+        "Break Assassin I",
+        "Uplift I",
+        "Stamina I",
+        "Attack Down Resistance I"
       ]
-    }
+    },
+    "id": "401306"
   },
   {
     "name": "Make Our Skies Safe Again",
@@ -81,8 +103,10 @@
         "Critical Hit Rate I"
       ],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "401301"
   },
   {
     "name": "Guard Our Hometown",
@@ -92,8 +116,10 @@
         "Potion Hoarder I"
       ],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "401311"
   },
   {
     "name": "Spare the Rod, Spoil the Valley",
@@ -103,8 +129,10 @@
         "Low Profile II"
       ],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "402314"
   },
   {
     "name": "Eye Have a Problem",
@@ -118,8 +146,18 @@
         "Critical Hit Rate II",
         "Critical Damage II",
         "Overdrive Assassin II"
+      ],
+      "unlisted": [
+        "Critical Hit Rate I",
+        "Break Assassin I",
+        "Throw I",
+        "Glaciate Resistance II",
+        "Lucky Charge II",
+        "Break Assassin II",
+        "Throw II"
       ]
-    }
+    },
+    "id": "402315"
   },
   {
     "name": "Only You Can Prevent Forest Flyers",
@@ -133,8 +171,17 @@
         "Exploiter II",
         "Nimble Onslaught II",
         "Low Profile II"
+      ],
+      "unlisted": [
+        "Exploiter I",
+        "Low Profile I",
+        "Dodge Payback I",
+        "Dodge Payback II",
+        "Firm Stance II",
+        "Nimble Defense II"
       ]
-    }
+    },
+    "id": "402316"
   },
   {
     "name": "Saga Grande: The Beginning",
@@ -148,8 +195,17 @@
         "Stamina II",
         "Dodge Payback II",
         "Health II"
+      ],
+      "unlisted": [
+        "Improved Healing II",
+        "Firm Stance II",
+        "Nimble Defense II",
+        "Nimble Onslaught II",
+        "Stamina I",
+        "Nimble Defense I"
       ]
-    }
+    },
+    "id": "402313"
   },
   {
     "name": "Rilla Done Did It",
@@ -159,8 +215,10 @@
         "Attack Power II"
       ],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "402301"
   },
   {
     "name": "Golemology 101: Desert Golems",
@@ -174,8 +232,21 @@
         "Health II",
         "Steel Nerves II",
         "Precise Wrath II"
+      ],
+      "unlisted": [
+        "Garrison I",
+        "Improved Guard I",
+        "Steel Nerves I",
+        "Garrison II",
+        "Aegis II",
+        "Improved Guard II",
+        "Provoke II",
+        "Guts II",
+        "Guard Payback II",
+        "Precise Resilience II"
       ]
-    }
+    },
+    "id": "402302"
   },
   {
     "name": "Dagger Really Done Did It",
@@ -185,8 +256,10 @@
         "Regen II"
       ],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "402310"
   },
   {
     "name": "Sweep the Volcano",
@@ -196,8 +269,10 @@
         "Provoke II"
       ],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "402308"
   },
   {
     "name": "On the Front Lines",
@@ -207,8 +282,10 @@
         "Linked Together II"
       ],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "402304"
   },
   {
     "name": "I See a Bloody Vision",
@@ -222,8 +299,17 @@
         "Drain III",
         "Injury to Insult III",
         "Slow Resistance III"
+      ],
+      "unlisted": [
+        "Enmity II",
+        "Injury to Insult II",
+        "Drain II",
+        "Enmity III",
+        "Attack Power III",
+        "Life on the Line III"
       ]
-    }
+    },
+    "id": "402306"
   },
   {
     "name": "The Saga Continues: Ice",
@@ -237,8 +323,19 @@
         "Skilled Assault III",
         "Attack Power III",
         "Enmity III"
+      ],
+      "unlisted": [
+        "Glaciate Resistance III",
+        "Quick Cooldown III",
+        "Cascade III",
+        "Linked Together III",
+        "Held Under Resistance III",
+        "Skilled Assault II",
+        "Cascade II",
+        "Linked Together II"
       ]
-    }
+    },
+    "id": "402312"
   },
   {
     "name": "The Saga Continues: Fire",
@@ -252,17 +349,30 @@
         "Quick Charge III",
         "Charged Attack III",
         "Linked Together III"
+      ],
+      "unlisted": [
+        "Burn Resistance III",
+        "Overdrive Assassin III",
+        "Break Assassin III",
+        "Steady Focus III",
+        "Uplift III",
+        "Lucky Charge III",
+        "Quick Charge II",
+        "Uplift II"
       ]
-    }
+    },
+    "id": "402309"
   },
   {
-    "name": "Rules the Skies",
+    "name": "Rule the Skies",
     "difficulty": "Hard",
     "sigils": {
       "firstClear": [],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "403301"
   },
   {
     "name": "Unthinning the Troops",
@@ -270,8 +380,10 @@
     "sigils": {
       "firstClear": [],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "403303"
   },
   {
     "name": "The Juice of Jealousy",
@@ -281,8 +393,10 @@
         "Fast Learner III"
       ],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "403302"
   },
   {
     "name": "Protect the Rep",
@@ -296,8 +410,17 @@
         "Stun Power IV",
         "Charged Attack IV",
         "Potion Hoarder IV"
+      ],
+      "unlisted": [
+        "Stun Power III",
+        "Charged Attack III",
+        "Steady Focus III",
+        "Sandtomb Resistance IV",
+        "Linked Together IV",
+        "Steady Focus IV"
       ]
-    }
+    },
+    "id": "403307"
   },
   {
     "name": "Delts of Our Lives",
@@ -311,8 +434,19 @@
         "Improved Guard IV",
         "Health IV",
         "Stamina IV"
+      ],
+      "unlisted": [
+        "Health III",
+        "Guts III",
+        "Stamina III",
+        "Break Assassin IV",
+        "Guts IV",
+        "Dizzy Resistance IV",
+        "Uplift IV",
+        "Attack Down Resistance IV"
       ]
-    }
+    },
+    "id": "403201"
   },
   {
     "name": "Collector's Digest",
@@ -324,8 +458,14 @@
         "Fast Learner III",
         "Rupie Tycoon III"
       ],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": [
+        "Fast Learner II",
+        "Rupie Tycoon II",
+        "Potion Hoarder II"
+      ]
+    },
+    "id": "403308"
   },
   {
     "name": "I See a Flaming Vision",
@@ -333,8 +473,10 @@
     "sigils": {
       "firstClear": [],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "403311"
   },
   {
     "name": "Hide and Chic",
@@ -348,8 +490,16 @@
         "Attack Power IV",
         "Linked Together IV",
         "Glaciate Resistance IV"
+      ],
+      "unlisted": [
+        "Attack Power III",
+        "Linked Together III",
+        "Aegis III",
+        "Aegis IV",
+        "Held Under Resistance IV"
       ]
-    }
+    },
+    "id": "403202"
   },
   {
     "name": "Drumsticks au Griffin",
@@ -363,8 +513,17 @@
         "Exploiter IV",
         "Firm Stance IV",
         "Nimble Onslaught IV"
+      ],
+      "unlisted": [
+        "Exploiter III",
+        "Low Profile III",
+        "Dodge Payback III",
+        "Low Profile IV",
+        "Dodge Payback IV",
+        "Nimble Defense IV"
       ]
-    }
+    },
+    "id": "403312"
   },
   {
     "name": "Looming Tower, Leering Eye",
@@ -378,8 +537,18 @@
         "Critical Hit Rate IV",
         "Lucky Charge IV",
         "Throw IV"
+      ],
+      "unlisted": [
+        "Critical Hit Rate III",
+        "Break Assassin III",
+        "Throw III",
+        "Glaciate Resistance IV",
+        "Critical Damage IV",
+        "Overdrive Assassin IV",
+        "Break Assassin IV"
       ]
-    }
+    },
+    "id": "403309"
   },
   {
     "name": "Wings of Antiquity",
@@ -393,8 +562,17 @@
         "Stamina IV",
         "Concentrated Fire IV",
         "Skilled Assault IV"
+      ],
+      "unlisted": [
+        "Quick Cooldown III",
+        "Skilled Assault III",
+        "Concentrated Fire III",
+        "Attack Power IV",
+        "Quick Cooldown IV",
+        "Cascade IV"
       ]
-    }
+    },
+    "id": "404101"
   },
   {
     "name": "Seeds of Trouble",
@@ -402,8 +580,10 @@
     "sigils": {
       "firstClear": [],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "404315"
   },
   {
     "name": "A Bone to Peak",
@@ -417,8 +597,17 @@
         "Improved Healing IV",
         "Precise Resilience IV",
         "Regen IV"
+      ],
+      "unlisted": [
+        "Regen III",
+        "Improved Healing III",
+        "Precise Resilience III",
+        "Glaciate Resistance IV",
+        "Drain IV",
+        "Potion Hoarder IV"
       ]
-    }
+    },
+    "id": "404316"
   },
   {
     "name": "Absolutely No Trespassers!",
@@ -428,8 +617,10 @@
         "Nimble Onslaught III"
       ],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "404317"
   },
   {
     "name": "Dark Refrain",
@@ -440,8 +631,10 @@
         "Blight Resistance II",
         "Blight Resistance III"
       ],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "404204"
   },
   {
     "name": "Golemology 102: Volcanic Golems",
@@ -455,8 +648,21 @@
         "Garrison IV",
         "Guard Payback IV",
         "Provoke IV"
+      ],
+      "unlisted": [
+        "Garrison III",
+        "Improved Guard III",
+        "Steel Nerves III",
+        "Health IV",
+        "Aegis IV",
+        "Improved Guard IV",
+        "Guts IV",
+        "Precise Resilience IV",
+        "Steel Nerves IV",
+        "Precise Wrath IV"
       ]
-    }
+    },
+    "id": "404313"
   },
   {
     "name": "No One Likes Leftovers",
@@ -470,8 +676,18 @@
         "Quick Cooldown IV",
         "Charged Attack IV",
         "Paralysis Resistance IV"
+      ],
+      "unlisted": [
+        "Concentrated Fire III",
+        "Overdrive Assassin III",
+        "Quick Charge III",
+        "Concentrated Fire IV",
+        "Overdrive Assassin IV",
+        "Throw IV",
+        "Quick Charge IV"
       ]
-    }
+    },
+    "id": "404309"
   },
   {
     "name": "I See a Deathly Vision",
@@ -485,8 +701,17 @@
         "Enmity IV",
         "Life on the Line IV",
         "Drain IV"
+      ],
+      "unlisted": [
+        "Enmity III",
+        "Injury to Insult III",
+        "Drain III",
+        "Slow Resistance IV",
+        "Injury to Insult IV",
+        "Attack Power IV"
       ]
-    }
+    },
+    "id": "404310"
   },
   {
     "name": "The Next Hot Topic",
@@ -500,8 +725,18 @@
         "Combo Finisher IV",
         "Tyranny IV",
         "Quick Charge IV"
+      ],
+      "unlisted": [
+        "Combo Finisher III",
+        "Provoke III",
+        "Guard Payback III",
+        "Burn Resistance IV",
+        "Provoke IV",
+        "Combo Booster IV",
+        "Guard Payback IV"
       ]
-    }
+    },
+    "id": "404311"
   },
   {
     "name": "License to Thrill",
@@ -515,8 +750,21 @@
         "Health V",
         "Stamina III+",
         "Nimble Defense V"
+      ],
+      "unlisted": [
+        "Stamina IV",
+        "Nimble Defense IV",
+        "Improved Healing V",
+        "Stamina V",
+        "Firm Stance V",
+        "Improved Dodge",
+        "Dodge Payback V",
+        "Nimble Onslaught V",
+        "Health III+",
+        "Dodge Payback III+"
       ]
-    }
+    },
+    "id": "405101"
   },
   {
     "name": "Assault Formation!",
@@ -524,8 +772,10 @@
     "sigils": {
       "firstClear": [],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "405309"
   },
   {
     "name": "Great Goblins of Fire",
@@ -533,8 +783,10 @@
     "sigils": {
       "firstClear": [],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "405310"
   },
   {
     "name": "Shedding Light on the Pillar",
@@ -542,8 +794,10 @@
     "sigils": {
       "firstClear": [],
       "reward": [],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": []
+    },
+    "id": "405311"
   },
   {
     "name": "Saga Illustrated: The Beginning",
@@ -557,8 +811,23 @@
         "Attack Power V",
         "Skilled Assault III+",
         "Cascade V"
+      ],
+      "unlisted": [
+        "Skilled Assault IV",
+        "Cascade IV",
+        "Linked Together IV",
+        "Glaciate Resistance V",
+        "Quick Cooldown V",
+        "Skilled Assault V",
+        "Enmity V",
+        "Linked Together V",
+        "Held Under Resistance V",
+        "Attack Power III+",
+        "Enmity III+",
+        "Linked Together III+"
       ]
-    }
+    },
+    "id": "405201"
   },
   {
     "name": "General Investigation: Gallanza",
@@ -572,8 +841,26 @@
         "Critical Hit Rate V",
         "Critical Damage III+",
         "Lucky Charge V"
+      ],
+      "unlisted": [
+        "Critical Hit Rate IV",
+        "Critical Damage IV",
+        "Life on the Line IV",
+        "Dizzy Resistance V",
+        "Critical Damage V",
+        "Provoke V",
+        "Life on the Line V",
+        "Garrison V",
+        "Tyranny V",
+        "Throw V",
+        "Critical Hit Rate III+",
+        "Lucky Charge III+",
+        "Life on the Line III+",
+        "Tyranny III+",
+        "Throw III+"
       ]
-    }
+    },
+    "id": "405206"
   },
   {
     "name": "General Investigation: Maglielle",
@@ -587,8 +874,22 @@
         "Stun Power V",
         "Improved Guard V",
         "Combo Booster V"
+      ],
+      "unlisted": [
+        "Exploiter IV",
+        "Improved Guard IV",
+        "Combo Booster IV",
+        "Exploiter V",
+        "Potion Hoarder V",
+        "Concentrated Fire V",
+        "Regen V",
+        "Exploiter III+",
+        "Combo Booster III+",
+        "Concentrated Fire III+",
+        "Stun Power III+"
       ]
-    }
+    },
+    "id": "405207"
   },
   {
     "name": "Learning from the Past",
@@ -602,8 +903,16 @@
         "Aegis V",
         "Concentrated Fire V",
         "Throw V"
+      ],
+      "unlisted": [
+        "Concentrated Fire IV",
+        "Aegis IV",
+        "Low Profile V",
+        "Concentrated Fire III+",
+        "Throw III+"
       ]
-    }
+    },
+    "id": "405202"
   },
   {
     "name": "Saga Illustrated: Inferno",
@@ -617,8 +926,25 @@
         "Uplift V",
         "Charged Attack III+",
         "Quick Charge V"
+      ],
+      "unlisted": [
+        "Quick Charge IV",
+        "Uplift IV",
+        "Burn Resistance V",
+        "Charged Attack V",
+        "Overdrive Assassin V",
+        "Break Assassin V",
+        "Steady Focus V",
+        "Linked Together V",
+        "Lucky Charge V",
+        "Quick Charge III+",
+        "Overdrive Assassin III+",
+        "Break Assassin III+",
+        "Linked Together III+",
+        "Lucky Charge III+"
       ]
-    }
+    },
+    "id": "405203"
   },
   {
     "name": "General Investigation: Id",
@@ -632,8 +958,24 @@
         "Damage Cap V",
         "Linked Together III+",
         "Guard Payback V"
+      ],
+      "unlisted": [
+        "Stun Power IV",
+        "Guard Payback IV",
+        "Precise Wrath IV",
+        "Uplift V",
+        "Stun Power V",
+        "Linked Together V",
+        "Dodge Payback V",
+        "Darkflame Resistance V",
+        "Precise Wrath V",
+        "Stun Power III+",
+        "Damage Cap III+",
+        "Guard Payback III+",
+        "Dodge Payback III+"
       ]
-    }
+    },
+    "id": "405208"
   },
   {
     "name": "Wings of Conflagration",
@@ -648,8 +990,21 @@
         "Tyranny V",
         "Combo Booster V",
         "Firm Stance V"
+      ],
+      "unlisted": [
+        "Combo Booster IV",
+        "Damage Cap IV",
+        "Firm Stance IV",
+        "Combo Finisher V",
+        "Provoke V",
+        "Damage Cap V",
+        "Combo Finisher III+",
+        "Tyranny III+",
+        "Combo Booster III+",
+        "Damage Cap III+"
       ]
-    }
+    },
+    "id": "405302"
   },
   {
     "name": "Wings of Upheaval",
@@ -663,8 +1018,22 @@
         "Garrison V",
         "Health V",
         "Glaciate Resistance V"
+      ],
+      "unlisted": [
+        "Precise Resilience IV",
+        "Aegis IV",
+        "Glaciate Resistance IV",
+        "Guts V",
+        "Guard Payback V",
+        "Precise Resilience V",
+        "Precise Wrath V",
+        "Aegis V",
+        "Held Under Resistance V",
+        "Guard Payback III+",
+        "Health III+"
       ]
-    }
+    },
+    "id": "405303"
   },
   {
     "name": "Wings of the Storm",
@@ -679,8 +1048,22 @@
         "Dodge Payback V",
         "Nimble Onslaught V",
         "Sandtomb Resistance V"
+      ],
+      "unlisted": [
+        "Nimble Defense IV",
+        "Nimble Onslaught IV",
+        "Sandtomb Resistance IV",
+        "Improved Dodge",
+        "Low Profile V",
+        "Nimble Defense V",
+        "Improved Healing V",
+        "Autorevive V",
+        "Potion Hoarder V",
+        "Dizzy Resistance V",
+        "Dodge Payback III+"
       ]
-    }
+    },
+    "id": "405304"
   },
   {
     "name": "Wings of Rime",
@@ -695,8 +1078,17 @@
         "Quick Cooldown V",
         "Injury to Insult V",
         "Burn Resistance V"
+      ],
+      "unlisted": [
+        "Steel Nerves IV",
+        "Cascade IV",
+        "Burn Resistance IV",
+        "Steel Nerves V",
+        "Cascade V",
+        "Injury to Insult III+"
       ]
-    }
+    },
+    "id": "405305"
   },
   {
     "name": "To Know the Unknowable",
@@ -710,8 +1102,21 @@
         "Regen V",
         "Damage Cap V",
         "Autorevive V"
+      ],
+      "unlisted": [
+        "Regen IV",
+        "Blight Resistance IV",
+        "Drain IV",
+        "Blight Resistance V",
+        "Drain V",
+        "Skill Sealed Resistance V",
+        "SBA Sealed Resistance V",
+        "Garrison V",
+        "Guts V",
+        "Damage Cap III+"
       ]
-    }
+    },
+    "id": "405205"
   },
   {
     "name": "Slimepede",
@@ -723,8 +1128,17 @@
         "Fast Learner V",
         "Rupie Tycoon V"
       ],
-      "drop": []
-    }
+      "drop": [],
+      "unlisted": [
+        "Rupie Tycoon III",
+        "Rupie Tycoon IV",
+        "Potion Hoarder III",
+        "Potion Hoarder IV",
+        "Fast Learner III",
+        "Fast Learner IV"
+      ]
+    },
+    "id": "406361"
   },
   {
     "name": "Rumble in the Desert",
@@ -738,8 +1152,20 @@
         "Stun Power V",
         "Steady Focus V",
         "Potion Hoarder V"
+      ],
+      "unlisted": [
+        "Sandtomb Resistance V",
+        "Stun Power IV",
+        "Charged Attack IV",
+        "Steady Focus IV",
+        "Linked Together V",
+        "Charged Attack V",
+        "Stun Power IV+",
+        "Linked Together IV+",
+        "Charged Attack IV+"
       ]
-    }
+    },
+    "id": "406359"
   },
   {
     "name": "Armor Is Best Served Cold",
@@ -753,8 +1179,19 @@
         "Attack Power V",
         "Linked Together V",
         "Aegis IV+"
+      ],
+      "unlisted": [
+        "Attack Power IV",
+        "Linked Together IV",
+        "Aegis IV",
+        "Glaciate Resistance V",
+        "Aegis V",
+        "Held Under Resistance V",
+        "Attack Power IV+",
+        "Linked Together IV+"
       ]
-    }
+    },
+    "id": "406365"
   },
   {
     "name": "A Heated Rivalry",
@@ -768,8 +1205,23 @@
         "Combo Finisher V",
         "Provoke V",
         "Guard Payback IV+"
+      ],
+      "unlisted": [
+        "Combo Finisher IV",
+        "Provoke IV",
+        "Guard Payback IV",
+        "Burn Resistance V",
+        "Tyranny V",
+        "Quick Charge V",
+        "Combo Booster V",
+        "Guard Payback V",
+        "Combo Finisher IV+",
+        "Tyranny IV+",
+        "Quick Charge IV+",
+        "Combo Booster IV+"
       ]
-    }
+    },
+    "id": "406366"
   },
   {
     "name": "Death, Taxes, and Goblins",
@@ -783,8 +1235,23 @@
         "Guts V",
         "Health V",
         "Stamina IV+"
+      ],
+      "unlisted": [
+        "Health IV",
+        "Guts IV",
+        "Stamina IV",
+        "Improved Guard V",
+        "Break Assassin V",
+        "Dizzy Resistance V",
+        "Uplift V",
+        "Stamina V",
+        "Attack Down Resistance V",
+        "Health IV+",
+        "Improved Guard IV+",
+        "Break Assassin IV+"
       ]
-    }
+    },
+    "id": "406357"
   },
   {
     "name": "Icy Eye on the Holy Prize",
@@ -798,8 +1265,24 @@
         "Overdrive Assassin V",
         "Break Assassin V",
         "Critical Hit Rate IV+"
+      ],
+      "unlisted": [
+        "Critical Hit Rate IV",
+        "Break Assassin IV",
+        "Throw IV",
+        "Critical Hit Rate V",
+        "Glaciate Resistance V",
+        "Critical Damage V",
+        "Lucky Charge V",
+        "Throw V",
+        "Critical Damage IV+",
+        "Lucky Charge IV+",
+        "Overdrive Assassin IV+",
+        "Break Assassin IV+",
+        "Throw IV+"
       ]
-    }
+    },
+    "id": "406358"
   },
   {
     "name": "Golemology 103: Forest Golems",
@@ -813,8 +1296,28 @@
         "Aegis V",
         "Improved Guard V",
         "Steel Nerves IV+"
+      ],
+      "unlisted": [
+        "Garrison IV",
+        "Improved Guard IV",
+        "Steel Nerves IV",
+        "Health V",
+        "Garrison V",
+        "Provoke V",
+        "Guts V",
+        "Guard Payback V",
+        "Precise Resilience V",
+        "Steel Nerves V",
+        "Precise Wrath V",
+        "Health IV+",
+        "Garrison IV+",
+        "Aegis IV+",
+        "Improved Guard IV+",
+        "Guard Payback IV+",
+        "Precise Resilience IV+"
       ]
-    }
+    },
+    "id": "406355"
   },
   {
     "name": "Hope in the Machine",
@@ -828,8 +1331,23 @@
         "Concentrated Fire V",
         "Quick Cooldown V",
         "Charged Attack IV+"
+      ],
+      "unlisted": [
+        "Concentrated Fire IV",
+        "Overdrive Assassin IV",
+        "Quick Charge IV",
+        "Charged Attack V",
+        "Overdrive Assassin V",
+        "Paralysis Resistance V",
+        "Throw V",
+        "Quick Charge V",
+        "Concentrated Fire IV+",
+        "Overdrive Assassin IV+",
+        "Throw IV+",
+        "Quick Charge IV+"
       ]
-    }
+    },
+    "id": "406325"
   },
   {
     "name": "A New Breed",
@@ -843,8 +1361,21 @@
         "Exploiter V",
         "Low Profile V",
         "Dodge Payback IV+"
+      ],
+      "unlisted": [
+        "Exploiter IV",
+        "Low Profile IV",
+        "Dodge Payback IV",
+        "Improved Dodge",
+        "Dodge Payback V",
+        "Firm Stance V",
+        "Nimble Defense V",
+        "Nimble Onslaught V",
+        "Exploiter IV+",
+        "Nimble Defense IV+"
       ]
-    }
+    },
+    "id": "406356"
   },
   {
     "name": "I See a Grim Vision",
@@ -858,8 +1389,21 @@
         "Enmity V",
         "Drain V",
         "Injury to Insult IV+"
+      ],
+      "unlisted": [
+        "Enmity IV",
+        "Injury to Insult IV",
+        "Drain IV",
+        "Slow Resistance V",
+        "Injury to Insult V",
+        "Attack Power V",
+        "Life on the Line V",
+        "Enmity IV+",
+        "Attack Power IV+",
+        "Life on the Line IV+"
       ]
-    }
+    },
+    "id": "406360"
   },
   {
     "name": "Throw a Smith a Bone",
@@ -873,8 +1417,18 @@
         "Improved Healing V",
         "Regen V",
         "Precise Resilience IV+"
+      ],
+      "unlisted": [
+        "Regen IV",
+        "Improved Healing IV",
+        "Precise Resilience IV",
+        "Glaciate Resistance V",
+        "Drain V",
+        "Potion Hoarder V",
+        "Precise Resilience V"
       ]
-    }
+    },
+    "id": "406364"
   },
   {
     "name": "Revenge of the Hordes",
@@ -886,8 +1440,23 @@
         "Health V",
         "Stamina V",
         "Guts V"
+      ],
+      "unlisted": [
+        "Health IV",
+        "Guts IV",
+        "Stamina IV",
+        "Improved Guard V",
+        "Break Assassin V",
+        "Dizzy Resistance V",
+        "Uplift V",
+        "Attack Down Resistance V",
+        "Health IV+",
+        "Improved Guard IV+",
+        "Break Assassin IV+",
+        "Stamina IV+"
       ]
-    }
+    },
+    "id": "406324"
   },
   {
     "name": "Serenity Upon the Mount",
@@ -899,8 +1468,24 @@
         "Critical Hit Rate V",
         "Overdrive Assassin V",
         "Break Assassin V"
+      ],
+      "unlisted": [
+        "Critical Hit Rate IV",
+        "Break Assassin IV",
+        "Throw IV",
+        "Glaciate Resistance V",
+        "Critical Damage V",
+        "Lucky Charge V",
+        "Throw V",
+        "Critical Hit Rate IV+",
+        "Critical Damage IV+",
+        "Lucky Charge IV+",
+        "Overdrive Assassin IV+",
+        "Break Assassin IV+",
+        "Throw IV+"
       ]
-    }
+    },
+    "id": "406354"
   },
   {
     "name": "Roost and Reign",
@@ -912,8 +1497,21 @@
         "Exploiter V",
         "Low Profile V",
         "Dodge Payback V"
+      ],
+      "unlisted": [
+        "Exploiter IV",
+        "Low Profile IV",
+        "Dodge Payback IV",
+        "Improved Dodge",
+        "Firm Stance V",
+        "Nimble Defense V",
+        "Nimble Onslaught V",
+        "Exploiter IV+",
+        "Dodge Payback IV+",
+        "Nimble Defense IV+"
       ]
-    }
+    },
+    "id": "406351"
   },
   {
     "name": "Boss Done Wants It Did",
@@ -927,8 +1525,28 @@
         "Aegis V",
         "Garrison V",
         "Steel Nerves V"
+      ],
+      "unlisted": [
+        "Garrison IV",
+        "Improved Guard IV",
+        "Steel Nerves IV",
+        "Health V",
+        "Improved Guard V",
+        "Provoke V",
+        "Guts V",
+        "Guard Payback V",
+        "Precise Resilience V",
+        "Precise Wrath V",
+        "Health IV+",
+        "Garrison IV+",
+        "Aegis IV+",
+        "Improved Guard IV+",
+        "Guard Payback IV+",
+        "Precise Resilience IV+",
+        "Steel Nerves IV+"
       ]
-    }
+    },
+    "id": "406352"
   },
   {
     "name": "Hallowed Be Thy Ground",
@@ -940,8 +1558,10 @@
         "Regen V",
         "Drain V",
         "Attack Power V"
-      ]
-    }
+      ],
+      "unlisted": []
+    },
+    "id": "406327"
   },
   {
     "name": "Know Your Enemy",
@@ -955,8 +1575,23 @@
         "Quick Charge V",
         "Quick Cooldown V",
         "Concentrated Fire V"
+      ],
+      "unlisted": [
+        "Concentrated Fire IV",
+        "Overdrive Assassin IV",
+        "Quick Charge IV",
+        "Charged Attack V",
+        "Overdrive Assassin V",
+        "Paralysis Resistance V",
+        "Throw V",
+        "Concentrated Fire IV+",
+        "Charged Attack IV+",
+        "Overdrive Assassin IV+",
+        "Throw IV+",
+        "Quick Charge IV+"
       ]
-    }
+    },
+    "id": "406353"
   },
   {
     "name": "I See a Chromatic Vision",
@@ -970,8 +1605,28 @@
         "Linked Together V",
         "Aegis V",
         "Combo Booster V"
+      ],
+      "unlisted": [
+        "Stun Power IV",
+        "Attack Power IV",
+        "Aegis IV",
+        "Stun Power V",
+        "Potion Hoarder V",
+        "Attack Power V",
+        "Tyranny V",
+        "Combo Finisher V",
+        "Quick Charge V",
+        "Stun Power IV+",
+        "Linked Together IV+",
+        "Attack Power IV+",
+        "Aegis IV+",
+        "Combo Booster IV+",
+        "Tyranny IV+",
+        "Combo Finisher IV+",
+        "Quick Charge IV+"
       ]
-    }
+    },
+    "id": "406323"
   },
   {
     "name": "The Saga Continues: Wind",
@@ -983,8 +1638,23 @@
         "Stamina IV+",
         "Dodge Payback V",
         "Improved Dodge"
+      ],
+      "unlisted": [
+        "Stamina IV",
+        "Dodge Payback IV",
+        "Nimble Defense IV",
+        "Health V",
+        "Improved Healing V",
+        "Stamina V",
+        "Firm Stance V",
+        "Nimble Defense V",
+        "Nimble Onslaught V",
+        "Health IV+",
+        "Dodge Payback IV+",
+        "Nimble Defense IV+"
       ]
-    }
+    },
+    "id": "406331"
   },
   {
     "name": "Saga Illustrated: Crystal",
@@ -996,8 +1666,23 @@
         "Skilled Assault IV+",
         "Cascade V",
         "Quick Cooldown V"
+      ],
+      "unlisted": [
+        "Skilled Assault IV",
+        "Cascade IV",
+        "Linked Together IV",
+        "Attack Power V",
+        "Glaciate Resistance V",
+        "Skilled Assault V",
+        "Enmity V",
+        "Linked Together V",
+        "Held Under Resistance V",
+        "Attack Power IV+",
+        "Enmity IV+",
+        "Linked Together IV+"
       ]
-    }
+    },
+    "id": "406332"
   },
   {
     "name": "Id Bears Repeating",
@@ -1011,8 +1696,24 @@
         "Linked Together IV+",
         "Uplift V",
         "Precise Wrath V"
+      ],
+      "unlisted": [
+        "Stun Power IV",
+        "Guard Payback IV",
+        "Precise Wrath IV",
+        "Stun Power V",
+        "Linked Together V",
+        "Damage Cap V",
+        "Guard Payback V",
+        "Dodge Payback V",
+        "Darkflame Resistance V",
+        "Stun Power IV+",
+        "Damage Cap IV+",
+        "Guard Payback IV+",
+        "Dodge Payback IV+"
       ]
-    }
+    },
+    "id": "406337"
   },
   {
     "name": "The Saga Continues: Silver",
@@ -1026,8 +1727,27 @@
         "Critical Damage IV+",
         "Life on the Line V",
         "Tyranny V"
+      ],
+      "unlisted": [
+        "Critical Hit Rate IV",
+        "Critical Damage IV",
+        "Life on the Line IV",
+        "Critical Hit Rate V",
+        "Dizzy Resistance V",
+        "Critical Damage V",
+        "Lucky Charge V",
+        "Provoke V",
+        "Garrison V",
+        "Throw V",
+        "Critical Hit Rate IV+",
+        "Lucky Charge IV+",
+        "Life on the Line IV+",
+        "Garrison IV+",
+        "Tyranny IV+",
+        "Throw IV+"
       ]
-    }
+    },
+    "id": "406334"
   },
   {
     "name": "Saga Illustrated: Veil",
@@ -1041,8 +1761,23 @@
         "Combo Booster IV+",
         "Improved Guard V",
         "Regen V"
+      ],
+      "unlisted": [
+        "Exploiter IV",
+        "Improved Guard IV",
+        "Combo Booster IV",
+        "Exploiter V",
+        "Potion Hoarder V",
+        "Combo Booster V",
+        "Concentrated Fire V",
+        "Stun Power V",
+        "Exploiter IV+",
+        "Improved Guard IV+",
+        "Concentrated Fire IV+",
+        "Stun Power IV+"
       ]
-    }
+    },
+    "id": "406335"
   },
   {
     "name": "The Saga Continues: Earth",
@@ -1056,8 +1791,17 @@
         "Concentrated Fire IV+",
         "Aegis V",
         "Low Profile V"
+      ],
+      "unlisted": [
+        "Concentrated Fire IV",
+        "Aegis IV",
+        "Concentrated Fire V",
+        "Throw V",
+        "Throw IV+",
+        "Aegis IV+"
       ]
-    }
+    },
+    "id": "406330"
   },
   {
     "name": "Saga Illustrated: Hellfire",
@@ -1071,8 +1815,25 @@
         "Quick Charge IV+",
         "Charged Attack V",
         "Overdrive Assassin V"
+      ],
+      "unlisted": [
+        "Quick Charge IV",
+        "Uplift IV",
+        "Burn Resistance V",
+        "Quick Charge V",
+        "Break Assassin V",
+        "Steady Focus V",
+        "Uplift V",
+        "Linked Together V",
+        "Lucky Charge V",
+        "Charged Attack IV+",
+        "Overdrive Assassin IV+",
+        "Break Assassin IV+",
+        "Linked Together IV+",
+        "Lucky Charge IV+"
       ]
-    }
+    },
+    "id": "406333"
   },
   {
     "name": "Saga Grande: Happily Ever After",
@@ -1084,8 +1845,22 @@
         "Damage Cap IV+",
         "Autorevive V",
         "Blight Resistance V"
+      ],
+      "unlisted": [
+        "Regen IV",
+        "Blight Resistance IV",
+        "Drain IV",
+        "Regen V",
+        "Drain V",
+        "Damage Cap V",
+        "Skill Sealed Resistance V",
+        "SBA Sealed Resistance V",
+        "Garrison V",
+        "Guts V",
+        "Garrison IV+"
       ]
-    }
+    },
+    "id": "406338"
   },
   {
     "name": "The Final Report",
@@ -1097,8 +1872,22 @@
         "Attack Power V",
         "Critical Hit Rate V",
         "Stun Power V"
+      ],
+      "unlisted": [
+        "Linked Together V",
+        "Critical Damage V",
+        "Exploiter V",
+        "Darkflame Resistance V",
+        "Uplift V",
+        "Attack Power V+",
+        "Critical Hit Rate V+",
+        "Stun Power V+",
+        "Linked Together V+",
+        "Critical Damage V+",
+        "Exploiter V+"
       ]
-    }
+    },
+    "id": "407101"
   },
   {
     "name": "Blazing Trial",
@@ -1121,9 +1910,11 @@
         "Damage Cap V+",
         "Tyranny V+",
         "Combo Finisher V+",
-        "Firm Stance V"
+        "Firm Stance V",
+        "Damage Cap V"
       ]
-    }
+    },
+    "id": "407301"
   },
   {
     "name": "Grounded Trial",
@@ -1143,9 +1934,17 @@
         "Guts V"
       ],
       "unlisted": [
-        "Aegis V+"
+        "Aegis V+",
+        "Garrison V",
+        "Precise Resilience V",
+        "Precise Wrath V",
+        "Glaciate Resistance V",
+        "Held Under Resistance V",
+        "Garrison V+",
+        "Precise Resilience V+"
       ]
-    }
+    },
+    "id": "407302"
   },
   {
     "name": "Stormy Trial",
@@ -1166,9 +1965,16 @@
       ],
       "unlisted": [
         "Improved Dodge+",
-        "Nimble Defense V+"
+        "Nimble Defense V+",
+        "Nimble Onslaught V",
+        "Low Profile V",
+        "Nimble Defense V",
+        "Potion Hoarder V",
+        "Sandtomb Resistance V",
+        "Dizzy Resistance V"
       ]
-    }
+    },
+    "id": "407303"
   },
   {
     "name": "Frigid Trial",
@@ -1186,8 +1992,14 @@
         "Steel Nerves V+",
         "Cascade V",
         "Quick Cooldown V"
+      ],
+      "unlisted": [
+        "Burn Resistance V",
+        "Injury to Insult V",
+        "Injury to Insult V+"
       ]
-    }
+    },
+    "id": "407304"
   },
   {
     "name": "Worst Vacation Ever",
@@ -1205,8 +2017,18 @@
         "Critical Hit Rate V+",
         "Drain V",
         "Combo Booster V+"
+      ],
+      "unlisted": [
+        "Injury to Insult V",
+        "Cascade V",
+        "Combo Booster V",
+        "Low Profile V",
+        "Attack Power V+",
+        "Injury to Insult V+",
+        "Critical Damage V+"
       ]
-    }
+    },
+    "id": "407305"
   },
   {
     "name": "Trade Barriers",
@@ -1226,9 +2048,21 @@
         "Guard Payback V"
       ],
       "unlisted": [
-        "Linked Together V+"
+        "Linked Together V+",
+        "Improved Guard V",
+        "Precise Resilience V",
+        "Precise Wrath V",
+        "Garrison V",
+        "Steady Focus V",
+        "Steel Nerves V",
+        "Improved Guard V+",
+        "Guard Payback V+",
+        "Garrison V+",
+        "Charged Attack V+",
+        "Steel Nerves V+"
       ]
-    }
+    },
+    "id": "407306"
   },
   {
     "name": "Melting Pot of Hostility",
@@ -1249,9 +2083,15 @@
       ],
       "unlisted": [
         "Damage Cap V+",
-        "Tyranny V+"
+        "Tyranny V+",
+        "Quick Charge V",
+        "Quick Cooldown V",
+        "Life on the Line V",
+        "Quick Charge V+",
+        "Life on the Line V+"
       ]
-    }
+    },
+    "id": "407307"
   },
   {
     "name": "Banquet of Ice and Corpses",
@@ -1269,8 +2109,16 @@
         "Linked Together V+",
         "Aegis V+",
         "Potion Hoarder V"
+      ],
+      "unlisted": [
+        "Aegis V",
+        "Regen V",
+        "Improved Healing V",
+        "Uplift V",
+        "Health V+"
       ]
-    }
+    },
+    "id": "407308"
   },
   {
     "name": "For a Freer Folca",
@@ -1290,9 +2138,16 @@
         "Dodge Payback V+"
       ],
       "unlisted": [
-        "Stamina V+"
+        "Stamina V+",
+        "Improved Dodge",
+        "Nimble Defense V",
+        "Nimble Onslaught V",
+        "Provoke V",
+        "Improved Dodge+",
+        "Overdrive Assassin V+"
       ]
-    }
+    },
+    "id": "407309"
   },
   {
     "name": "A Quest of Fire and Earth",
@@ -1311,9 +2166,22 @@
       ],
       "unlisted": [
         "Tyranny V+",
-        "Aegis V+"
+        "Aegis V+",
+        "Provoke V",
+        "Damage Cap V",
+        "Garrison V",
+        "Health V",
+        "Aegis V",
+        "Guard Payback V",
+        "Precise Resilience V",
+        "Combo Finisher V+",
+        "Combo Booster V+",
+        "Damage Cap V+",
+        "Health V+",
+        "Precise Resilience V+"
       ]
-    }
+    },
+    "id": "407310"
   },
   {
     "name": "A Quest of Frost and Storm",
@@ -1331,9 +2199,17 @@
         "Nimble Onslaught V"
       ],
       "unlisted": [
-        "Improved Dodge+"
+        "Improved Dodge+",
+        "Steel Nerves V",
+        "Quick Cooldown V",
+        "Cascade V",
+        "Low Profile V",
+        "Nimble Defense V",
+        "Autorevive V",
+        "Steel Nerves V+"
       ]
-    }
+    },
+    "id": "407311"
   },
   {
     "name": "The Wolf and the Veil",
@@ -1353,9 +2229,19 @@
         "Regen V"
       ],
       "unlisted": [
-        "Exploiter V+"
+        "Exploiter V+",
+        "Garrison V",
+        "Improved Guard V",
+        "Combo Booster V",
+        "Life on the Line V",
+        "Critical Hit Rate V+",
+        "Garrison V+",
+        "Combo Booster V+",
+        "Stun Power V+",
+        "Life on the Line V+"
       ]
-    }
+    },
+    "id": "407312"
   },
   {
     "name": "Calamity Incarnate",
@@ -1373,8 +2259,19 @@
         "Enmity V+",
         "Improved Dodge+",
         "Life on the Line V"
+      ],
+      "unlisted": [
+        "Improved Dodge",
+        "Nimble Defense V",
+        "Nimble Onslaught V",
+        "Blight Resistance V",
+        "Firm Stance V",
+        "Dodge Payback V+",
+        "Nimble Defense V+",
+        "Life on the Line V+"
       ]
-    }
+    },
+    "id": "407313"
   },
   {
     "name": "As Fierce as the Silver Wolf",
@@ -1392,8 +2289,15 @@
         "Critical Hit Rate V+",
         "Skilled Assault V+",
         "Cascade V"
+      ],
+      "unlisted": [
+        "Quick Cooldown V",
+        "Blight Resistance V",
+        "Glaciate Resistance V",
+        "Tyranny V+"
       ]
-    }
+    },
+    "id": "407314"
   },
   {
     "name": "Memories of Fire",
@@ -1411,8 +2315,16 @@
         "Charged Attack V+",
         "Lucky Charge V+",
         "Linked Together V+"
+      ],
+      "unlisted": [
+        "Quick Charge V",
+        "Steady Focus V",
+        "Blight Resistance V",
+        "Defense Down Resistance V",
+        "Quick Charge V+"
       ]
-    }
+    },
+    "id": "407315"
   },
   {
     "name": "Thunderbolts and Lightning",
@@ -1433,9 +2345,12 @@
       ],
       "unlisted": [
         "Improved Guard+",
-        "Garrison V+"
+        "Garrison V+",
+        "Drain V",
+        "Regen V"
       ]
-    }
+    },
+    "id": "407316"
   },
   {
     "name": "Into the Abyss",
@@ -1455,9 +2370,17 @@
         "Paralysis Resistance V"
       ],
       "unlisted": [
-        "Critical Hit Rate V+"
+        "Critical Hit Rate V+",
+        "Defense Down Resistance V",
+        "Charged Attack V",
+        "Quick Charge V",
+        "Skilled Assault V",
+        "Quick Charge V+",
+        "Stun Power V+",
+        "Skilled Assault V+"
       ]
-    }
+    },
+    "id": "407317"
   },
   {
     "name": "The Automagod Strikes Back",
@@ -1475,8 +2398,20 @@
         "Skilled Assault V+",
         "Garrison V+",
         "Quick Charge V+"
+      ],
+      "unlisted": [
+        "Quick Charge V",
+        "Garrison V",
+        "Quick Cooldown V",
+        "Autorevive V",
+        "Burn Resistance V",
+        "Glaciate Resistance V",
+        "Paralysis Resistance V",
+        "Charged Attack V+",
+        "Enmity V+"
       ]
-    }
+    },
+    "id": "407319"
   },
   {
     "name": "The Tale of Bahamut's Rage",
@@ -1494,7 +2429,20 @@
         "Damage Cap V+",
         "Tyranny V+",
         "Stamina V+"
+      ],
+      "unlisted": [
+        "Damage Cap V",
+        "Overdrive Assassin V",
+        "Break Assassin V",
+        "Regen V",
+        "Cascade V",
+        "Guts V",
+        "Slow Resistance V",
+        "Combo Booster V+",
+        "Overdrive Assassin V+",
+        "Break Assassin V+"
       ]
-    }
+    },
+    "id": "407318"
   }
 ]

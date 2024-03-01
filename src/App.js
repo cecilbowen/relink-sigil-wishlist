@@ -62,7 +62,9 @@ const App = () => {
         <small>
           <a target="_blank" rel="noopener noreferrer" href="https://github.com/cecilbowen/relink-sigil-wishlist">Source Code</a> |&nbsp;
           <a target="_blank" rel="noopener noreferrer" href="https://github.com/cecilbowen/relink-sigil-wishlist/issues/1">Suggest a Missing Sigil</a> |&nbsp;
-          <a target="_blank" rel="noopener noreferrer" href="https://redd.it/1aqtuno">Reference</a>&nbsp;
+          References:&nbsp;
+          <a target="_blank" rel="noopener noreferrer" href="https://redd.it/1aqtuno">reddit</a>&nbsp;
+          <a target="_blank" rel="noopener noreferrer" href="https://nenkai.github.io/relink-modding/resources/quest_drop_rates/">nenkai</a>&nbsp;
         </small>
       </div>
     </div>
