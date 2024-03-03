@@ -24,8 +24,8 @@ const App = () => {
   const [filterFirstClear, setFilterFirstClear] = useState(true);
   const [filterExclusive, setFilterExclusive] = useState(false);
   const [filterAllItems, setFilterAllItems] = useState(false);
-  const gotleWonderful = new Audio(`/sound/gotle_wonderful.wav`);
-  const gotleUnbelievable = new Audio(`/sound/gotle_unbelievable.wav`);
+  const gotleWonderful = new Audio(`${process.env.PUBLIC_URL}/sound/gotle_wonderful.wav`);
+  const gotleUnbelievable = new Audio(`${process.env.PUBLIC_URL}/sound/gotle_unbelievable.wav`);
 
   const debouncedOnChange = debounce(ev => {
     setSearchText(ev.target.value);
