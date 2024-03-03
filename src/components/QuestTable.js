@@ -84,7 +84,6 @@ const QuestTable = ({
         };
       });
       if (filters.sideQuests) { tempFilteredQuests.push(...sQuests); }
-      console.log("sigils", sQuests);
       tempFilteredQuests = tempFilteredQuests.filter(x => x.sigils.firstClear.length > 0 ||
         x.sigils.reward.length > 0 || x.sigils.drop.length > 0 || x.sigils?.unlisted?.length > 0 ||
         x.sigils?.npcSideQuest?.length > 0);
@@ -142,10 +141,13 @@ const QuestTable = ({
       }
 
       if (sigilArr.length > 0) {
-        const hasSigil = textFilter && textFilter.length > 0 &&
-          sigilArr.filter(y => y.toLowerCase().includes(textFilter.toLowerCase())).length > 0;
+        let hasSigil = false;
+        if (textFilter && textFilter.length > 0) {
+          hasSigil = sigilArr.filter(y => y.toLowerCase().includes(textFilter.toLowerCase())).length > 0;
+        }
 
         return <TextField id="outlined-basic" label={sigilCatMap[propName]} variant="outlined"
+          key={`tfield-${propName}`}
           size="small"
           sx={{
             display: "flex",
