@@ -56,7 +56,7 @@ const Difficulty = styled(Typography)`
 `;
 
 const QuestTableBeta = ({
-  quests, sideQuests, questInfo, textFilter, filters, showDropChance
+  quests, sideQuests, questInfo, textFilter, filters, showDropChance, blurExtras
 }) => {
   const [filteredQuests, setFilteredQuests] = useState([]);
   const pageOptions = [
@@ -161,6 +161,23 @@ const QuestTableBeta = ({
     lotCount++;
 
     const paperBackground = lotCount % 2 === 0 ? 'alt1' : 'alt2';
+    const isThereATextFilter = textFilter && textFilter.trim().length > 0;
+
+    if (isThereATextFilter) {
+      lot.drops.sort((a, b) => {
+        const includesSearchTextA = a.name.toLowerCase().includes(textFilter.toLowerCase());
+        const includesSearchTextB = b.name.toLowerCase().includes(textFilter.toLowerCase());
+
+        // drops with search criteria near top of lot
+        if (includesSearchTextA && !includesSearchTextB) {
+            return -1;
+        } else if (!includesSearchTextA && includesSearchTextB) {
+            return 1;
+        }
+
+        return 0; // og order
+      });
+    }
 
     return <Grid item xs="auto" key={`lot-${idx}`}
       alignItems="center"
@@ -178,12 +195,13 @@ const QuestTableBeta = ({
         const chance = drop.dropChance || 100;
         let focus = false;
         let opacity = 1;
+        let filter = '';
         let fontWeight = '';
-        const isThereATextFilter = textFilter && textFilter.trim().length > 0;
         if (!filters.exclusive && isThereATextFilter) {
           const hasSearchText = drop.name.toLowerCase().includes(textFilter.toLowerCase());
           if (!hasSearchText) {
-            opacity = 0.5;
+            opacity = 0.3;
+            filter = blurExtras ? 'blur(1.5px)' : filter;
           } else {
             focus = true;
             fontWeight = 'bold';
@@ -221,7 +239,7 @@ const QuestTableBeta = ({
 
         return (
           <Grid item key={`gridChip-${dropIndex}`} alignItems="center" sx={{ display: hide ? 'none' : '', marginRight: '4px' }}>
-            <Chip sx={{ cursor: 'pointer', fontSize: '12px', opacity, fontWeight }}
+            <Chip sx={{ cursor: 'pointer', fontSize: '12px', opacity, filter, fontWeight }}
               className={dropClass}
               color={dropColor}
               deleteIcon={icon}
@@ -352,6 +370,7 @@ QuestTableBeta.propTypes = {
   questInfo: PropTypes.array.isRequired,
   textFilter: PropTypes.string,
   filters: PropTypes.object,
-  showDropChance: PropTypes.bool
+  showDropChance: PropTypes.bool,
+  blurExtras: PropTypes.bool
 };
 export default QuestTableBeta;

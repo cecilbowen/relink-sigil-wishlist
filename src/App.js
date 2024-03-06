@@ -12,6 +12,8 @@ import React, { useEffect, useState } from "react";
 import FormControlLabel from '@mui/material/FormControlLabel';
 import FiberNewIcon from '@mui/icons-material/FiberNew';
 import RestoreIcon from '@mui/icons-material/Restore';
+import BlurOnIcon from '@mui/icons-material/BlurOn';
+import BlurOffIcon from '@mui/icons-material/BlurOff';
 import Checkbox from '@mui/material/Checkbox';
 import debounce from 'lodash/debounce';
 import { replaceWithRomanNumerals } from './util';
@@ -20,6 +22,7 @@ const App = () => {
   const [newUI, setNewUI] = useState(true);
   const [searchText, setSearchText] = useState("");
   const [showDropChance, setShowDropChance] = useState(true);
+  const [blurExtras, setBlurExtras] = useState(false);
   const [filterQuests, setFilterQuests] = useState(true);
   const [filterSideQuests, setFilterSideQuests] = useState(false);
   const [filterFirstClear, setFilterFirstClear] = useState(true);
@@ -78,6 +81,7 @@ const App = () => {
             allItems: filterAllItems
           }}
           showDropChance={showDropChance}
+          blurExtras={blurExtras}
           questInfo={QUEST_INFO}
         />}
       </div>
@@ -96,11 +100,21 @@ const App = () => {
             {!newUI && <FiberNewIcon />}
             {newUI && <RestoreIcon />}
           </IconButton>
-          <a target="_blank" rel="noopener noreferrer" href="https://github.com/cecilbowen/relink-sigil-wishlist">Source Code</a> |&nbsp;
+          <a target="_blank" rel="noopener noreferrer" href="https://github.com/cecilbowen/relink-sigil-wishlist">GitHub</a> |&nbsp;
           <a target="_blank" rel="noopener noreferrer" href="https://github.com/cecilbowen/relink-sigil-wishlist/issues">Bug Report</a> |
           References:&nbsp;
           <a target="_blank" rel="noopener noreferrer" href="https://redd.it/1aqtuno">reddit</a>&nbsp;
           <a target="_blank" rel="noopener noreferrer" href="https://nenkai.github.io/relink-modding/resources/quest_drop_rates/">nenkai</a>&nbsp;
+          <IconButton aria-label="swapBlur"
+            color="primary" sx={{ cursor: 'pointer' }}
+            title={blurExtras ? "Stop blurring unrelated search results" : 'Blur unrelated search results'}
+            onClick={() => {
+              setBlurExtras(!blurExtras);
+            }}
+          >
+            {!blurExtras && <BlurOnIcon />}
+            {blurExtras && <BlurOffIcon />}
+          </IconButton>
         </small>
       </div>
     </div>
