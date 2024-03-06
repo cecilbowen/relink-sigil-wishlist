@@ -1,0 +1,502 @@
+[
+  {
+    "id": "401310",
+    "name": "Bash the Goblin Hordes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "401303",
+    "name": "Worried About Papa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "401315",
+    "name": "Protect Our Woods",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "401305",
+    "name": "Fort Fumigation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "401316",
+    "name": "Tomorrow's Prayers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "401306",
+    "name": "Defeat—*wheeze*—Goblin Boss",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "401301",
+    "name": "Make Our Skies Safe Again",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "401311",
+    "name": "Guard Our Hometown",
+    "difficulty": "Normal"
+  },
+  {
+    "id": "402314",
+    "name": "Spare the Rod, Spoil the Valley",
+    "difficulty": "Normal"
+  },
+  {
+    "id": "402315",
+    "name": "Eye Have a Problem",
+    "difficulty": "Normal"
+  },
+  {
+    "id": "402316",
+    "name": "Only You Can Prevent Forest Flyers",
+    "difficulty": "Normal"
+  },
+  {
+    "id": "402313",
+    "name": "Saga Grande: The Beginning",
+    "difficulty": "Normal"
+  },
+  {
+    "id": "402301",
+    "name": "Rilla Done Did It",
+    "difficulty": "Normal"
+  },
+  {
+    "id": "402302",
+    "name": "Golemology 101: Desert Golems",
+    "difficulty": "Normal"
+  },
+  {
+    "id": "402310",
+    "name": "Dagger Really Done Did It",
+    "difficulty": "Normal"
+  },
+  {
+    "id": "402308",
+    "name": "Sweep the Volcano",
+    "difficulty": "Normal"
+  },
+  {
+    "id": "402304",
+    "name": "On the Front Lines",
+    "difficulty": "Normal"
+  },
+  {
+    "id": "402306",
+    "name": "I See a Bloody Vision",
+    "difficulty": "Normal"
+  },
+  {
+    "id": "402312",
+    "name": "The Saga Continues: Ice",
+    "difficulty": "Normal"
+  },
+  {
+    "id": "402309",
+    "name": "The Saga Continues: Fire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "403301",
+    "name": "Rule the Skies",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "403303",
+    "name": "Unthinning the Troops",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "403302",
+    "name": "The Juice of Jealousy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "403307",
+    "name": "Protect the Rep",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "403201",
+    "name": "Delts of Our Lives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "403308",
+    "name": "Collector's Digest",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "403311",
+    "name": "I See a Flaming Vision",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "403202",
+    "name": "Hide and Chic",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "403312",
+    "name": "Drumsticks au Griffin",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "403309",
+    "name": "Looming Tower, Leering Eye",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": "404101",
+    "name": "Wings of Antiquity",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": "404315",
+    "name": "Seeds of Trouble",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": "404316",
+    "name": "A Bone to Peak",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": "404317",
+    "name": "Absolutely No Trespassers!",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": "404204",
+    "name": "Dark Refrain",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": "404313",
+    "name": "Golemology 102: Volcanic Golems",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": "404309",
+    "name": "No One Likes Leftovers",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": "404310",
+    "name": "I See a Deathly Vision",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": "404311",
+    "name": "The Next Hot Topic",
+    "difficulty": "Extreme"
+  },
+  {
+    "id": "405101",
+    "name": "License to Thrill",
+    "difficulty": "Extreme"
+  },
+  {
+    "id": "405309",
+    "name": "Assault Formation!",
+    "difficulty": "Extreme"
+  },
+  {
+    "id": "405310",
+    "name": "Great Goblins of Fire",
+    "difficulty": "Extreme"
+  },
+  {
+    "id": "405311",
+    "name": "Shedding Light on the Pillar",
+    "difficulty": "Extreme"
+  },
+  {
+    "id": "405201",
+    "name": "Saga Illustrated: The Beginning",
+    "difficulty": "Extreme"
+  },
+  {
+    "id": "405206",
+    "name": "General Investigation: Gallanza",
+    "difficulty": "Extreme"
+  },
+  {
+    "id": "405207",
+    "name": "General Investigation: Maglielle",
+    "difficulty": "Extreme"
+  },
+  {
+    "id": "405202",
+    "name": "Learning from the Past",
+    "difficulty": "Extreme"
+  },
+  {
+    "id": "405203",
+    "name": "Saga Illustrated: Inferno",
+    "difficulty": "Extreme"
+  },
+  {
+    "id": "405208",
+    "name": "General Investigation: Id",
+    "difficulty": "Extreme"
+  },
+  {
+    "id": "405302",
+    "name": "Wings of Conflagration",
+    "difficulty": "Extreme"
+  },
+  {
+    "id": "405303",
+    "name": "Wings of Upheaval",
+    "difficulty": "Extreme"
+  },
+  {
+    "id": "405304",
+    "name": "Wings of the Storm",
+    "difficulty": "Extreme"
+  },
+  {
+    "id": "405305",
+    "name": "Wings of Rime",
+    "difficulty": "Extreme"
+  },
+  {
+    "id": "405205",
+    "name": "To Know the Unknowable",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406361",
+    "name": "Slimepede",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406359",
+    "name": "Rumble in the Desert",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406365",
+    "name": "Armor Is Best Served Cold",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406366",
+    "name": "A Heated Rivalry",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406357",
+    "name": "Death, Taxes, and Goblins",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406358",
+    "name": "Icy Eye on the Holy Prize",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406355",
+    "name": "Golemology 103: Forest Golems",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406325",
+    "name": "Hope in the Machine",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406356",
+    "name": "A New Breed",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406360",
+    "name": "I See a Grim Vision",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406364",
+    "name": "Throw a Smith a Bone",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406324",
+    "name": "Revenge of the Hordes",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406354",
+    "name": "Serenity Upon the Mount",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406351",
+    "name": "Roost and Reign",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406352",
+    "name": "Boss Done Wants It Did",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406327",
+    "name": "Hallowed Be Thy Ground",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406353",
+    "name": "Know Your Enemy",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406323",
+    "name": "I See a Chromatic Vision",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406331",
+    "name": "The Saga Continues: Wind",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406332",
+    "name": "Saga Illustrated: Crystal",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406337",
+    "name": "Id Bears Repeating",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406334",
+    "name": "The Saga Continues: Silver",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406335",
+    "name": "Saga Illustrated: Veil",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406330",
+    "name": "The Saga Continues: Earth",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406333",
+    "name": "Saga Illustrated: Hellfire",
+    "difficulty": "Maniac"
+  },
+  {
+    "id": "406338",
+    "name": "Saga Grande: Happily Ever After",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407101",
+    "name": "The Final Report",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407301",
+    "name": "Blazing Trial",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407302",
+    "name": "Grounded Trial",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407303",
+    "name": "Stormy Trial",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407304",
+    "name": "Frigid Trial",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407305",
+    "name": "Worst Vacation Ever",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407306",
+    "name": "Trade Barriers",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407307",
+    "name": "Melting Pot of Hostility",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407308",
+    "name": "Banquet of Ice and Corpses",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407309",
+    "name": "For a Freer Folca",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407310",
+    "name": "A Quest of Fire and Earth",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407311",
+    "name": "A Quest of Frost and Storm",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407312",
+    "name": "The Wolf and the Veil",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407313",
+    "name": "Calamity Incarnate",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407314",
+    "name": "As Fierce as the Silver Wolf",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407315",
+    "name": "Memories of Fire",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407316",
+    "name": "Thunderbolts and Lightning",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407317",
+    "name": "Into the Abyss",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407319",
+    "name": "The Automagod Strikes Back",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407318",
+    "name": "The Tale of Bahamut's Rage",
+    "difficulty": "Proud"
+  }
+]

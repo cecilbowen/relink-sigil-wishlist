@@ -17,6 +17,7 @@ import TablePaginationActions from './TablePaginationActions';
 import CasinoIcon from '@mui/icons-material/Casino';
 // import _ from 'lodash';
 import { dummy } from '../util';
+import { useThemeDetector } from '../hooks/useThemeDetector';
 
 const StyledTableCell = styled(TableCell)(({ theme }) => ({
   [`&.${tableCellClasses.head}`]: {
@@ -37,7 +38,7 @@ const StyledTableRow = styled(TableRow)(({ theme }) => ({
     border: 0,
   },
   '&:hover': {
-    backgroundColor: '#6edbff66',
+    backgroundColor: '#2b677a17'
   }
 }));
 
@@ -45,8 +46,17 @@ const PaginationBox = styled(Box)`
   display: flex;
 `;
 
+const Difficulty = styled(Typography)`
+  font-weight: bold;
+  margin-left: 1em;
+  border-radius: 5px;
+  font-family: monospace;
+  background-color: #bababa;
+  padding: 0px 4px;
+`;
+
 const QuestTableBeta = ({
-  quests, sideQuests, textFilter, filters, showDropChance
+  quests, sideQuests, questInfo, textFilter, filters, showDropChance
 }) => {
   const [filteredQuests, setFilteredQuests] = useState([]);
   const pageOptions = [
@@ -61,6 +71,7 @@ const QuestTableBeta = ({
   const [tableSize, setTableSize] = useState(0); // because lazy
   const [lastTableSize, setLastTableSize] = useState(0);
   const [ratings, setRatings] = useState(new Map()); // [quest id, rating]
+  const darkMode = useThemeDetector();
   const compact = true;
 
   useEffect(() => {
@@ -138,7 +149,7 @@ const QuestTableBeta = ({
   };
 
   const flex = '1';
-  const rowStyle = { ...{ '&:last-child td, &:last-child th': { border: 0 } } };
+  const rowStyle = { ...{ '&:last-child td, &:last-child th': { border: 0 }, '&:hover': { backgroundColor: darkMode ? '#2b677a17' : '#6edbff66' } } };
 
   let lotCount = 0;
   const procedes = [25, 50, 75, 100];
@@ -149,21 +160,21 @@ const QuestTableBeta = ({
     }
     lotCount++;
 
-    const paperBackground = lotCount % 2 === 0 ? 'lightgray' : 'navajowhite';
+    const paperBackground = lotCount % 2 === 0 ? 'alt1' : 'alt2';
 
     return <Grid item xs="auto" key={`lot-${idx}`}
       alignItems="center"
       justifyContent="flex-start"
       sx={{ maxWidth: '100% !important' }} // , backgroundColor: lotCount % 2 === 0 ? 'lightgray' : ''
     >
-      <Grid container item direction="row" xs="auto" sx={{
+      <Grid container item direction="row" xs="auto" className={noGroup ? '' : paperBackground} sx={{
         borderRadius: '10px',
-        backgroundColor: noGroup ? 'transparent' : paperBackground,
+        // backgroundColor: noGroup ? 'transparent' : paperBackground,
         padding: noGroup ? 'default' : '4px',
         rowGap: '4px'
       }}>
 
-      {lot.drops.map((drop, dropIndex, dropArr) => {
+      {lot.drops.map((drop, dropIndex) => {
         const chance = drop.dropChance || 100;
         let focus = false;
         let opacity = 1;
@@ -187,16 +198,22 @@ const QuestTableBeta = ({
         }
 
         let dropColor = 'default';
-        if (chance <= procedes[3]) { dropColor = 'success'; }
-        if (chance < procedes[2]) { dropColor = 'warning'; }
-        if (chance < procedes[1]) { dropColor = 'warning'; }
-        if (chance < procedes[0]) { dropColor = 'error'; }
+        let dropClass = '';
+        if (chance <= procedes[3]) { dropClass = 'greenChip'; dropColor = 'success'; }
+        if (chance < procedes[2]) { dropClass = 'yellowChip'; dropColor = 'warning'; }
+        if (chance < procedes[1]) { dropClass = 'orangeChip'; dropColor = 'warning'; }
+        if (chance < procedes[0]) { dropClass = 'redChip'; dropColor = 'error'; }
+
+        if (darkMode && dropClass === "greenChip" && noGroup) {
+          dropClass += " firstClearChip";
+        }
 
         const label = drop.quantity > 1 ? `x${drop.quantity} ${drop.name}` : drop.name;
         const icon = showDropChance ? <div style={{
           display: 'flex',
           background: 'linear-gradient(to top right, #dfdfdf82, mediumpurple)',
-          borderRadius: '25px'
+          borderRadius: '25px',
+          height: 'calc(100% - 2px)'
         }}>
           <CasinoIcon sx={{ color: 'white', marginRight: '2px', width: '20px', paddingLeft: '4px' }} />
           <Typography sx={{ fontWeight: 'bold', paddingRight: '4px', color: 'rgba(0,0,0,0.7)' }}>{chance}%</Typography>
@@ -205,12 +222,13 @@ const QuestTableBeta = ({
         return (
           <Grid item key={`gridChip-${dropIndex}`} alignItems="center" sx={{ display: hide ? 'none' : '', marginRight: '4px' }}>
             <Chip sx={{ cursor: 'pointer', fontSize: '12px', opacity, fontWeight }}
+              className={dropClass}
+              color={dropColor}
               deleteIcon={icon}
               onDelete={showDropChance ? dummy : undefined}
               label={label}
-              title={`${chance}%`}
+              title={`${chance}% from ${lot.type === 'chest' ? 'Chest' : 'Rewards'}`}
               variant={focus ? 'elevated' : 'filled'}
-              color={dropColor}
               size={compact ? "small" : "medium"}
             />
           </Grid>
@@ -243,12 +261,14 @@ const QuestTableBeta = ({
     const score = ratings.get(quest.id) || 0;
     const ranks = ["C", "B", "A", "S", "S+", "S++"];
     const rank = ranks[score];
+    const difficulty = questInfo.filter(x => x.id === quest.id)[0]?.difficulty;
 
     return <Grid container>
-      <Grid container item direction="column">
+      <Grid container item direction="column" sx={{ rowGap: '4px' }}>
         <Grid container item direction="row">
-          <Grid item>
+          <Grid item sx={{ display: 'flex' }}>
             <Typography sx={{ fontWeight: 'bold' }}>{quest.name}</Typography>
+            {difficulty && <Difficulty className="diffChip">{difficulty}</Difficulty>}
           </Grid>
           <Grid item sx={{ marginLeft: '1em', display: 'flex', maxWidth: 'fit-content' }}>
             {!quest.tiers.npc && <Rating
@@ -266,7 +286,7 @@ const QuestTableBeta = ({
         </Grid>
         <Grid container item direction="column" sx={{ marginLeft: '1em', maxWidth: 'fit-content !important' }} spacing={1}>
           {filters.firstClear && renderTier(quest.tiers.firstClear, "First-Clear")}
-          {renderTier(quest.tiers["0"], 'Rewards')}
+          {renderTier(quest.tiers["0"], 'C Rank')}
           {score >= 1 && renderTier(quest.tiers["1"], 'B Rank')}
           {score >= 2 && renderTier(quest.tiers["2"], 'A Rank')}
           {score >= 3 && renderTier(quest.tiers["3"], 'S Rank')}
@@ -280,7 +300,7 @@ const QuestTableBeta = ({
   };
 
   return (
-    <Paper id="main1" style={{ margin: "1em", flex, order: '1', overflow: 'auto', height: 'fit-content' }}>
+    <Paper className="mainPaper" id="main1" style={{ margin: "1em", flex, order: '1', overflow: 'auto', height: 'fit-content' }}>
       <TableContainer sx={{ maxHeight: "69vh", overflowY: "auto", width: '100%' }}>
         <Table size="small" stickyHeader>
           <TableHead>
@@ -329,6 +349,7 @@ const QuestTableBeta = ({
 QuestTableBeta.propTypes = {
   quests: PropTypes.array.isRequired,
   sideQuests: PropTypes.array.isRequired,
+  questInfo: PropTypes.array.isRequired,
   textFilter: PropTypes.string,
   filters: PropTypes.object,
   showDropChance: PropTypes.bool

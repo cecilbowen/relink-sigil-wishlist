@@ -12,3 +12,99 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.alt1 {
+  background-color: #e3d8cc;
+}
+.alt2 {
+  background-color: #e3d8cc/*navajowhite*/;
+}
+
+.redChip {
+  background-color: #d32f2f !important;
+}
+.greenChip {
+  background-color: #2e7d32 !important;
+}
+.orangeChip {
+  background-color: #ed6c02 !important;
+}
+.yellowChip {
+  background: linear-gradient(to top, #b9b900, yellow, #bfbf05) !important;
+  color: black !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #131e3f;
+    color: #dadada;
+  }
+  p {
+    color: #dadada;
+  }
+  select {
+    color: #dadada !important;
+  }
+  #searchBox {
+    color: #dadada !important;
+    /*background-color: #1e2f62 !important*/;
+  }
+  #searchBox-label {
+    color: #fff8f842 !important;
+  }
+  #outlined-basic-label {
+    color: #fff8f842 !important;
+  }
+  .MuiOutlinedInput-root > fieldset {
+    border-color: #7575c4 !important;
+  }
+  .MuiCheckbox-root > .MuiSvgIcon-root {
+    color: #7575c4;
+  }
+  .MuiIconButton-root > .MuiSvgIcon-root {
+    color: #c2c2d9;
+  }
+  small {
+    border-radius: 10px;
+    background-color: black;
+  }
+  td, th {
+    border-color: black !important;
+  }
+  .questBody td {
+    color: #dadada;
+  }
+  .mainPaper {
+    background-color: #283250 !important;
+  }
+  .alt1 {
+    background-color: #221919/*#545a71*/;
+  }
+  .alt2 {
+    background-color: #221919;
+  }
+  .diffChip {
+    background-color: #0000008a !important;
+    color: #dadada !important;
+  }
+  .redChip {
+    background-color: #983939 !important;
+    color: #dadada !important;
+  }
+  .firstClearChip {
+    background: linear-gradient(to top, #215b25, #1e4e21, #2a6c2f);
+  }
+  .greenChip {
+    background-color: #1e4e21 !important;
+    color: #dadada !important;
+  }
+  .orangeChip {
+    background-color: #a3510d !important;
+    color: #dadada !important;
+  }
+  .yellowChip {
+    background: #817307 !important;
+    color: #dadada !important;
+  }
+}
+

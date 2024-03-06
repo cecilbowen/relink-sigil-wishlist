@@ -9,3 +9,4 @@ better communicate visually what a lot is and how drops are chosen from them
     right now this is just shown as the tan and lightgray-colored background groupings all drops are categorized into
     maybe something like an icon at the top-left corner of each lot that displays a info tooltip when hovered to the affect of:
         "rolls one of the following drops in this group"
+add side goals maybe (lol)

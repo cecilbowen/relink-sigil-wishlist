@@ -12,6 +12,7 @@ import { styled } from '@mui/material/styles';
 import PropTypes from 'prop-types';
 import TablePagination from '@mui/material/TablePagination';
 import TablePaginationActions from './TablePaginationActions';
+import { useThemeDetector } from '../hooks/useThemeDetector';
 
 const StyledTableCell = styled(TableCell)(({ theme }) => ({
   [`&.${tableCellClasses.head}`]: {
@@ -32,7 +33,7 @@ const StyledTableRow = styled(TableRow)(({ theme }) => ({
     border: 0,
   },
   '&:hover': {
-    backgroundColor: '#6edbff66',
+    backgroundColor: '#6edbff16'
   }
 }));
 
@@ -50,7 +51,7 @@ const sigilCatMap = {
 const sigilColorMap = {
   firstClear: "darkcyan",
   reward: "blue",
-  drop: "crimson",
+  drop: "#bd4545",
   unlisted: "#916700",
   npcSideQuest: "violet"
 };
@@ -69,6 +70,7 @@ const QuestTable = ({
     const [rowsPerPage, setRowsPerPage] = useState(pageOptions[0].value);
     const [tableSize, setTableSize] = useState(0); // because lazy
     const [lastTableSize, setLastTableSize] = useState(0);
+    const darkMode = useThemeDetector();
 
     useEffect(() => {
       let tempFilteredQuests = [];
@@ -169,7 +171,8 @@ const QuestTable = ({
     };
 
     const flex = '1';
-    const rowStyle = { ...{ '&:last-child td, &:last-child th': { border: 0 } } };
+    // eslint-disable-next-line max-len
+    const rowStyle = { ...{ '&:last-child td, &:last-child th': { border: 0 }, '&:hover': { backgroundColor: darkMode ? '#2b677a17' : '#6edbff66' } } };
 
     const renderSigils = sigils => {
       const ret = [];
@@ -192,7 +195,7 @@ const QuestTable = ({
     };
 
     return (
-      <Paper id="main1" style={{ margin: "1em", flex, order: '1', overflow: 'auto', height: 'fit-content' }}>
+      <Paper className="mainPaper" id="main1" style={{ margin: "1em", flex, order: '1', overflow: 'auto', height: 'fit-content' }}>
         <TableContainer sx={{ maxHeight: "69vh", overflowY: "auto", width: '100%' }}>
           <Table size="small" stickyHeader>
             <TableHead>
@@ -203,7 +206,7 @@ const QuestTable = ({
                 <StyledTableCell align="left">Sigils</StyledTableCell>
               </TableRow>
             </TableHead>
-            <TableBody>
+            <TableBody className="questBody">
               {(rowsPerPage > 0 ? filteredQuests.slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage) : filteredQuests)
                 .map(quest => {
                   return <StyledTableRow

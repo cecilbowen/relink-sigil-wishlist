@@ -4,6 +4,7 @@ import QuestTable from './components/QuestTable';
 import QuestTableBeta from './components/QuestTableBeta';
 import QUESTS from './data/quests.json';
 import SIDEQUESTS from './data/sideQuests.json';
+import QUEST_INFO from './data/questInfo.json';
 import QUESTS_DATAMINE_ALL from './data/questDrops.json';
 import QUESTS_DATAMINE_SIGILS from './data/questDropsSigils.json';
 import { IconButton, TextField } from '@mui/material';
@@ -36,7 +37,7 @@ const App = () => {
   return (
     <div className="App">
       <div style={{ display: "flex", flexWrap: 'wrap', margin: '1em 1em 0em 1em' }}>
-        <TextField id="outlined-basic" label={`Search ${filterAllItems ? 'drops' : 'sigils'}`} variant="outlined"
+        <TextField id="searchBox" label={`Search ${filterAllItems ? 'drops' : 'sigils'}`} variant="outlined"
           size="small" autoFocus
           sx={{ display: "flex", width: '40em', marginRight: '1em' }}
           onChange={ev => debouncedOnChange(ev)} />
@@ -77,6 +78,7 @@ const App = () => {
             allItems: filterAllItems
           }}
           showDropChance={showDropChance}
+          questInfo={QUEST_INFO}
         />}
       </div>
 
