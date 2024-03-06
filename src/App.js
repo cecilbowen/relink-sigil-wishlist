@@ -10,7 +10,7 @@ import QUESTS_DATAMINE_SIGILS from './data/questDropsSigils.json';
 import SIGILS_CURIO from './data/curioSigils.json';
 import SIGILS_TRANS from './data/transmarvelSigils.json';
 import { IconButton, TextField } from '@mui/material';
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import FormControlLabel from '@mui/material/FormControlLabel';
 import FiberNewIcon from '@mui/icons-material/FiberNew';
 import RestoreIcon from '@mui/icons-material/Restore';

@@ -332,12 +332,14 @@ const QuestTableBeta = ({
     return <div>
       {curio.length > 0 && curio.map(x => {
         return <Paper className="oops curio" id="oops1" key={x} elevation={2}>
-          <Typography className="oopsText"><Typography className="oopsTextName">{x}</Typography> is only available through curios.</Typography>
+          <Typography className="oopsTextName">{x}</Typography>
+          <Typography className="oopsText"> is only available through curios.</Typography>
         </Paper>;
       })}
       {trans.length > 0 && trans.map(x => {
         return <Paper className="oops transmarvel" id="oops2" key={x} elevation={2}>
-          <Typography className="oopsText"><Typography className="oopsTextName">{x}</Typography> is only available through transmarvel.</Typography>
+          <Typography className="oopsTextName">{x}</Typography>
+          <Typography className="oopsText"> is only available through transmarvel.</Typography>
         </Paper>;
       })}
     </div>;

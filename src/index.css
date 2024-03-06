@@ -39,10 +39,10 @@ code {
   margin: 0.25em 1em;
   padding: 0.5em 1em;
   font-style: italic;
+  display: flex;
 }
 .oopsText {
   font-family: monospace !important;
-  display: flex;
 }
 .oopsTextName {
   text-decoration: underline;
