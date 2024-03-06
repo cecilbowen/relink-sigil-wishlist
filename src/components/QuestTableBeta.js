@@ -56,7 +56,7 @@ const Difficulty = styled(Typography)`
 `;
 
 const QuestTableBeta = ({
-  quests, sideQuests, questInfo, textFilter, filters, showDropChance, blurExtras
+  quests, sideQuests, curioSigils, transSigils, questInfo, textFilter, filters, showDropChance, blurExtras
 }) => {
   const [filteredQuests, setFilteredQuests] = useState([]);
   const pageOptions = [
@@ -71,8 +71,11 @@ const QuestTableBeta = ({
   const [tableSize, setTableSize] = useState(0); // because lazy
   const [lastTableSize, setLastTableSize] = useState(0);
   const [ratings, setRatings] = useState(new Map()); // [quest id, rating]
+  const [curio, setCurio] = useState([]);
+  const [trans, setTrans] = useState([]);
   const darkMode = useThemeDetector();
   const compact = true;
+  const isThereATextFilter = textFilter && textFilter.trim().length > 0;
 
   useEffect(() => {
     const tempRatings = new Map(ratings);
@@ -125,6 +128,16 @@ const QuestTableBeta = ({
         });
     });
     setFilteredQuests(tempFilteredQuests);
+
+    if (isThereATextFilter && tempFilteredQuests.length === 0) {
+      const tempCurio = curioSigils.filter(x => x.toLowerCase().includes(textFilter.toLowerCase()));
+      const tempTrans = transSigils.filter(x => x.toLowerCase().includes(textFilter.toLowerCase()));
+      setCurio(tempCurio);
+      setTrans(tempTrans);
+    } else {
+      setCurio([]);
+      setTrans([]);
+    }
   }, [filters, textFilter]);
 
   useEffect(() => {
@@ -161,14 +174,13 @@ const QuestTableBeta = ({
     lotCount++;
 
     const paperBackground = lotCount % 2 === 0 ? 'alt1' : 'alt2';
-    const isThereATextFilter = textFilter && textFilter.trim().length > 0;
 
     if (isThereATextFilter) {
       lot.drops.sort((a, b) => {
         const includesSearchTextA = a.name.toLowerCase().includes(textFilter.toLowerCase());
         const includesSearchTextB = b.name.toLowerCase().includes(textFilter.toLowerCase());
 
-        // drops with search criteria near top of lot
+        // put drops with search criteria near top of lot
         if (includesSearchTextA && !includesSearchTextB) {
             return -1;
         } else if (!includesSearchTextA && includesSearchTextB) {
@@ -186,7 +198,6 @@ const QuestTableBeta = ({
     >
       <Grid container item direction="row" xs="auto" className={noGroup ? '' : paperBackground} sx={{
         borderRadius: '10px',
-        // backgroundColor: noGroup ? 'transparent' : paperBackground,
         padding: noGroup ? 'default' : '4px',
         rowGap: '4px'
       }}>
@@ -317,8 +328,23 @@ const QuestTableBeta = ({
     </Grid>;
   };
 
+  if (filteredQuests.length === 0 && curio.length > 0 || trans.length > 0) {
+    return <div>
+      {curio.length > 0 && curio.map(x => {
+        return <Paper className="oops curio" id="oops1" key={x} elevation={2}>
+          <Typography className="oopsText"><Typography className="oopsTextName">{x}</Typography> is only available through curios.</Typography>
+        </Paper>;
+      })}
+      {trans.length > 0 && trans.map(x => {
+        return <Paper className="oops transmarvel" id="oops2" key={x} elevation={2}>
+          <Typography className="oopsText"><Typography className="oopsTextName">{x}</Typography> is only available through transmarvel.</Typography>
+        </Paper>;
+      })}
+    </div>;
+  }
+
   return (
-    <Paper className="mainPaper" id="main1" style={{ margin: "1em", flex, order: '1', overflow: 'auto', height: 'fit-content' }}>
+    <Paper className="mainPaper" id="main1" sx={{ margin: "1em", flex, order: '1', overflow: 'auto', height: 'fit-content' }}>
       <TableContainer sx={{ maxHeight: "69vh", overflowY: "auto", width: '100%' }}>
         <Table size="small" stickyHeader>
           <TableHead>
@@ -368,6 +394,8 @@ QuestTableBeta.propTypes = {
   quests: PropTypes.array.isRequired,
   sideQuests: PropTypes.array.isRequired,
   questInfo: PropTypes.array.isRequired,
+  curioSigils: PropTypes.array.isRequired,
+  transSigils: PropTypes.array.isRequired,
   textFilter: PropTypes.string,
   filters: PropTypes.object,
   showDropChance: PropTypes.bool,

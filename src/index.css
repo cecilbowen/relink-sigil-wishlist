@@ -34,6 +34,27 @@ code {
   color: black !important;
 }
 
+.oops {
+  text-align: left;
+  margin: 0.25em 1em;
+  padding: 0.5em 1em;
+  font-style: italic;
+}
+.oopsText {
+  font-family: monospace !important;
+  display: flex;
+}
+.oopsTextName {
+  text-decoration: underline;
+  padding-right: 10px;
+}
+.curio {
+  background-color: #785740 !important;
+}
+.transmarvel {
+  background-color: #765bc2 !important;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #131e3f;
@@ -105,6 +126,14 @@ code {
   .yellowChip {
     background: #817307 !important;
     color: #dadada !important;
+  }
+  .curio {
+    /*background: linear-gradient(to top, #151562, #0f0f57, #2828c4);*/
+    background-color: #30231a !important;
+  }
+  .transmarvel {
+    /*background: linear-gradient(to top, #09112e, #3d0f57, #300076)*/
+    background-color: #2b1b58 !important;
   }
 }
 

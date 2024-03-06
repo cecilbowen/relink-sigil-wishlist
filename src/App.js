@@ -7,6 +7,8 @@ import SIDEQUESTS from './data/sideQuests.json';
 import QUEST_INFO from './data/questInfo.json';
 import QUESTS_DATAMINE_ALL from './data/questDrops.json';
 import QUESTS_DATAMINE_SIGILS from './data/questDropsSigils.json';
+import SIGILS_CURIO from './data/curioSigils.json';
+import SIGILS_TRANS from './data/transmarvelSigils.json';
 import { IconButton, TextField } from '@mui/material';
 import React, { useEffect, useState } from "react";
 import FormControlLabel from '@mui/material/FormControlLabel';
@@ -83,6 +85,8 @@ const App = () => {
           showDropChance={showDropChance}
           blurExtras={blurExtras}
           questInfo={QUEST_INFO}
+          curioSigils={SIGILS_CURIO}
+          transSigils={SIGILS_TRANS}
         />}
       </div>
 
@@ -104,7 +108,7 @@ const App = () => {
           <a target="_blank" rel="noopener noreferrer" href="https://github.com/cecilbowen/relink-sigil-wishlist/issues">Bug Report</a> |
           References:&nbsp;
           <a target="_blank" rel="noopener noreferrer" href="https://redd.it/1aqtuno">reddit</a>&nbsp;
-          <a target="_blank" rel="noopener noreferrer" href="https://nenkai.github.io/relink-modding/resources/quest_drop_rates/">nenkai</a>&nbsp;
+          <a target="_blank" rel="noopener noreferrer" href="https://nenkai.github.io/relink-modding/resources/quest_drop_rates/">nenkai</a>
           <IconButton aria-label="swapBlur"
             color="primary" sx={{ cursor: 'pointer' }}
             title={blurExtras ? "Stop blurring unrelated search results" : 'Blur unrelated search results'}
