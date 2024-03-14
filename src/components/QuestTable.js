@@ -50,7 +50,7 @@ const sigilCatMap = {
 };
 const sigilColorMap = {
   firstClear: "darkcyan",
-  reward: "blue",
+  reward: "#8686ff",
   drop: "#bd4545",
   unlisted: "#916700",
   npcSideQuest: "violet"
@@ -155,7 +155,7 @@ const QuestTable = ({
             display: "flex",
             marginRight: '1em',
             width: `calc(${sigilArr.join(', ').length}ch + 10em)`,
-            backgroundColor: hasSigil ? '#ffd70040' : ''
+            background: hasSigil ? 'linear-gradient(to top, black 80%, transparent)' : ''
           }}
           fullWidth
           focused={hasSigil}

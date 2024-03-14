@@ -6,7 +6,7 @@
   },
   {
     "id": "401303",
-    "name": "Worried About Papa",
+    "name": "Worried about Papa",
     "difficulty": "Easy"
   },
   {
@@ -497,6 +497,16 @@
   {
     "id": "407318",
     "name": "The Tale of Bahamut's Rage",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407320",
+    "name": "The Final Vision",
+    "difficulty": "Proud"
+  },
+  {
+    "id": "407321",
+    "name": "The Final Vision (2?)",
     "difficulty": "Proud"
   }
 ]

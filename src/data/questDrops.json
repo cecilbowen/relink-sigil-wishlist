@@ -173,7 +173,7 @@
   },
   {
     "id": "401303",
-    "name": "Worried About Papa",
+    "name": "Worried about Papa",
     "tiers": {
       "0": {
         "lots": [
@@ -48443,6 +48443,1811 @@
         "drops": [
           {
             "name": "Quick Charge V+",
+            "quantity": 1
+          },
+          {
+            "name": "Gold Badge Ticket",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "407320",
+    "name": "The Final Vision",
+    "tiers": {
+      "0": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Rainbow Prism",
+                "quantity": 3,
+                "dropChance": 70
+              },
+              {
+                "name": "Rainbow Prism",
+                "quantity": 5,
+                "dropChance": 30
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 7.89
+              },
+              {
+                "name": "Linked Together V+",
+                "quantity": 1,
+                "dropChance": 7.89
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Nimble Defense V+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Improved Guard V+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Guard Payback V+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Steel Nerves V+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 7.89
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 50
+              }
+            ],
+            "weight": 23750
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Mirage Munition",
+                "quantity": 5,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 60
+              },
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 27
+              },
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 3
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Silver Spellbook",
+                "quantity": 1,
+                "dropChance": 40
+              },
+              {
+                "name": "Gold Spellbook",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Ambrosia",
+                "quantity": 1,
+                "dropChance": 15
+              },
+              {
+                "name": "Damascus Ingot",
+                "quantity": 1,
+                "dropChance": 15
+              },
+              {
+                "name": "Azurite's Splendor",
+                "quantity": 1,
+                "dropChance": 10
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Copper Spellbook",
+                "quantity": 1,
+                "dropChance": 45
+              },
+              {
+                "name": "Dark Residue",
+                "quantity": 3,
+                "dropChance": 30
+              },
+              {
+                "name": "Dark Residue",
+                "quantity": 5,
+                "dropChance": 20
+              },
+              {
+                "name": "Dark Residue",
+                "quantity": 7,
+                "dropChance": 5
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Silver Spellbook",
+                "quantity": 1,
+                "dropChance": 56
+              },
+              {
+                "name": "Tears of the Apocalypse",
+                "quantity": 1,
+                "dropChance": 16
+              },
+              {
+                "name": "Tears of the Apocalypse",
+                "quantity": 2,
+                "dropChance": 8
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 20
+              }
+            ],
+            "weight": 12500
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Copper Spellbook",
+                "quantity": 1,
+                "dropChance": 17.5
+              },
+              {
+                "name": "Silver Spellbook",
+                "quantity": 1,
+                "dropChance": 12.5
+              },
+              {
+                "name": "Gold Spellbook",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Ambrosia",
+                "quantity": 1,
+                "dropChance": 5
+              },
+              {
+                "name": "Damascus Ingot",
+                "quantity": 1,
+                "dropChance": 5
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 50
+              }
+            ],
+            "weight": 20000
+          }
+        ]
+      },
+      "1": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Legendary Merit",
+                "quantity": 2,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Dread Wrightstone",
+                "quantity": 1,
+                "dropChance": 25
+              },
+              {
+                "name": "Vitality Wrightstone",
+                "quantity": 1,
+                "dropChance": 25
+              },
+              {
+                "name": "Fortification Wrightstone",
+                "quantity": 1,
+                "dropChance": 25
+              },
+              {
+                "name": "Sequestration Wrightstone",
+                "quantity": 1,
+                "dropChance": 25
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Dread Wrightstone",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Vitality Wrightstone",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Fortification Wrightstone",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Sequestration Wrightstone",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Silver Centrum",
+                "quantity": 1,
+                "dropChance": 20
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Mirage Munition",
+                "quantity": 3,
+                "dropChance": 40
+              },
+              {
+                "name": "Mirage Munition",
+                "quantity": 5,
+                "dropChance": 20
+              },
+              {
+                "name": "Silver Centrum",
+                "quantity": 1,
+                "dropChance": 40
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Dread Wrightstone",
+                "quantity": 1,
+                "dropChance": 16
+              },
+              {
+                "name": "Vitality Wrightstone",
+                "quantity": 1,
+                "dropChance": 16
+              },
+              {
+                "name": "Fortification Wrightstone",
+                "quantity": 1,
+                "dropChance": 16
+              },
+              {
+                "name": "Sequestration Wrightstone",
+                "quantity": 1,
+                "dropChance": 16
+              },
+              {
+                "name": "Silver Centrum",
+                "quantity": 1,
+                "dropChance": 16
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 20
+              }
+            ],
+            "weight": 12500
+          }
+        ]
+      },
+      "2": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Legendary Merit",
+                "quantity": 2,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Damage Cap V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Autorevive V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Uplift V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Linked Together V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Improved Dodge",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Nimble Defense V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Improved Guard V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Guard Payback V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Steel Nerves V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Aegis V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 5.43
+              },
+              {
+                "name": "Linked Together V+",
+                "quantity": 1,
+                "dropChance": 5.43
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Nimble Defense V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Improved Guard V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Guard Payback V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Steel Nerves V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              }
+            ],
+            "weight": 10376
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Damage Cap V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Autorevive V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Uplift V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Linked Together V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Improved Dodge",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Nimble Defense V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Improved Guard V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Guard Payback V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Steel Nerves V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Aegis V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 5.43
+              },
+              {
+                "name": "Linked Together V+",
+                "quantity": 1,
+                "dropChance": 5.43
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Nimble Defense V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Improved Guard V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Guard Payback V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Steel Nerves V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              }
+            ],
+            "weight": 10376
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 7.89
+              },
+              {
+                "name": "Linked Together V+",
+                "quantity": 1,
+                "dropChance": 7.89
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Nimble Defense V+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Improved Guard V+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Guard Payback V+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Steel Nerves V+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 7.89
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 50
+              }
+            ],
+            "weight": 23750
+          }
+        ]
+      },
+      "3": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Rainbow Prism",
+                "quantity": 3,
+                "dropChance": 60
+              },
+              {
+                "name": "Flawless Prism",
+                "quantity": 5,
+                "dropChance": 40
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Legendary Merit",
+                "quantity": 2,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Inferno Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Frost Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Rumbling Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Cyclone Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Shining Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Abysm Orb",
+                "quantity": 5,
+                "dropChance": 17
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Inferno Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Frost Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Rumbling Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Cyclone Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Shining Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Abysm Orb",
+                "quantity": 5,
+                "dropChance": 17
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Inferno Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Frost Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Rumbling Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Cyclone Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Shining Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Abysm Orb",
+                "quantity": 5,
+                "dropChance": 17
+              }
+            ],
+            "weight": 10000
+          }
+        ]
+      },
+      "4": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Knickknack Voucher",
+                "quantity": 15,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Knickknack Voucher",
+                "quantity": 10,
+                "dropChance": 40
+              },
+              {
+                "name": "Astral Matter",
+                "quantity": 6,
+                "dropChance": 60
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Knickknack Voucher",
+                "quantity": 10,
+                "dropChance": 40
+              },
+              {
+                "name": "Fortitude Crystal",
+                "quantity": 10,
+                "dropChance": 60
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Knickknack Voucher",
+                "quantity": 10,
+                "dropChance": 40
+              },
+              {
+                "name": "Rainbow Prism",
+                "quantity": 10,
+                "dropChance": 60
+              }
+            ],
+            "weight": 10000
+          }
+        ]
+      },
+      "5": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Silver Centrum",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 80
+              }
+            ],
+            "weight": 50000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Tears of the Apocalypse",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 90
+              }
+            ],
+            "weight": 100000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Dark Residue",
+                "quantity": 1,
+                "dropChance": 50
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 50
+              }
+            ],
+            "weight": 20000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Knickknack Voucher",
+                "quantity": 25,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          }
+        ]
+      },
+      "firstClear": {
+        "drops": [
+          {
+            "name": "Silver Centrum",
+            "quantity": 1
+          },
+          {
+            "name": "Tears of the Apocalypse",
+            "quantity": 1
+          },
+          {
+            "name": "Dark Residue",
+            "quantity": 1
+          },
+          {
+            "name": "Gold Badge Ticket",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "407321",
+    "name": "The Final Vision (2?)",
+    "tiers": {
+      "0": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Rainbow Prism",
+                "quantity": 3,
+                "dropChance": 70
+              },
+              {
+                "name": "Rainbow Prism",
+                "quantity": 5,
+                "dropChance": 30
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 7.89
+              },
+              {
+                "name": "Linked Together V+",
+                "quantity": 1,
+                "dropChance": 7.89
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Nimble Defense V+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Improved Guard V+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Guard Payback V+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Steel Nerves V+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 7.89
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 50
+              }
+            ],
+            "weight": 23750
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Mirage Munition",
+                "quantity": 5,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 60
+              },
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 27
+              },
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 3
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Silver Spellbook",
+                "quantity": 1,
+                "dropChance": 40
+              },
+              {
+                "name": "Gold Spellbook",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Ambrosia",
+                "quantity": 1,
+                "dropChance": 15
+              },
+              {
+                "name": "Damascus Ingot",
+                "quantity": 1,
+                "dropChance": 15
+              },
+              {
+                "name": "Azurite's Splendor",
+                "quantity": 1,
+                "dropChance": 10
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Copper Spellbook",
+                "quantity": 1,
+                "dropChance": 45
+              },
+              {
+                "name": "Dark Residue",
+                "quantity": 3,
+                "dropChance": 30
+              },
+              {
+                "name": "Dark Residue",
+                "quantity": 5,
+                "dropChance": 20
+              },
+              {
+                "name": "Dark Residue",
+                "quantity": 7,
+                "dropChance": 5
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Silver Spellbook",
+                "quantity": 1,
+                "dropChance": 56
+              },
+              {
+                "name": "Tears of the Apocalypse",
+                "quantity": 1,
+                "dropChance": 16
+              },
+              {
+                "name": "Tears of the Apocalypse",
+                "quantity": 2,
+                "dropChance": 8
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 20
+              }
+            ],
+            "weight": 12500
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Copper Spellbook",
+                "quantity": 1,
+                "dropChance": 17.5
+              },
+              {
+                "name": "Silver Spellbook",
+                "quantity": 1,
+                "dropChance": 12.5
+              },
+              {
+                "name": "Gold Spellbook",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Ambrosia",
+                "quantity": 1,
+                "dropChance": 5
+              },
+              {
+                "name": "Damascus Ingot",
+                "quantity": 1,
+                "dropChance": 5
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 50
+              }
+            ],
+            "weight": 20000
+          }
+        ]
+      },
+      "1": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Legendary Merit",
+                "quantity": 2,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Dread Wrightstone",
+                "quantity": 1,
+                "dropChance": 25
+              },
+              {
+                "name": "Vitality Wrightstone",
+                "quantity": 1,
+                "dropChance": 25
+              },
+              {
+                "name": "Fortification Wrightstone",
+                "quantity": 1,
+                "dropChance": 25
+              },
+              {
+                "name": "Sequestration Wrightstone",
+                "quantity": 1,
+                "dropChance": 25
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Dread Wrightstone",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Vitality Wrightstone",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Fortification Wrightstone",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Sequestration Wrightstone",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Silver Centrum",
+                "quantity": 1,
+                "dropChance": 20
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Mirage Munition",
+                "quantity": 3,
+                "dropChance": 40
+              },
+              {
+                "name": "Mirage Munition",
+                "quantity": 5,
+                "dropChance": 20
+              },
+              {
+                "name": "Silver Centrum",
+                "quantity": 1,
+                "dropChance": 40
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Dread Wrightstone",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Vitality Wrightstone",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Fortification Wrightstone",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Sequestration Wrightstone",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Silver Centrum",
+                "quantity": 1,
+                "dropChance": 20
+              }
+            ],
+            "weight": 10000
+          }
+        ]
+      },
+      "2": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Legendary Merit",
+                "quantity": 2,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Damage Cap V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Autorevive V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Uplift V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Linked Together V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Improved Dodge",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Nimble Defense V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Improved Guard V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Guard Payback V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Steel Nerves V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Aegis V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 5.43
+              },
+              {
+                "name": "Linked Together V+",
+                "quantity": 1,
+                "dropChance": 5.43
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Nimble Defense V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Improved Guard V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Guard Payback V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Steel Nerves V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              }
+            ],
+            "weight": 10376
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Damage Cap V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Autorevive V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Uplift V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Linked Together V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Improved Dodge",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Nimble Defense V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Improved Guard V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Guard Payback V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Steel Nerves V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Aegis V",
+                "quantity": 1,
+                "dropChance": 6.75
+              },
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 5.43
+              },
+              {
+                "name": "Linked Together V+",
+                "quantity": 1,
+                "dropChance": 5.43
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Nimble Defense V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Improved Guard V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Guard Payback V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Steel Nerves V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              },
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 3.61
+              }
+            ],
+            "weight": 10376
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 7.89
+              },
+              {
+                "name": "Linked Together V+",
+                "quantity": 1,
+                "dropChance": 7.89
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Nimble Defense V+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Improved Guard V+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Guard Payback V+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Steel Nerves V+",
+                "quantity": 1,
+                "dropChance": 5.26
+              },
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 7.89
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 50
+              }
+            ],
+            "weight": 23750
+          }
+        ]
+      },
+      "3": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Rainbow Prism",
+                "quantity": 3,
+                "dropChance": 60
+              },
+              {
+                "name": "Flawless Prism",
+                "quantity": 5,
+                "dropChance": 40
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Legendary Merit",
+                "quantity": 2,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Inferno Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Frost Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Rumbling Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Cyclone Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Shining Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Abysm Orb",
+                "quantity": 5,
+                "dropChance": 17
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Inferno Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Frost Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Rumbling Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Cyclone Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Shining Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Abysm Orb",
+                "quantity": 5,
+                "dropChance": 17
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Inferno Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Frost Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Rumbling Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Cyclone Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Shining Orb",
+                "quantity": 5,
+                "dropChance": 16.6
+              },
+              {
+                "name": "Abysm Orb",
+                "quantity": 5,
+                "dropChance": 17
+              }
+            ],
+            "weight": 10000
+          }
+        ]
+      },
+      "4": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Knickknack Voucher",
+                "quantity": 15,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Knickknack Voucher",
+                "quantity": 10,
+                "dropChance": 40
+              },
+              {
+                "name": "Astral Matter",
+                "quantity": 6,
+                "dropChance": 60
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Knickknack Voucher",
+                "quantity": 10,
+                "dropChance": 40
+              },
+              {
+                "name": "Fortitude Crystal",
+                "quantity": 10,
+                "dropChance": 60
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Knickknack Voucher",
+                "quantity": 10,
+                "dropChance": 40
+              },
+              {
+                "name": "Rainbow Prism",
+                "quantity": 10,
+                "dropChance": 60
+              }
+            ],
+            "weight": 10000
+          }
+        ]
+      },
+      "5": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Silver Centrum",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 80
+              }
+            ],
+            "weight": 50000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Tears of the Apocalypse",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 90
+              }
+            ],
+            "weight": 100000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Dark Residue",
+                "quantity": 1,
+                "dropChance": 50
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 50
+              }
+            ],
+            "weight": 20000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Knickknack Voucher",
+                "quantity": 25,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          }
+        ]
+      },
+      "firstClear": {
+        "drops": [
+          {
+            "name": "Silver Centrum",
+            "quantity": 1
+          },
+          {
+            "name": "Tears of the Apocalypse",
+            "quantity": 1
+          },
+          {
+            "name": "Dark Residue",
             "quantity": 1
           },
           {
