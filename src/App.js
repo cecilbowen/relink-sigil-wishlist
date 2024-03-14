@@ -94,7 +94,7 @@ const App = () => {
         <small>
           <IconButton aria-label="swapUI"
             color="primary" sx={{ cursor: 'pointer' }}
-            title={newUI ? 'Swap back to the old UI' : 'Swap to the new UI'}
+            title={newUI ? 'Swap back to the legacy version' : 'Swap to the new version'}
             onClick={() => {
               const audio = newUI ? gotleWonderful : gotleUnbelievable;
               audio.play(); // lol
