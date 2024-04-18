@@ -48584,11 +48584,37 @@
               {
                 "name": "Damascus Ingot",
                 "quantity": 1,
-                "dropChance": 15
+                "dropChance": 10
               },
               {
                 "name": "Azurite's Splendor",
                 "quantity": 1,
+                "dropChance": 15
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Dark Residue",
+                "quantity": 3,
+                "dropChance": 40
+              },
+              {
+                "name": "Dark Residue",
+                "quantity": 4,
+                "dropChance": 30
+              },
+              {
+                "name": "Dark Residue",
+                "quantity": 6,
+                "dropChance": 20
+              },
+              {
+                "name": "Dark Residue",
+                "quantity": 8,
                 "dropChance": 10
               }
             ],
@@ -48598,23 +48624,18 @@
             "type": "chest",
             "drops": [
               {
-                "name": "Copper Spellbook",
+                "name": "Tears of the Apocalypse",
                 "quantity": 1,
-                "dropChance": 45
+                "dropChance": 60
               },
               {
-                "name": "Dark Residue",
+                "name": "Tears of the Apocalypse",
+                "quantity": 2,
+                "dropChance": 35
+              },
+              {
+                "name": "Tears of the Apocalypse",
                 "quantity": 3,
-                "dropChance": 30
-              },
-              {
-                "name": "Dark Residue",
-                "quantity": 5,
-                "dropChance": 20
-              },
-              {
-                "name": "Dark Residue",
-                "quantity": 7,
                 "dropChance": 5
               }
             ],
@@ -48624,35 +48645,9 @@
             "type": "chest",
             "drops": [
               {
-                "name": "Silver Spellbook",
-                "quantity": 1,
-                "dropChance": 56
-              },
-              {
-                "name": "Tears of the Apocalypse",
-                "quantity": 1,
-                "dropChance": 16
-              },
-              {
-                "name": "Tears of the Apocalypse",
-                "quantity": 2,
-                "dropChance": 8
-              },
-              {
-                "name": "Nothing",
+                "name": "Silver Centrum",
                 "quantity": 1,
                 "dropChance": 20
-              }
-            ],
-            "weight": 12500
-          },
-          {
-            "type": "chest",
-            "drops": [
-              {
-                "name": "Copper Spellbook",
-                "quantity": 1,
-                "dropChance": 17.5
               },
               {
                 "name": "Silver Spellbook",
@@ -48662,7 +48657,7 @@
               {
                 "name": "Gold Spellbook",
                 "quantity": 1,
-                "dropChance": 10
+                "dropChance": 7.5
               },
               {
                 "name": "Ambrosia",
@@ -48758,19 +48753,19 @@
             "type": "chest",
             "drops": [
               {
-                "name": "Mirage Munition",
+                "name": "Dark Residue",
                 "quantity": 3,
-                "dropChance": 40
+                "dropChance": 50
               },
               {
-                "name": "Mirage Munition",
+                "name": "Dark Residue",
                 "quantity": 5,
-                "dropChance": 20
+                "dropChance": 30
               },
               {
-                "name": "Silver Centrum",
+                "name": "Dark Residue",
                 "quantity": 1,
-                "dropChance": 40
+                "dropChance": 20
               }
             ],
             "weight": 10000
@@ -48781,27 +48776,22 @@
               {
                 "name": "Dread Wrightstone",
                 "quantity": 1,
-                "dropChance": 16
+                "dropChance": 20
               },
               {
                 "name": "Vitality Wrightstone",
                 "quantity": 1,
-                "dropChance": 16
+                "dropChance": 20
               },
               {
                 "name": "Fortification Wrightstone",
                 "quantity": 1,
-                "dropChance": 16
+                "dropChance": 20
               },
               {
                 "name": "Sequestration Wrightstone",
                 "quantity": 1,
-                "dropChance": 16
-              },
-              {
-                "name": "Silver Centrum",
-                "quantity": 1,
-                "dropChance": 16
+                "dropChance": 20
               },
               {
                 "name": "Nothing",
@@ -49224,6 +49214,22 @@
             "weight": 10000
           },
           {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Dark Residue",
+                "quantity": 1,
+                "dropChance": 80
+              },
+              {
+                "name": "Dark Residue",
+                "quantity": 2,
+                "dropChance": 20
+              }
+            ],
+            "weight": 10000
+          },
+          {
             "type": "chest",
             "drops": [
               {
@@ -49279,49 +49285,43 @@
             "type": "reward",
             "drops": [
               {
-                "name": "Silver Centrum",
-                "quantity": 1,
-                "dropChance": 20
-              },
-              {
-                "name": "Nothing",
-                "quantity": 1,
-                "dropChance": 80
-              }
-            ],
-            "weight": 50000
-          },
-          {
-            "type": "reward",
-            "drops": [
-              {
                 "name": "Tears of the Apocalypse",
                 "quantity": 1,
-                "dropChance": 10
+                "dropChance": 68
+              },
+              {
+                "name": "Tears of the Apocalypse",
+                "quantity": 2,
+                "dropChance": 12
               },
               {
                 "name": "Nothing",
                 "quantity": 1,
-                "dropChance": 90
+                "dropChance": 20
               }
             ],
-            "weight": 100000
+            "weight": 12500
           },
           {
             "type": "reward",
             "drops": [
               {
                 "name": "Dark Residue",
+                "quantity": 2,
+                "dropChance": 64
+              },
+              {
+                "name": "Dark Residue",
                 "quantity": 1,
-                "dropChance": 50
+                "dropChance": 16
               },
               {
                 "name": "Nothing",
                 "quantity": 1,
-                "dropChance": 50
+                "dropChance": 20
               }
             ],
-            "weight": 20000
+            "weight": 12500
           },
           {
             "type": "reward",
@@ -49360,7 +49360,7 @@
   },
   {
     "id": "407321",
-    "name": "The Final Vision (2?)",
+    "name": "The Final Vision [2?]",
     "tiers": {
       "0": {
         "lots": [
@@ -49489,11 +49489,37 @@
               {
                 "name": "Damascus Ingot",
                 "quantity": 1,
-                "dropChance": 15
+                "dropChance": 10
               },
               {
                 "name": "Azurite's Splendor",
                 "quantity": 1,
+                "dropChance": 15
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Dark Residue",
+                "quantity": 3,
+                "dropChance": 40
+              },
+              {
+                "name": "Dark Residue",
+                "quantity": 4,
+                "dropChance": 30
+              },
+              {
+                "name": "Dark Residue",
+                "quantity": 6,
+                "dropChance": 20
+              },
+              {
+                "name": "Dark Residue",
+                "quantity": 8,
                 "dropChance": 10
               }
             ],
@@ -49503,23 +49529,18 @@
             "type": "chest",
             "drops": [
               {
-                "name": "Copper Spellbook",
+                "name": "Tears of the Apocalypse",
                 "quantity": 1,
-                "dropChance": 45
+                "dropChance": 60
               },
               {
-                "name": "Dark Residue",
+                "name": "Tears of the Apocalypse",
+                "quantity": 2,
+                "dropChance": 35
+              },
+              {
+                "name": "Tears of the Apocalypse",
                 "quantity": 3,
-                "dropChance": 30
-              },
-              {
-                "name": "Dark Residue",
-                "quantity": 5,
-                "dropChance": 20
-              },
-              {
-                "name": "Dark Residue",
-                "quantity": 7,
                 "dropChance": 5
               }
             ],
@@ -49529,35 +49550,9 @@
             "type": "chest",
             "drops": [
               {
-                "name": "Silver Spellbook",
-                "quantity": 1,
-                "dropChance": 56
-              },
-              {
-                "name": "Tears of the Apocalypse",
-                "quantity": 1,
-                "dropChance": 16
-              },
-              {
-                "name": "Tears of the Apocalypse",
-                "quantity": 2,
-                "dropChance": 8
-              },
-              {
-                "name": "Nothing",
+                "name": "Silver Centrum",
                 "quantity": 1,
                 "dropChance": 20
-              }
-            ],
-            "weight": 12500
-          },
-          {
-            "type": "chest",
-            "drops": [
-              {
-                "name": "Copper Spellbook",
-                "quantity": 1,
-                "dropChance": 17.5
               },
               {
                 "name": "Silver Spellbook",
@@ -49567,7 +49562,7 @@
               {
                 "name": "Gold Spellbook",
                 "quantity": 1,
-                "dropChance": 10
+                "dropChance": 7.5
               },
               {
                 "name": "Ambrosia",
@@ -49663,19 +49658,19 @@
             "type": "chest",
             "drops": [
               {
-                "name": "Mirage Munition",
+                "name": "Dark Residue",
                 "quantity": 3,
-                "dropChance": 40
+                "dropChance": 50
               },
               {
-                "name": "Mirage Munition",
+                "name": "Dark Residue",
                 "quantity": 5,
-                "dropChance": 20
+                "dropChance": 30
               },
               {
-                "name": "Silver Centrum",
+                "name": "Dark Residue",
                 "quantity": 1,
-                "dropChance": 40
+                "dropChance": 20
               }
             ],
             "weight": 10000
@@ -50124,6 +50119,22 @@
             "weight": 10000
           },
           {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Dark Residue",
+                "quantity": 1,
+                "dropChance": 80
+              },
+              {
+                "name": "Dark Residue",
+                "quantity": 2,
+                "dropChance": 20
+              }
+            ],
+            "weight": 10000
+          },
+          {
             "type": "chest",
             "drops": [
               {
@@ -50179,49 +50190,43 @@
             "type": "reward",
             "drops": [
               {
-                "name": "Silver Centrum",
-                "quantity": 1,
-                "dropChance": 20
-              },
-              {
-                "name": "Nothing",
-                "quantity": 1,
-                "dropChance": 80
-              }
-            ],
-            "weight": 50000
-          },
-          {
-            "type": "reward",
-            "drops": [
-              {
                 "name": "Tears of the Apocalypse",
                 "quantity": 1,
-                "dropChance": 10
+                "dropChance": 68
+              },
+              {
+                "name": "Tears of the Apocalypse",
+                "quantity": 2,
+                "dropChance": 12
               },
               {
                 "name": "Nothing",
                 "quantity": 1,
-                "dropChance": 90
+                "dropChance": 20
               }
             ],
-            "weight": 100000
+            "weight": 12500
           },
           {
             "type": "reward",
             "drops": [
               {
                 "name": "Dark Residue",
+                "quantity": 2,
+                "dropChance": 64
+              },
+              {
+                "name": "Dark Residue",
                 "quantity": 1,
-                "dropChance": 50
+                "dropChance": 16
               },
               {
                 "name": "Nothing",
                 "quantity": 1,
-                "dropChance": 50
+                "dropChance": 20
               }
             ],
-            "weight": 20000
+            "weight": 12500
           },
           {
             "type": "reward",
@@ -50252,6 +50257,901 @@
           },
           {
             "name": "Gold Badge Ticket",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "405308",
+    "name": "405308",
+    "tiers": {
+      "0": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Flawed Prism",
+                "quantity": 3,
+                "dropChance": 55
+              },
+              {
+                "name": "Flawless Prism",
+                "quantity": 1,
+                "dropChance": 40
+              },
+              {
+                "name": "Flawless Prism",
+                "quantity": 2,
+                "dropChance": 5
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Rafale Coin",
+                "quantity": 12,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Salamander Egg",
+                "quantity": 3,
+                "dropChance": 50
+              },
+              {
+                "name": "Salamander Egg",
+                "quantity": 4,
+                "dropChance": 30
+              },
+              {
+                "name": "Salamander Egg",
+                "quantity": 5,
+                "dropChance": 20
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Vermillion Powder",
+                "quantity": 1,
+                "dropChance": 30
+              },
+              {
+                "name": "Vermillion Powder",
+                "quantity": 2,
+                "dropChance": 18
+              },
+              {
+                "name": "Vermillion Powder",
+                "quantity": 3,
+                "dropChance": 12
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 40
+              }
+            ],
+            "weight": 16666
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 42
+              },
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 18.9
+              },
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 7
+              },
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 2.1
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 30
+              }
+            ],
+            "weight": 14285
+          }
+        ]
+      },
+      "1": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Supreme Merit",
+                "quantity": 1,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          }
+        ]
+      },
+      "2": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Supreme Merit",
+                "quantity": 1,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          }
+        ]
+      },
+      "3": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Fortitude Crystal",
+                "quantity": 6,
+                "dropChance": 70
+              },
+              {
+                "name": "Fortitude Crystal",
+                "quantity": 1,
+                "dropChance": 30
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Supreme Merit",
+                "quantity": 1,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          }
+        ]
+      },
+      "4": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Fortitude Crystal",
+                "quantity": 1,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          }
+        ]
+      },
+      "5": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Fortitude Crystal",
+                "quantity": 1,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "ITEM_14_0050",
+                "quantity": 1,
+                "dropChance": 35
+              },
+              {
+                "name": "ITEM_14_0050",
+                "quantity": 2,
+                "dropChance": 21
+              },
+              {
+                "name": "ITEM_14_0050",
+                "quantity": 3,
+                "dropChance": 14
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 30
+              }
+            ],
+            "weight": 14285
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Knickknack Voucher",
+                "quantity": 1,
+                "dropChance": 24
+              },
+              {
+                "name": "Knickknack Voucher",
+                "quantity": 2,
+                "dropChance": 6
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 70
+              }
+            ],
+            "weight": 33333
+          }
+        ]
+      },
+      "firstClear": {
+        "drops": [
+          {
+            "name": "ITEM_14_0050",
+            "quantity": 1
+          },
+          {
+            "name": "GEEN_166_03",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "406367",
+    "name": "406367",
+    "tiers": {
+      "0": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Quality Refinium",
+                "quantity": 2,
+                "dropChance": 70
+              },
+              {
+                "name": "Exceptional Refinium",
+                "quantity": 1,
+                "dropChance": 30
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Vermillion Powder",
+                "quantity": 4,
+                "dropChance": 50
+              },
+              {
+                "name": "Vermillion Powder",
+                "quantity": 5,
+                "dropChance": 30
+              },
+              {
+                "name": "Vermillion Powder",
+                "quantity": 6,
+                "dropChance": 20
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Phondam Sulfur",
+                "quantity": 2,
+                "dropChance": 36
+              },
+              {
+                "name": "Phondam Sulfur",
+                "quantity": 3,
+                "dropChance": 18
+              },
+              {
+                "name": "Phondam Sulfur",
+                "quantity": 4,
+                "dropChance": 6
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 40
+              }
+            ],
+            "weight": 16666
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Rafale Coin",
+                "quantity": 15,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 48
+              },
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 21.6
+              },
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 8
+              },
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 2.4
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 20
+              }
+            ],
+            "weight": 12500
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "ITEM_32_0042",
+                "quantity": 3,
+                "dropChance": 30
+              },
+              {
+                "name": "ITEM_32_0041",
+                "quantity": 2,
+                "dropChance": 50
+              },
+              {
+                "name": "ITEM_32_0041",
+                "quantity": 1,
+                "dropChance": 20
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "ITEM_14_0050",
+                "quantity": 2,
+                "dropChance": 40
+              },
+              {
+                "name": "ITEM_14_0051",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 50
+              }
+            ],
+            "weight": 20000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Dread Wrightstone",
+                "quantity": 1,
+                "dropChance": 13.13
+              },
+              {
+                "name": "Vitality Wrightstone",
+                "quantity": 1,
+                "dropChance": 13.13
+              },
+              {
+                "name": "Fortification Wrightstone",
+                "quantity": 1,
+                "dropChance": 13.13
+              },
+              {
+                "name": "Sequestration Wrightstone",
+                "quantity": 1,
+                "dropChance": 13.13
+              },
+              {
+                "name": "Dread Wrightstone",
+                "quantity": 1,
+                "dropChance": 3.75
+              },
+              {
+                "name": "Vitality Wrightstone",
+                "quantity": 1,
+                "dropChance": 3.75
+              },
+              {
+                "name": "Fortification Wrightstone",
+                "quantity": 1,
+                "dropChance": 3.75
+              },
+              {
+                "name": "Sequestration Wrightstone",
+                "quantity": 1,
+                "dropChance": 3.75
+              },
+              {
+                "name": "Dread Wrightstone",
+                "quantity": 1,
+                "dropChance": 1.88
+              },
+              {
+                "name": "Vitality Wrightstone",
+                "quantity": 1,
+                "dropChance": 1.88
+              },
+              {
+                "name": "Fortification Wrightstone",
+                "quantity": 1,
+                "dropChance": 1.88
+              },
+              {
+                "name": "Sequestration Wrightstone",
+                "quantity": 1,
+                "dropChance": 1.88
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 25
+              }
+            ],
+            "weight": 13333
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Silver Centrum",
+                "quantity": 1,
+                "dropChance": 6
+              },
+              {
+                "name": "Mirage Munition",
+                "quantity": 1,
+                "dropChance": 14
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 80
+              }
+            ],
+            "weight": 50000
+          }
+        ]
+      },
+      "1": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Legendary Merit",
+                "quantity": 1,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "ITEM_32_0043",
+                "quantity": 1,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Tyranny V",
+                "quantity": 1,
+                "dropChance": 10.71
+              },
+              {
+                "name": "Life on the Line V",
+                "quantity": 1,
+                "dropChance": 10.72
+              },
+              {
+                "name": "Combo Booster V",
+                "quantity": 1,
+                "dropChance": 10.71
+              },
+              {
+                "name": "Combo Finisher V",
+                "quantity": 1,
+                "dropChance": 10.71
+              },
+              {
+                "name": "Cascade V",
+                "quantity": 1,
+                "dropChance": 10.71
+              },
+              {
+                "name": "Attack Down Resistance V",
+                "quantity": 1,
+                "dropChance": 10.71
+              },
+              {
+                "name": "Damage Cap V",
+                "quantity": 1,
+                "dropChance": 10.72
+              },
+              {
+                "name": "Tyranny V+",
+                "quantity": 1,
+                "dropChance": 3.07
+              },
+              {
+                "name": "Life on the Line V+",
+                "quantity": 1,
+                "dropChance": 2.04
+              },
+              {
+                "name": "Combo Booster V+",
+                "quantity": 1,
+                "dropChance": 2.04
+              },
+              {
+                "name": "Combo Finisher V+",
+                "quantity": 1,
+                "dropChance": 2.04
+              },
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 2.04
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 13.78
+              }
+            ],
+            "weight": 11739
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Tyranny V",
+                "quantity": 1,
+                "dropChance": 10.02
+              },
+              {
+                "name": "Life on the Line V",
+                "quantity": 1,
+                "dropChance": 10.02
+              },
+              {
+                "name": "Combo Booster V",
+                "quantity": 1,
+                "dropChance": 10.02
+              },
+              {
+                "name": "Combo Finisher V",
+                "quantity": 1,
+                "dropChance": 10.02
+              },
+              {
+                "name": "Cascade V",
+                "quantity": 1,
+                "dropChance": 10.02
+              },
+              {
+                "name": "Attack Down Resistance V",
+                "quantity": 1,
+                "dropChance": 10.02
+              },
+              {
+                "name": "Damage Cap V",
+                "quantity": 1,
+                "dropChance": 10.02
+              },
+              {
+                "name": "Tyranny V+",
+                "quantity": 1,
+                "dropChance": 2.87
+              },
+              {
+                "name": "Life on the Line V+",
+                "quantity": 1,
+                "dropChance": 1.91
+              },
+              {
+                "name": "Combo Booster V+",
+                "quantity": 1,
+                "dropChance": 1.91
+              },
+              {
+                "name": "Combo Finisher V+",
+                "quantity": 1,
+                "dropChance": 1.91
+              },
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 1.91
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 19.35
+              }
+            ],
+            "weight": 12549
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "ITEM_14_0050",
+                "quantity": 1,
+                "dropChance": 25
+              },
+              {
+                "name": "ITEM_14_0050",
+                "quantity": 2,
+                "dropChance": 15
+              },
+              {
+                "name": "ITEM_14_0051",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 50
+              }
+            ],
+            "weight": 20000
+          }
+        ]
+      },
+      "2": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "ITEM_32_0043",
+                "quantity": 1,
+                "dropChance": 90
+              },
+              {
+                "name": "ITEM_32_0042",
+                "quantity": 1,
+                "dropChance": 10
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Quality Refinium",
+                "quantity": 2,
+                "dropChance": 50
+              },
+              {
+                "name": "Quality Refinium",
+                "quantity": 3,
+                "dropChance": 30
+              },
+              {
+                "name": "Exceptional Refinium",
+                "quantity": 1,
+                "dropChance": 20
+              }
+            ],
+            "weight": 10000
+          }
+        ]
+      },
+      "3": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "ITEM_32_0042",
+                "quantity": 1,
+                "dropChance": 60
+              },
+              {
+                "name": "ITEM_32_0041",
+                "quantity": 1,
+                "dropChance": 40
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Dark Orb",
+                "quantity": 12,
+                "dropChance": 60
+              },
+              {
+                "name": "Dark Orb",
+                "quantity": 15,
+                "dropChance": 30
+              },
+              {
+                "name": "Dark Orb",
+                "quantity": 3,
+                "dropChance": 10
+              }
+            ],
+            "weight": 10000
+          }
+        ]
+      },
+      "4": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "ITEM_14_0051",
+                "quantity": 1,
+                "dropChance": 3
+              },
+              {
+                "name": "ITEM_14_0050",
+                "quantity": 1,
+                "dropChance": 97
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Phondam Sulfur",
+                "quantity": 2,
+                "dropChance": 40
+              },
+              {
+                "name": "Phondam Sulfur",
+                "quantity": 3,
+                "dropChance": 30
+              },
+              {
+                "name": "Vermillion Powder",
+                "quantity": 3,
+                "dropChance": 20
+              },
+              {
+                "name": "Vermillion Powder",
+                "quantity": 4,
+                "dropChance": 10
+              }
+            ],
+            "weight": 10000
+          }
+        ]
+      },
+      "5": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "ITEM_14_0051",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "ITEM_14_0050",
+                "quantity": 1,
+                "dropChance": 90
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [
+              {
+                "name": "Knickknack Voucher",
+                "quantity": 1,
+                "dropChance": 30
+              },
+              {
+                "name": "Knickknack Voucher",
+                "quantity": 2,
+                "dropChance": 15
+              },
+              {
+                "name": "Knickknack Voucher",
+                "quantity": 3,
+                "dropChance": 5
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 50
+              }
+            ],
+            "weight": 20000
+          }
+        ]
+      },
+      "firstClear": {
+        "drops": [
+          {
+            "name": "ITEM_14_0051",
             "quantity": 1
           }
         ]

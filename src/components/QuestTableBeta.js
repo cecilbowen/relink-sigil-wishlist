@@ -127,6 +127,7 @@ const QuestTableBeta = ({
             });
         });
     });
+    tempFilteredQuests = tempFilteredQuests.filter(item => isNaN(parseInt(item.name, 10))); // filter out unknown quests
     setFilteredQuests(tempFilteredQuests);
 
     if (isThereATextFilter && tempFilteredQuests.length === 0) {

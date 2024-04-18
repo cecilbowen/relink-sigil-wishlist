@@ -24142,7 +24142,7 @@
           {
             "type": "chest",
             "drops": [],
-            "weight": 12500
+            "weight": 10000
           },
           {
             "type": "chest",
@@ -24464,6 +24464,11 @@
             "weight": 10000
           },
           {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          },
+          {
             "type": "chest",
             "drops": [],
             "weight": 10000
@@ -24485,17 +24490,12 @@
           {
             "type": "reward",
             "drops": [],
-            "weight": 50000
+            "weight": 12500
           },
           {
             "type": "reward",
             "drops": [],
-            "weight": 100000
-          },
-          {
-            "type": "reward",
-            "drops": [],
-            "weight": 20000
+            "weight": 12500
           },
           {
             "type": "reward",
@@ -24511,7 +24511,7 @@
   },
   {
     "id": "407321",
-    "name": "The Final Vision (2?)",
+    "name": "The Final Vision [2?]",
     "tiers": {
       "0": {
         "lots": [
@@ -24589,7 +24589,7 @@
           {
             "type": "chest",
             "drops": [],
-            "weight": 12500
+            "weight": 10000
           },
           {
             "type": "chest",
@@ -24911,6 +24911,11 @@
             "weight": 10000
           },
           {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          },
+          {
             "type": "chest",
             "drops": [],
             "weight": 10000
@@ -24932,22 +24937,380 @@
           {
             "type": "reward",
             "drops": [],
-            "weight": 50000
+            "weight": 12500
           },
           {
             "type": "reward",
             "drops": [],
-            "weight": 100000
-          },
-          {
-            "type": "reward",
-            "drops": [],
-            "weight": 20000
+            "weight": 12500
           },
           {
             "type": "reward",
             "drops": [],
             "weight": 10000
+          }
+        ]
+      },
+      "firstClear": {
+        "drops": []
+      }
+    }
+  },
+  {
+    "id": "405308",
+    "name": "405308",
+    "tiers": {
+      "0": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 16666
+          },
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 14285
+          }
+        ]
+      },
+      "1": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          }
+        ]
+      },
+      "2": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          }
+        ]
+      },
+      "3": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          }
+        ]
+      },
+      "4": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          }
+        ]
+      },
+      "5": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 14285
+          },
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 33333
+          }
+        ]
+      },
+      "firstClear": {
+        "drops": []
+      }
+    }
+  },
+  {
+    "id": "406367",
+    "name": "406367",
+    "tiers": {
+      "0": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 16666
+          },
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 12500
+          },
+          {
+            "type": "chest",
+            "drops": [],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [],
+            "weight": 20000
+          },
+          {
+            "type": "chest",
+            "drops": [],
+            "weight": 13333
+          },
+          {
+            "type": "chest",
+            "drops": [],
+            "weight": 50000
+          }
+        ]
+      },
+      "1": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Tyranny V",
+                "quantity": 1,
+                "dropChance": 10.71
+              },
+              {
+                "name": "Life on the Line V",
+                "quantity": 1,
+                "dropChance": 10.72
+              },
+              {
+                "name": "Combo Booster V",
+                "quantity": 1,
+                "dropChance": 10.71
+              },
+              {
+                "name": "Combo Finisher V",
+                "quantity": 1,
+                "dropChance": 10.71
+              },
+              {
+                "name": "Cascade V",
+                "quantity": 1,
+                "dropChance": 10.71
+              },
+              {
+                "name": "Attack Down Resistance V",
+                "quantity": 1,
+                "dropChance": 10.71
+              },
+              {
+                "name": "Damage Cap V",
+                "quantity": 1,
+                "dropChance": 10.72
+              },
+              {
+                "name": "Tyranny V+",
+                "quantity": 1,
+                "dropChance": 3.07
+              },
+              {
+                "name": "Life on the Line V+",
+                "quantity": 1,
+                "dropChance": 2.04
+              },
+              {
+                "name": "Combo Booster V+",
+                "quantity": 1,
+                "dropChance": 2.04
+              },
+              {
+                "name": "Combo Finisher V+",
+                "quantity": 1,
+                "dropChance": 2.04
+              },
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 2.04
+              }
+            ],
+            "weight": 11739
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Tyranny V",
+                "quantity": 1,
+                "dropChance": 10.02
+              },
+              {
+                "name": "Life on the Line V",
+                "quantity": 1,
+                "dropChance": 10.02
+              },
+              {
+                "name": "Combo Booster V",
+                "quantity": 1,
+                "dropChance": 10.02
+              },
+              {
+                "name": "Combo Finisher V",
+                "quantity": 1,
+                "dropChance": 10.02
+              },
+              {
+                "name": "Cascade V",
+                "quantity": 1,
+                "dropChance": 10.02
+              },
+              {
+                "name": "Attack Down Resistance V",
+                "quantity": 1,
+                "dropChance": 10.02
+              },
+              {
+                "name": "Damage Cap V",
+                "quantity": 1,
+                "dropChance": 10.02
+              },
+              {
+                "name": "Tyranny V+",
+                "quantity": 1,
+                "dropChance": 2.87
+              },
+              {
+                "name": "Life on the Line V+",
+                "quantity": 1,
+                "dropChance": 1.91
+              },
+              {
+                "name": "Combo Booster V+",
+                "quantity": 1,
+                "dropChance": 1.91
+              },
+              {
+                "name": "Combo Finisher V+",
+                "quantity": 1,
+                "dropChance": 1.91
+              },
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 1.91
+              }
+            ],
+            "weight": 12549
+          },
+          {
+            "type": "chest",
+            "drops": [],
+            "weight": 20000
+          }
+        ]
+      },
+      "2": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [],
+            "weight": 10000
+          }
+        ]
+      },
+      "3": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [],
+            "weight": 10000
+          }
+        ]
+      },
+      "4": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [],
+            "weight": 10000
+          }
+        ]
+      },
+      "5": {
+        "lots": [
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 10000
+          },
+          {
+            "type": "reward",
+            "drops": [],
+            "weight": 20000
           }
         ]
       },
