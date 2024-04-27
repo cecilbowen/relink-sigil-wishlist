@@ -9841,7 +9841,12 @@
         ]
       },
       "firstClear": {
-        "drops": []
+        "drops": [
+          {
+            "name": "Greater Aegis IV",
+            "quantity": 1
+          }
+        ]
       }
     }
   },
