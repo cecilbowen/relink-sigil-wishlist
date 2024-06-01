@@ -168,6 +168,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Shard",
+            "quantity": 3,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 1,
+            "goal": "Defeat 2 foe(s) with thrown objects"
+          },
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 5,
+            "goal": "Clear within 2 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -460,6 +479,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Rafale Coin",
+            "quantity": 5,
+            "goal": "Clear within 3 minute(s)"
+          },
+          {
+            "name": "Landbeast Claw",
+            "quantity": 3,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Landbeast Plate",
+            "quantity": 1,
+            "goal": "Clear within 1 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -632,6 +670,25 @@
             "quantity": 10
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Shard",
+            "quantity": 3,
+            "goal": "Don't enter critical condition more than 3 time(s)"
+          },
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 1,
+            "goal": "Defeat 3 foe(s) with thrown objects"
+          },
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 5,
+            "goal": "Clear within 2 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -787,6 +844,25 @@
           {
             "name": "Fast Learner I",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Glitterstone (S)",
+            "quantity": 1,
+            "goal": "Defeat 50 foes"
+          },
+          {
+            "name": "Glitterstone (S)",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Glitterstone (L)",
+            "quantity": 1,
+            "goal": "Defeat {enemy} ×7"
           }
         ]
       }
@@ -1087,6 +1163,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Rafale Coin",
+            "quantity": 5,
+            "goal": "Clear within 3 minute(s)"
+          },
+          {
+            "name": "Chieftain's Braid",
+            "quantity": 3,
+            "goal": "Don't enter critical condition more than 3 time(s)"
+          },
+          {
+            "name": "Greatshield Fragment",
+            "quantity": 1,
+            "goal": "Clear within 1 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -1237,6 +1332,25 @@
           {
             "name": "Health I",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Shard",
+            "quantity": 3,
+            "goal": "Hallowed Ground survives with at least 65% HP"
+          },
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 1,
+            "goal": "Defeat 3 foe(s) with thrown objects"
+          },
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 5,
+            "goal": "Defeat {enemy} ×4"
           }
         ]
       }
@@ -1411,6 +1525,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Shard",
+            "quantity": 3,
+            "goal": "Don't enter critical condition more than 3 time(s)"
+          },
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 1,
+            "goal": "Defeat 120 foes with an ether cannon"
+          },
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 5,
+            "goal": "Clear within 3 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -1581,6 +1714,25 @@
           {
             "name": "Potion Hoarder I",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Shard",
+            "quantity": 3,
+            "goal": "Clear within 4 minute(s)"
+          },
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 5,
+            "goal": "Clear within 2 minute(s)"
           }
         ]
       }
@@ -1935,6 +2087,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Rafale Coin",
+            "quantity": 10,
+            "goal": "Clear within 3 minute(s)"
+          },
+          {
+            "name": "Bizarre Wing",
+            "quantity": 3,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Bizarre Ice Spine",
+            "quantity": 1,
+            "goal": "Don't get inflicted with {status} more than 3 time(s)"
+          }
+        ]
       }
     }
   },
@@ -2145,6 +2316,25 @@
           {
             "name": "Low Profile II",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Glitterstone (S)",
+            "quantity": 1,
+            "goal": "Defeat {enemy} ×15"
+          },
+          {
+            "name": "Glitterstone (S)",
+            "quantity": 1,
+            "goal": "Defeat 4 foe(s) with thrown objects"
+          },
+          {
+            "name": "Glitterstone (L)",
+            "quantity": 1,
+            "goal": "Defeat {enemy} ×8"
           }
         ]
       }
@@ -2488,6 +2678,25 @@
           {
             "name": "Exploiter II",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Rafale Coin",
+            "quantity": 10,
+            "goal": "Clear within 5 minute(s)"
+          },
+          {
+            "name": "Griffin Feather",
+            "quantity": 3,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Griffin Talon",
+            "quantity": 1,
+            "goal": "Clear within 2 minute(s)"
           }
         ]
       }
@@ -2876,6 +3085,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Prism Chip",
+            "quantity": 1,
+            "goal": "Clear within 4 minute(s)"
+          },
+          {
+            "name": "Prism Chip",
+            "quantity": 5,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Flawed Prism",
+            "quantity": 2,
+            "goal": "Clear within 2 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -3065,6 +3293,25 @@
           {
             "name": "Attack Power II",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Glitterstone (S)",
+            "quantity": 1,
+            "goal": "Defeat 50 foes"
+          },
+          {
+            "name": "Glitterstone (S)",
+            "quantity": 1,
+            "goal": "Defeat 4 foe(s) with thrown objects"
+          },
+          {
+            "name": "Glitterstone (L)",
+            "quantity": 1,
+            "goal": "Defeat {enemy} ×7"
           }
         ]
       }
@@ -3430,6 +3677,25 @@
             "quantity": 2
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Rafale Coin",
+            "quantity": 10,
+            "goal": "Clear within 4 minute(s)"
+          },
+          {
+            "name": "Golem Finger",
+            "quantity": 3,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Golem Rockjaw",
+            "quantity": 1,
+            "goal": "Clear within 1 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -3640,6 +3906,25 @@
           {
             "name": "Regen II",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Shard",
+            "quantity": 5,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 2,
+            "goal": "Clear within 5 minute(s)"
+          },
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 7,
+            "goal": "Don't get inflicted with {status} more than 2 time(s)"
           }
         ]
       }
@@ -3854,6 +4139,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Shard",
+            "quantity": 5,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 2,
+            "goal": "Defeat 3 foe(s) with thrown objects"
+          },
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 7,
+            "goal": "Clear within 6 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -4038,6 +4342,25 @@
           {
             "name": "Linked Together II",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Shard",
+            "quantity": 5,
+            "goal": "Barricade survives with at least 75% HP"
+          },
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 2,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 7,
+            "goal": "Defeat {enemy} ×1"
           }
         ]
       }
@@ -4381,6 +4704,25 @@
           {
             "name": "Quality Refinium",
             "quantity": 2
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Rafale Coin",
+            "quantity": 10,
+            "goal": "Clear within 4 minute(s)"
+          },
+          {
+            "name": "Purgatory Bone",
+            "quantity": 3,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Purgatory Armguard",
+            "quantity": 1,
+            "goal": "Clear within 2 minute(s)"
           }
         ]
       }
@@ -4778,6 +5120,25 @@
           {
             "name": "Sequestration Wrightstone (ITEM_28_9999)",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Prism Chip",
+            "quantity": 1,
+            "goal": "Clear within 4 minute(s)"
+          },
+          {
+            "name": "Prism Chip",
+            "quantity": 5,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Flawed Prism",
+            "quantity": 2,
+            "goal": "Clear within 2 minute(s)"
           }
         ]
       }
@@ -5182,6 +5543,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Prism Chip",
+            "quantity": 1,
+            "goal": "Clear within 6 minute(s)"
+          },
+          {
+            "name": "Prism Chip",
+            "quantity": 5,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Flawed Prism",
+            "quantity": 2,
+            "goal": "Clear within 3 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -5426,6 +5806,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 5,
+            "goal": "Don't enter critical condition more than 4 time(s)"
+          },
+          {
+            "name": "Fortitude Crystal (M)",
+            "quantity": 2,
+            "goal": "Defeat 60 foes with an ether cannon"
+          },
+          {
+            "name": "Fortitude Crystal (M)",
+            "quantity": 5,
+            "goal": "Clear within 3 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -5664,6 +6063,25 @@
           {
             "name": "Fortitude Crystal (M)",
             "quantity": 3
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 5,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Fortitude Crystal (M)",
+            "quantity": 2,
+            "goal": "Defeat 2 foe(s) with thrown objects"
+          },
+          {
+            "name": "Fortitude Crystal (M)",
+            "quantity": 5,
+            "goal": "Clear within 3 minute(s)"
           }
         ]
       }
@@ -5908,6 +6326,25 @@
           {
             "name": "Gold Badge Ticket",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Glitterstone (L)",
+            "quantity": 1,
+            "goal": "Defeat 35 foes"
+          },
+          {
+            "name": "Glitterstone (L)",
+            "quantity": 1,
+            "goal": "Don't get inflicted with {status} more than 5 time(s)"
+          },
+          {
+            "name": "Glittercrystal",
+            "quantity": 1,
+            "goal": "Defeat {enemy} ×4"
           }
         ]
       }
@@ -6372,6 +6809,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Chieftain's Braid",
+            "quantity": 3,
+            "goal": "Clear within 8 minute(s)"
+          },
+          {
+            "name": "Greatshield Fragment",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Broken Savage Sword",
+            "quantity": 1,
+            "goal": "Clear within 4 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -6814,6 +7270,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Landbeast Claw",
+            "quantity": 3,
+            "goal": "Clear within 8 minute(s)"
+          },
+          {
+            "name": "Landbeast Plate",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Landbeast Horn",
+            "quantity": 1,
+            "goal": "Clear within 4 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -7086,6 +7561,25 @@
           {
             "name": "Gold Badge Ticket",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Glitterstone (L)",
+            "quantity": 1,
+            "goal": "Collect 50 Vallion coins"
+          },
+          {
+            "name": "Glitterstone (L)",
+            "quantity": 1,
+            "goal": "Defeat {enemy} ×2"
+          },
+          {
+            "name": "Glittercrystal",
+            "quantity": 1,
+            "goal": "Collect 150 Vallion coins"
           }
         ]
       }
@@ -7522,6 +8016,25 @@
           {
             "name": "Attack Power III",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Frostbeast Claw",
+            "quantity": 3,
+            "goal": "Clear within 6 minute(s)"
+          },
+          {
+            "name": "Frostbeast Plate",
+            "quantity": 1,
+            "goal": "Don't get inflicted with {status} more than 3 time(s)"
+          },
+          {
+            "name": "Frostbeast Horn",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 2 time(s)"
           }
         ]
       }
@@ -7980,6 +8493,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Griffin Feather",
+            "quantity": 3,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Griffin Talon",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Giant Beak",
+            "quantity": 1,
+            "goal": "Clear within 5 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -8212,6 +8744,25 @@
           {
             "name": "Fortitude Crystal (M)",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 5,
+            "goal": "Hallowed Ground survives with at least 50% HP"
+          },
+          {
+            "name": "Fortitude Crystal (M)",
+            "quantity": 2,
+            "goal": "Defeat 8 foe(s) with thrown objects"
+          },
+          {
+            "name": "Fortitude Crystal (M)",
+            "quantity": 5,
+            "goal": "Defeat {enemy} ×4"
           }
         ]
       }
@@ -8678,6 +9229,25 @@
           {
             "name": "Critical Hit Rate III",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Bizarre Wing",
+            "quantity": 3,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Bizarre Ice Spine",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Chilling Demon Eye",
+            "quantity": 1,
+            "goal": "Clear within 5 minute(s)"
           }
         ]
       }
@@ -9180,6 +9750,25 @@
             "quantity": 3
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Dragon Scale",
+            "quantity": 2,
+            "goal": "Clear within 8 minute(s)"
+          },
+          {
+            "name": "Dragon Wing",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Ancient Hollowpoint",
+            "quantity": 1,
+            "goal": "Clear within 4 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -9397,6 +9986,25 @@
           {
             "name": "Glitterstone (L)",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Glitterstone (L)",
+            "quantity": 1,
+            "goal": "Defeat 10 foe(s) with thrown objects"
+          },
+          {
+            "name": "Glitterstone (L)",
+            "quantity": 1,
+            "goal": "Defeat 20 foe(s) with thrown objects"
+          },
+          {
+            "name": "Glittercrystal",
+            "quantity": 1,
+            "goal": "Defeat 50 foes"
           }
         ]
       }
@@ -9891,6 +10499,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Bleak Bone",
+            "quantity": 3,
+            "goal": "Clear within 8 minute(s)"
+          },
+          {
+            "name": "Bleak Armguard",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Frosty War Axe",
+            "quantity": 1,
+            "goal": "Clear within 4 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -10137,6 +10764,25 @@
           {
             "name": "Nimble Onslaught III",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Crystal (S)",
+            "quantity": 7,
+            "goal": "Defeat 5 foe(s) with thrown objects"
+          },
+          {
+            "name": "Fortitude Crystal (M)",
+            "quantity": 4,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Fortitude Crystal (L)",
+            "quantity": 1,
+            "goal": "Clear within 4 minute(s)"
           }
         ]
       }
@@ -10406,6 +11052,25 @@
           {
             "name": "Gold Badge Ticket",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Glitterstone (L)",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Glitterstone (L)",
+            "quantity": 1,
+            "goal": "Defeat 70 foes via Dimension Warp"
+          },
+          {
+            "name": "Glittercrystal",
+            "quantity": 1,
+            "goal": "Don't get inflicted with {status} more than 5 time(s)"
           }
         ]
       }
@@ -10951,6 +11616,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Golem Finger",
+            "quantity": 3,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Golem Rockjaw",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Crowning Parapet",
+            "quantity": 1,
+            "goal": "Clear within 5 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -11484,6 +12168,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Mythril Wheel",
+            "quantity": 3,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Condemnation Saw",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Ether Battery",
+            "quantity": 1,
+            "goal": "Clear within 5 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -12005,6 +12708,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Flamebeast Claw",
+            "quantity": 3,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Flamebeast Plate",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Flamebeast Horn",
+            "quantity": 1,
+            "goal": "Clear within 5 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -12509,6 +13231,25 @@
           {
             "name": "Gold Badge Ticket",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Purgatory Bone",
+            "quantity": 3,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Purgatory Armguard",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Searing War Axe",
+            "quantity": 1,
+            "goal": "Clear within 5 minute(s)"
           }
         ]
       }
@@ -13091,6 +13832,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Flawless Prism",
+            "quantity": 10,
+            "goal": "Clear within 7 minute(s)"
+          },
+          {
+            "name": "Furycane Anima",
+            "quantity": 1,
+            "goal": "Use Skybound Arts at least 2 times"
+          },
+          {
+            "name": "Furycane Omega Anima",
+            "quantity": 1,
+            "goal": "Destroy 8 destructible part(s)"
+          }
+        ]
       }
     }
   },
@@ -13324,6 +14084,25 @@
           {
             "name": "Silver Spellbook",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Glittercrystal",
+            "quantity": 1,
+            "goal": "Defeat 50 foes"
+          },
+          {
+            "name": "Glittercrystal",
+            "quantity": 1,
+            "goal": "Destroy 5 battleship installations"
+          },
+          {
+            "name": "Glittercrystal Cluster",
+            "quantity": 1,
+            "goal": "Defeat {enemy} ×6"
           }
         ]
       }
@@ -13566,6 +14345,25 @@
             "quantity": 5
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Crystal (M)",
+            "quantity": 10,
+            "goal": "Clear within 7 minute(s)"
+          },
+          {
+            "name": "Fortitude Crystal (L)",
+            "quantity": 2,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          },
+          {
+            "name": "Fortitude Crystal (L)",
+            "quantity": 5,
+            "goal": "Clear within 4 minute(s)"
+          }
+        ]
       }
     }
   },
@@ -13804,6 +14602,25 @@
           {
             "name": "Exceptional Refinium",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Crystal (M)",
+            "quantity": 10,
+            "goal": "Hallowed Ground survives with at least 50% HP"
+          },
+          {
+            "name": "Fortitude Crystal (L)",
+            "quantity": 2,
+            "goal": "Defeat 4 foe(s) with thrown objects"
+          },
+          {
+            "name": "Fortitude Crystal (L)",
+            "quantity": 5,
+            "goal": "Defeat {enemy} ×4"
           }
         ]
       }
@@ -14404,6 +15221,25 @@
           {
             "name": "Attack Power IV",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Flawless Prism",
+            "quantity": 10,
+            "goal": "Perform at least 7 link attacks"
+          },
+          {
+            "name": "Managarmr Anima",
+            "quantity": 1,
+            "goal": "Clear within 7 minute(s)"
+          },
+          {
+            "name": "Managarmr Omega Anima",
+            "quantity": 1,
+            "goal": "Don't get inflicted with {status} more than 10 time(s)"
           }
         ]
       }
@@ -15089,6 +15925,25 @@
             "quantity": 2
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Quality Refinium",
+            "quantity": 10,
+            "goal": "Use Skybound Arts at least 2 times"
+          },
+          {
+            "name": "Alpha Wolf's Valor",
+            "quantity": 1,
+            "goal": "Clear within 7 minute(s)"
+          },
+          {
+            "name": "Gallanza Anamnesis",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 4 time(s)"
+          }
+        ]
       }
     }
   },
@@ -15732,6 +16587,25 @@
             "quantity": 2
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Quality Refinium",
+            "quantity": 10,
+            "goal": "Enter link time"
+          },
+          {
+            "name": "Bladecaller's Gambit",
+            "quantity": 1,
+            "goal": "Clear within 7 minute(s)"
+          },
+          {
+            "name": "Maglielle Anamnesis",
+            "quantity": 1,
+            "goal": "Destroy superlative weapons 4 times"
+          }
+        ]
       }
     }
   },
@@ -16260,6 +17134,25 @@
           {
             "name": "Fortification Wrightstone (ITEM_27_1000)",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Flawless Prism",
+            "quantity": 10,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Excavallion Anima",
+            "quantity": 1,
+            "goal": "Subcores charge the core less than 3 times"
+          },
+          {
+            "name": "Excavallion Omega Anima",
+            "quantity": 1,
+            "goal": "Use Skybound Arts at least 3 times"
           }
         ]
       }
@@ -16880,6 +17773,25 @@
           {
             "name": "Quick Charge IV",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Flawless Prism",
+            "quantity": 10,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Vulkan Bolla Anima",
+            "quantity": 1,
+            "goal": "Enter link time"
+          },
+          {
+            "name": "Vulkan Bolla Omega Anima",
+            "quantity": 1,
+            "goal": "Destroy 8 destructible part(s)"
           }
         ]
       }
@@ -17504,6 +18416,25 @@
           {
             "name": "Fortitude Crystal (L)",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Dragon Wing",
+            "quantity": 2,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Red Dragon Scale",
+            "quantity": 1,
+            "goal": "Destroy all destructible parts"
+          },
+          {
+            "name": "Firewyrm's Jewel",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 4 time(s)"
           }
         ]
       }
@@ -18140,6 +19071,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Dragon Wing",
+            "quantity": 2,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Brown Dragon Scale",
+            "quantity": 1,
+            "goal": "Destroy all destructible parts"
+          },
+          {
+            "name": "Earthwyrm's Jewel",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 4 time(s)"
+          }
+        ]
       }
     }
   },
@@ -18774,6 +19724,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Dragon Wing",
+            "quantity": 2,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Green Dragon Scale",
+            "quantity": 1,
+            "goal": "Destroy all destructible parts"
+          },
+          {
+            "name": "Windwyrm's Jewel",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 4 time(s)"
+          }
+        ]
       }
     }
   },
@@ -19356,6 +20325,25 @@
           {
             "name": "Fortitude Crystal (L)",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Dragon Wing",
+            "quantity": 2,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Blue Dragon Scale",
+            "quantity": 1,
+            "goal": "Destroy all destructible parts"
+          },
+          {
+            "name": "Icewyrm's Jewel",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 4 time(s)"
           }
         ]
       }
@@ -20022,6 +21010,25 @@
             "quantity": 2
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Quality Refinium",
+            "quantity": 10,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Protector's Pride",
+            "quantity": 1,
+            "goal": "Trigger a full burst"
+          },
+          {
+            "name": "Id Anamnesis",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 2 time(s)"
+          }
+        ]
       }
     }
   },
@@ -20667,6 +21674,25 @@
             "quantity": 3
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Flawless Prism",
+            "quantity": 10,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Angra Mainyu Anima",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 5 time(s)"
+          },
+          {
+            "name": "Angra Mainyu Omega Anima",
+            "quantity": 1,
+            "goal": "Destroy Aka Manah"
+          }
+        ]
       }
     }
   },
@@ -20935,6 +21961,25 @@
           {
             "name": "Greater Aegis IV",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Crystal (M)",
+            "quantity": 15,
+            "goal": "Defeat {enemy} ×60"
+          },
+          {
+            "name": "Revenant Medallion",
+            "quantity": 1,
+            "goal": "Defeat {enemy} ×100"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 30,
+            "goal": "Defeat {enemy} ×130"
           }
         ]
       }
@@ -21219,6 +22264,25 @@
           {
             "name": "Silver Spellbook",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Glittercrystal",
+            "quantity": 1,
+            "goal": "Defeat 20 foes"
+          },
+          {
+            "name": "Glittercrystal Cluster",
+            "quantity": 1,
+            "goal": "Defeat 50 foes"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 10,
+            "goal": "Defeat 100 foes"
           }
         ]
       }
@@ -21896,6 +22960,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Golem Rockjaw",
+            "quantity": 1,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Golem Rockjaw",
+            "quantity": 2,
+            "goal": "Make a rock golem tumble 2 times"
+          },
+          {
+            "name": "Crowning Parapet",
+            "quantity": 2,
+            "goal": "Don't enter critical condition more than 3 time(s)"
+          }
+        ]
       }
     }
   },
@@ -22499,6 +23582,25 @@
           {
             "name": "Nimble Onslaught IV",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Griffin Talon",
+            "quantity": 1,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Griffin Talon",
+            "quantity": 2,
+            "goal": "Enter link time"
+          },
+          {
+            "name": "Giant Beak",
+            "quantity": 2,
+            "goal": "Don't enter critical condition more than 3 time(s)"
           }
         ]
       }
@@ -23124,6 +24226,25 @@
           {
             "name": "Health IV",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Greatshield Fragment",
+            "quantity": 1,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Greatshield Fragment",
+            "quantity": 2,
+            "goal": "Enter link time"
+          },
+          {
+            "name": "Broken Savage Sword",
+            "quantity": 2,
+            "goal": "Don't enter critical condition more than 3 time(s)"
           }
         ]
       }
@@ -23761,6 +24882,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Bizarre Ice Spine",
+            "quantity": 1,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Bizarre Ice Spine",
+            "quantity": 2,
+            "goal": "Topple ice pillars on a boss 3 times"
+          },
+          {
+            "name": "Chilling Demon Eye",
+            "quantity": 2,
+            "goal": "Don't enter critical condition more than 3 time(s)"
+          }
+        ]
       }
     }
   },
@@ -24344,6 +25484,25 @@
           {
             "name": "Aegis IV",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Frostbeast Plate",
+            "quantity": 1,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Frostbeast Plate",
+            "quantity": 2,
+            "goal": "Perform at least 10 link attacks"
+          },
+          {
+            "name": "Frostbeast Horn",
+            "quantity": 2,
+            "goal": "Destroy all destructible parts"
           }
         ]
       }
@@ -24971,6 +26130,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Flamebeast Plate",
+            "quantity": 1,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Flamebeast Plate",
+            "quantity": 2,
+            "goal": "Perform at least 10 link attacks"
+          },
+          {
+            "name": "Flamebeast Horn",
+            "quantity": 2,
+            "goal": "Destroy all destructible parts"
+          }
+        ]
       }
     }
   },
@@ -25564,6 +26742,25 @@
           {
             "name": "Stun Power IV",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Landbeast Plate",
+            "quantity": 1,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Landbeast Plate",
+            "quantity": 2,
+            "goal": "Perform at least 10 link attacks"
+          },
+          {
+            "name": "Landbeast Horn",
+            "quantity": 2,
+            "goal": "Destroy all destructible parts"
           }
         ]
       }
@@ -26207,6 +27404,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Condemnation Saw",
+            "quantity": 1,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Condemnation Saw",
+            "quantity": 2,
+            "goal": "Enter link time"
+          },
+          {
+            "name": "Ether Battery",
+            "quantity": 2,
+            "goal": "Destroy the head unit"
+          }
+        ]
       }
     }
   },
@@ -26812,6 +28028,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Purgatory Armguard",
+            "quantity": 1,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Purgatory Armguard",
+            "quantity": 2,
+            "goal": "Enter link time"
+          },
+          {
+            "name": "Searing War Axe",
+            "quantity": 2,
+            "goal": "Don't enter critical condition more than 3 time(s)"
+          }
+        ]
       }
     }
   },
@@ -27387,6 +28622,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Bleak Armguard",
+            "quantity": 1,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Bleak Armguard",
+            "quantity": 2,
+            "goal": "Enter link time"
+          },
+          {
+            "name": "Frosty War Axe",
+            "quantity": 2,
+            "goal": "Don't enter critical condition more than 3 time(s)"
+          }
+        ]
       }
     }
   },
@@ -27624,6 +28878,25 @@
           {
             "name": "Gold Badge Ticket",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Quality Refinium",
+            "quantity": 1,
+            "goal": "Hallowed Ground survives with at least 60% HP"
+          },
+          {
+            "name": "Exceptional Refinium",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 5 time(s)"
+          },
+          {
+            "name": "Exceptional Refinium",
+            "quantity": 2,
+            "goal": "Defeat {enemy} ×1"
           }
         ]
       }
@@ -28230,6 +29503,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Greatshield Fragment",
+            "quantity": 2,
+            "goal": "Enter link time"
+          },
+          {
+            "name": "Greatshield Fragment",
+            "quantity": 4,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Broken Savage Sword",
+            "quantity": 4,
+            "goal": "Don't enter critical condition more than 5 time(s)"
+          }
+        ]
       }
     }
   },
@@ -28812,6 +30104,25 @@
           {
             "name": "Gold Badge Ticket",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Griffin Talon",
+            "quantity": 2,
+            "goal": "Enter link time"
+          },
+          {
+            "name": "Griffin Talon",
+            "quantity": 4,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Giant Beak",
+            "quantity": 4,
+            "goal": "Don't enter critical condition more than 5 time(s)"
           }
         ]
       }
@@ -29426,6 +30737,25 @@
           {
             "name": "Gold Badge Ticket",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Bizarre Ice Spine",
+            "quantity": 2,
+            "goal": "Enter link time"
+          },
+          {
+            "name": "Bizarre Ice Spine",
+            "quantity": 4,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Chilling Demon Eye",
+            "quantity": 4,
+            "goal": "Don't enter critical condition more than 5 time(s)"
           }
         ]
       }
@@ -30092,6 +31422,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Golem Rockjaw",
+            "quantity": 2,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Golem Rockjaw",
+            "quantity": 4,
+            "goal": "Trigger a full burst at least 2 times"
+          },
+          {
+            "name": "Crowning Parapet",
+            "quantity": 4,
+            "goal": "Make a rock golem tumble 3 times"
+          }
+        ]
       }
     }
   },
@@ -30727,6 +32076,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Extension Bracer",
+            "quantity": 1,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Swivel Cannon",
+            "quantity": 2,
+            "goal": "Trigger a full burst at least 2 times"
+          },
+          {
+            "name": "Judgment Prongs",
+            "quantity": 1,
+            "goal": "Destroy the head unit"
+          }
+        ]
       }
     }
   },
@@ -31322,6 +32690,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 1,
+            "goal": "Clear within 15 minute(s)"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 10,
+            "goal": "Don't enter critical condition more than 5 time(s)"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 30,
+            "goal": "Destroy all destructible parts"
+          }
+        ]
       }
     }
   },
@@ -31913,6 +33300,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Furycane Anima",
+            "quantity": 1,
+            "goal": "Enter link time"
+          },
+          {
+            "name": "Furycane Omega Anima",
+            "quantity": 1,
+            "goal": "Clear within 8 minute(s)"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 10,
+            "goal": "Destroy 10 destructible part(s)"
+          }
+        ]
       }
     }
   },
@@ -32502,6 +33908,25 @@
           {
             "name": "Sequestration Wrightstone (ITEM_28_1002)",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Managarmr Anima",
+            "quantity": 1,
+            "goal": "Perform at least 10 link attacks"
+          },
+          {
+            "name": "Managarmr Omega Anima",
+            "quantity": 1,
+            "goal": "Clear within 8 minute(s)"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 10,
+            "goal": "Topple an ice pillar on a boss"
           }
         ]
       }
@@ -33133,6 +34558,25 @@
           {
             "name": "Damage Cap IV+",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Protector's Pride",
+            "quantity": 1,
+            "goal": "Enter link time"
+          },
+          {
+            "name": "Protector's Pride",
+            "quantity": 1,
+            "goal": "Clear within 8 minute(s)"
+          },
+          {
+            "name": "Id Anamnesis",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 4 time(s)"
           }
         ]
       }
@@ -33796,6 +35240,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Alpha Wolf's Valor",
+            "quantity": 1,
+            "goal": "Perform at least 10 link attacks"
+          },
+          {
+            "name": "Alpha Wolf's Valor",
+            "quantity": 1,
+            "goal": "Clear within 8 minute(s)"
+          },
+          {
+            "name": "Gallanza Anamnesis",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 4 time(s)"
+          }
+        ]
       }
     }
   },
@@ -34417,6 +35880,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Bladecaller's Gambit",
+            "quantity": 1,
+            "goal": "Destroy superlative weapons 4 times"
+          },
+          {
+            "name": "Bladecaller's Gambit",
+            "quantity": 1,
+            "goal": "Clear within 8 minute(s)"
+          },
+          {
+            "name": "Maglielle Anamnesis",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 4 time(s)"
+          }
+        ]
       }
     }
   },
@@ -34950,6 +36432,25 @@
           {
             "name": "Fortification Wrightstone (ITEM_27_1002)",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Excavallion Anima",
+            "quantity": 1,
+            "goal": "Subcores charge the core less than 5 times"
+          },
+          {
+            "name": "Excavallion Omega Anima",
+            "quantity": 1,
+            "goal": "Clear within 8 minute(s)"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 10,
+            "goal": "Don't enter critical condition more than 4 time(s)"
           }
         ]
       }
@@ -35567,6 +37068,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Vulkan Bolla Anima",
+            "quantity": 1,
+            "goal": "Enter link time"
+          },
+          {
+            "name": "Vulkan Bolla Omega Anima",
+            "quantity": 1,
+            "goal": "Clear within 8 minute(s)"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 10,
+            "goal": "Destroy 10 destructible part(s)"
+          }
+        ]
       }
     }
   },
@@ -36180,6 +37700,25 @@
           {
             "name": "Gold Badge Ticket",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Angra Mainyu Anima",
+            "quantity": 1,
+            "goal": "Clear within 15 minute(s)"
+          },
+          {
+            "name": "Angra Mainyu Omega Anima",
+            "quantity": 1,
+            "goal": "Trigger a full burst at least 2 times"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 20,
+            "goal": "Destroy Aka Manah 2 times"
           }
         ]
       }
@@ -37445,6 +38984,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Heliotrope Urn",
+            "quantity": 1,
+            "goal": "Clear within 15 minute(s)"
+          },
+          {
+            "name": "Heliotrope Urn",
+            "quantity": 2,
+            "goal": "Trigger a full burst at least 2 times"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 30,
+            "goal": "Don't enter critical condition more than 5 time(s)"
+          }
+        ]
       }
     }
   },
@@ -38036,6 +39594,25 @@
           {
             "name": "Damage Cap V",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Firewyrm's Jewel",
+            "quantity": 5,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Crimson Horn",
+            "quantity": 1,
+            "goal": "Destroy all destructible parts"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 50,
+            "goal": "Don't enter critical condition more than 5 time(s)"
           }
         ]
       }
@@ -38691,6 +40268,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Earthwyrm's Jewel",
+            "quantity": 5,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Terra Horn",
+            "quantity": 1,
+            "goal": "Destroy all destructible parts"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 50,
+            "goal": "Don't enter critical condition more than 5 time(s)"
+          }
+        ]
       }
     }
   },
@@ -39329,6 +40925,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Windwyrm's Jewel",
+            "quantity": 5,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Typhoon Horn",
+            "quantity": 1,
+            "goal": "Destroy all destructible parts"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 50,
+            "goal": "Don't enter critical condition more than 5 time(s)"
+          }
+        ]
       }
     }
   },
@@ -39875,6 +41490,25 @@
           {
             "name": "Quick Cooldown V",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Icewyrm's Jewel",
+            "quantity": 5,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Frozen Horn",
+            "quantity": 1,
+            "goal": "Destroy all destructible parts"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 50,
+            "goal": "Don't enter critical condition more than 5 time(s)"
           }
         ]
       }
@@ -40465,6 +42099,25 @@
           {
             "name": "Critical Hit Rate V+",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Crystal (L)",
+            "quantity": 10,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Chilling Demon Eye",
+            "quantity": 2,
+            "goal": "Don't enter critical condition more than 5 time(s)"
+          },
+          {
+            "name": "Searing War Axe",
+            "quantity": 1,
+            "goal": "Use Skybound Arts at least 6 times"
           }
         ]
       }
@@ -41102,6 +42755,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Crystal (L)",
+            "quantity": 10,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Landbeast Horn",
+            "quantity": 2,
+            "goal": "Don't enter critical condition more than 5 time(s)"
+          },
+          {
+            "name": "Crowning Parapet",
+            "quantity": 1,
+            "goal": "Use Skybound Arts at least 6 times"
+          }
+        ]
       }
     }
   },
@@ -41703,6 +43375,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Crystal (L)",
+            "quantity": 10,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Flamebeast Horn",
+            "quantity": 2,
+            "goal": "Don't enter critical condition more than 5 time(s)"
+          },
+          {
+            "name": "Ancient Hollowpoint",
+            "quantity": 1,
+            "goal": "Destroy all destructible parts"
+          }
+        ]
       }
     }
   },
@@ -42246,6 +43937,25 @@
           {
             "name": "Linked Together V+",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Crystal (L)",
+            "quantity": 10,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Frosty War Axe",
+            "quantity": 2,
+            "goal": "Don't enter critical condition more than 5 time(s)"
+          },
+          {
+            "name": "Frostbeast Horn",
+            "quantity": 1,
+            "goal": "Use Skybound Arts at least 6 times"
           }
         ]
       }
@@ -42821,6 +44531,25 @@
           {
             "name": "Health V+",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Fortitude Crystal (L)",
+            "quantity": 10,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Giant Beak",
+            "quantity": 2,
+            "goal": "Perform at least 15 link attacks"
+          },
+          {
+            "name": "Broken Savage Sword",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 4 time(s)"
           }
         ]
       }
@@ -43627,6 +45356,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Crimson Horn",
+            "quantity": 2,
+            "goal": "Clear within 15 minute(s)"
+          },
+          {
+            "name": "Terra Horn",
+            "quantity": 2,
+            "goal": "Destroy all destructible parts"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 70,
+            "goal": "Don't enter critical condition more than 5 time(s)"
+          }
+        ]
       }
     }
   },
@@ -44341,6 +46089,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Typhoon Horn",
+            "quantity": 2,
+            "goal": "Clear within 15 minute(s)"
+          },
+          {
+            "name": "Frozen Horn",
+            "quantity": 2,
+            "goal": "Destroy all destructible parts"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 70,
+            "goal": "Don't enter critical condition more than 5 time(s)"
+          }
+        ]
       }
     }
   },
@@ -45050,6 +46817,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Silver Wolf Clovis",
+            "quantity": 1,
+            "goal": "Clear within 15 minute(s)"
+          },
+          {
+            "name": "Cutthroat Fang",
+            "quantity": 1,
+            "goal": "Clear within 301 minute(s) of defeating the first foe"
+          },
+          {
+            "name": "Destrudo",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 5 time(s)"
+          }
+        ]
       }
     }
   },
@@ -45619,6 +47405,25 @@
           {
             "name": "Fortitude Crystal (L)",
             "quantity": 10
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "White Dragon Scale",
+            "quantity": 2,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Whitewyrm's Jewel",
+            "quantity": 1,
+            "goal": "Destroy all destructible parts"
+          },
+          {
+            "name": "Bright Horn",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 5 time(s)"
           }
         ]
       }
@@ -46267,6 +48072,25 @@
             "quantity": 10
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Black Dragon Scale",
+            "quantity": 2,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Blackwyrm's Jewel",
+            "quantity": 1,
+            "goal": "Destroy all destructible parts"
+          },
+          {
+            "name": "Abyssal Horn",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 5 time(s)"
+          }
+        ]
       }
     }
   },
@@ -46820,6 +48644,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Furycane Nihilla Core",
+            "quantity": 1,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Furycane Nihilla Core",
+            "quantity": 1,
+            "goal": "Use Skybound Arts at least 6 times"
+          },
+          {
+            "name": "Nihilla-Cast Sword",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 5 time(s)"
+          }
+        ]
       }
     }
   },
@@ -47326,6 +49169,25 @@
           {
             "name": "Sequestration Wrightstone (ITEM_28_1003)",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Managarmr Nihilla Core",
+            "quantity": 1,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Managarmr Nihilla Core",
+            "quantity": 1,
+            "goal": "Use Skybound Arts at least 6 times"
+          },
+          {
+            "name": "Nihilla Horn of Disdain",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 5 time(s)"
           }
         ]
       }
@@ -47849,6 +49711,25 @@
           {
             "name": "Dread Wrightstone (ITEM_25_1003)",
             "quantity": 1
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Vulkan Bolla Nihilla Core",
+            "quantity": 1,
+            "goal": "Clear within 10 minute(s)"
+          },
+          {
+            "name": "Vulkan Bolla Nihilla Core",
+            "quantity": 1,
+            "goal": "Use Skybound Arts at least 6 times"
+          },
+          {
+            "name": "Nihilla-Fused Dark Plasma",
+            "quantity": 1,
+            "goal": "Don't enter critical condition more than 5 time(s)"
           }
         ]
       }
@@ -48653,6 +50534,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Reality Thorn",
+            "quantity": 1,
+            "goal": "Clear within 15 minute(s)"
+          },
+          {
+            "name": "Terror Urn",
+            "quantity": 1,
+            "goal": "Don't get hit by Supernova"
+          },
+          {
+            "name": "Divinity Shackle",
+            "quantity": 1,
+            "goal": "Negate at least 50 light orb(s) with a cannon"
+          }
+        ]
       }
     }
   },
@@ -49345,6 +51245,25 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Mana Circuit",
+            "quantity": 1,
+            "goal": "Clear within 15 minute(s)"
+          },
+          {
+            "name": "Mana Circuit",
+            "quantity": 1,
+            "goal": "Trigger a full burst at least 2 times"
+          },
+          {
+            "name": "Lunary Detector",
+            "quantity": 1,
+            "goal": "Destroy all destructible parts"
+          }
+        ]
       }
     }
   },
@@ -49493,24 +51412,19 @@
             "type": "chest",
             "drops": [
               {
-                "name": "Dark Residue",
+                "name": "Canaan Whitebloom",
+                "quantity": 1,
+                "dropChance": 67
+              },
+              {
+                "name": "Canaan Whitebloom",
+                "quantity": 2,
+                "dropChance": 28
+              },
+              {
+                "name": "Canaan Whitebloom",
                 "quantity": 3,
-                "dropChance": 40
-              },
-              {
-                "name": "Dark Residue",
-                "quantity": 4,
-                "dropChance": 30
-              },
-              {
-                "name": "Dark Residue",
-                "quantity": 6,
-                "dropChance": 20
-              },
-              {
-                "name": "Dark Residue",
-                "quantity": 8,
-                "dropChance": 10
+                "dropChance": 5
               }
             ],
             "weight": 10000
@@ -49953,6 +51867,32 @@
               }
             ],
             "weight": 23750
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Dark Residue",
+                "quantity": 3,
+                "dropChance": 40
+              },
+              {
+                "name": "Dark Residue",
+                "quantity": 4,
+                "dropChance": 30
+              },
+              {
+                "name": "Dark Residue",
+                "quantity": 6,
+                "dropChance": 20
+              },
+              {
+                "name": "Dark Residue",
+                "quantity": 8,
+                "dropChance": 10
+              }
+            ],
+            "weight": 10000
           }
         ]
       },
@@ -50250,12 +52190,31 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 30,
+            "goal": "Side Goal 1"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 70,
+            "goal": "Side Goal 2"
+          },
+          {
+            "name": "Dark Residue",
+            "quantity": 1,
+            "goal": "Side Goal 3"
+          }
+        ]
       }
     }
   },
   {
     "id": "407321",
-    "name": "The Final Vision [2?]",
+    "name": "Zero",
     "tiers": {
       "0": {
         "lots": [
@@ -50300,7 +52259,7 @@
             "type": "chest",
             "drops": [
               {
-                "name": "ITEM_18_0002",
+                "name": "Canaan Whitebloom",
                 "quantity": 2,
                 "dropChance": 100
               }
@@ -50311,24 +52270,14 @@
             "type": "chest",
             "drops": [
               {
-                "name": "Gold Spellbook",
-                "quantity": 1,
-                "dropChance": 40
+                "name": "Glittercrystal Cluster",
+                "quantity": 2,
+                "dropChance": 50
               },
               {
-                "name": "Ambrosia",
-                "quantity": 1,
-                "dropChance": 30
-              },
-              {
-                "name": "Damascus Ingot",
-                "quantity": 1,
-                "dropChance": 20
-              },
-              {
-                "name": "Azurite's Splendor",
-                "quantity": 1,
-                "dropChance": 10
+                "name": "Silver Centrum",
+                "quantity": 2,
+                "dropChance": 50
               }
             ],
             "weight": 10000
@@ -50379,7 +52328,7 @@
             "drops": [
               {
                 "name": "Legendary Merit",
-                "quantity": 1,
+                "quantity": 2,
                 "dropChance": 100
               }
             ],
@@ -50391,38 +52340,59 @@
               {
                 "name": "Tears of the Apocalypse",
                 "quantity": 1,
-                "dropChance": 70
+                "dropChance": 40
               },
               {
                 "name": "Tears of the Apocalypse",
                 "quantity": 2,
-                "dropChance": 20
+                "dropChance": 7.5
               },
               {
                 "name": "Tears of the Apocalypse",
                 "quantity": 3,
-                "dropChance": 10
+                "dropChance": 2.5
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 50
               }
             ],
-            "weight": 10000
+            "weight": 20000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 32.5
+              },
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 17.5
+              },
+              {
+                "name": "Nothing",
+                "quantity": 1,
+                "dropChance": 50
+              }
+            ],
+            "weight": 20000
           },
           {
             "type": "chest",
             "drops": [
               {
                 "name": "Dark Residue",
-                "quantity": 15,
-                "dropChance": 50
+                "quantity": 7,
+                "dropChance": 70
               },
               {
                 "name": "Dark Residue",
-                "quantity": 17,
+                "quantity": 10,
                 "dropChance": 30
-              },
-              {
-                "name": "Dark Residue",
-                "quantity": 20,
-                "dropChance": 20
               }
             ],
             "weight": 10000
@@ -50436,29 +52406,8 @@
             "drops": [
               {
                 "name": "Dark Residue",
-                "quantity": 1,
+                "quantity": 7,
                 "dropChance": 100
-              }
-            ],
-            "weight": 10000
-          },
-          {
-            "type": "chest",
-            "drops": [
-              {
-                "name": "Dark Residue",
-                "quantity": 10,
-                "dropChance": 50
-              },
-              {
-                "name": "Dark Residue",
-                "quantity": 12,
-                "dropChance": 30
-              },
-              {
-                "name": "Dark Residue",
-                "quantity": 17,
-                "dropChance": 20
               }
             ],
             "weight": 10000
@@ -50474,17 +52423,12 @@
               {
                 "name": "Curio",
                 "quantity": 1,
-                "dropChance": 27
+                "dropChance": 30
               },
               {
                 "name": "Curio",
                 "quantity": 1,
                 "dropChance": 10
-              },
-              {
-                "name": "Curio",
-                "quantity": 1,
-                "dropChance": 3
               }
             ],
             "weight": 10000
@@ -50498,12 +52442,12 @@
             "drops": [
               {
                 "name": "Dark Residue",
-                "quantity": 2,
+                "quantity": 10,
                 "dropChance": 70
               },
               {
                 "name": "Dark Residue",
-                "quantity": 3,
+                "quantity": 12,
                 "dropChance": 30
               }
             ],
@@ -50513,9 +52457,19 @@
             "type": "chest",
             "drops": [
               {
-                "name": "Knickknack Voucher",
-                "quantity": 30,
-                "dropChance": 100
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 80
+              },
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 17
+              },
+              {
+                "name": "Curio",
+                "quantity": 1,
+                "dropChance": 3
               }
             ],
             "weight": 10000
@@ -50529,7 +52483,7 @@
             "drops": [
               {
                 "name": "Tears of the Apocalypse",
-                "quantity": 1,
+                "quantity": 2,
                 "dropChance": 100
               }
             ],
@@ -50582,8 +52536,27 @@
       "firstClear": {
         "drops": [
           {
-            "name": "ITEM_18_0002",
+            "name": "Canaan Whitebloom",
             "quantity": 3
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Silver Centrum",
+            "quantity": 1,
+            "goal": "Side Goal 1"
+          },
+          {
+            "name": "Azurite's Splendor",
+            "quantity": 1,
+            "goal": "Side Goal 2"
+          },
+          {
+            "name": "Canaan Whitebloom",
+            "quantity": 1,
+            "goal": "Side Goal 3"
           }
         ]
       }
@@ -50884,60 +52857,65 @@
               {
                 "name": "Stronghold V+",
                 "quantity": 1,
-                "dropChance": 0.8
+                "dropChance": 0.73
               },
               {
                 "name": "Power Hungry V+",
                 "quantity": 1,
-                "dropChance": 0.8
+                "dropChance": 0.73
               },
               {
                 "name": "Supplementary Damage V+",
                 "quantity": 1,
-                "dropChance": 0.8
+                "dropChance": 0.73
               },
               {
                 "name": "Less Is More V+",
                 "quantity": 1,
-                "dropChance": 0.8
+                "dropChance": 0.73
               },
               {
                 "name": "Head Start V+",
                 "quantity": 1,
-                "dropChance": 0.8
+                "dropChance": 0.73
               },
               {
                 "name": "Untouchable+",
                 "quantity": 1,
-                "dropChance": 0.8
+                "dropChance": 0.73
               },
               {
                 "name": "Berserker V+",
                 "quantity": 1,
-                "dropChance": 0.8
+                "dropChance": 0.73
               },
               {
                 "name": "Roll of the Die+",
                 "quantity": 1,
-                "dropChance": 0.8
+                "dropChance": 0.73
               },
               {
                 "name": "Glass Cannon V+",
                 "quantity": 1,
-                "dropChance": 0.8
+                "dropChance": 0.73
               },
               {
                 "name": "Flight over Fight+",
                 "quantity": 1,
-                "dropChance": 0.8
+                "dropChance": 0.73
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 0.73
               },
               {
                 "name": "Nothing",
                 "quantity": 1,
-                "dropChance": 60.01
+                "dropChance": 59.99
               }
             ],
-            "weight": 9998
+            "weight": 10001
           }
         ]
       },
@@ -51381,12 +53359,31 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Death Nail",
+            "quantity": 1,
+            "goal": "Side Goal 1"
+          },
+          {
+            "name": "Revenant Medallion",
+            "quantity": 3,
+            "goal": "Side Goal 2"
+          },
+          {
+            "name": "Curio (T4)",
+            "quantity": 1,
+            "goal": "Side Goal 3"
+          }
+        ]
       }
     }
   },
   {
     "id": "407323",
-    "name": "407323",
+    "name": "Dark Swordman's Nightmare",
     "tiers": {
       "0": {
         "lots": [
@@ -51447,7 +53444,7 @@
             "type": "chest",
             "drops": [
               {
-                "name": "Ambrosia",
+                "name": "Silver Centrum",
                 "quantity": 1,
                 "dropChance": 100
               }
@@ -51463,7 +53460,7 @@
             "drops": [
               {
                 "name": "Legendary Merit",
-                "quantity": 1,
+                "quantity": 2,
                 "dropChance": 100
               }
             ],
@@ -51489,33 +53486,17 @@
             "type": "chest",
             "drops": [
               {
-                "name": "Gold Spellbook",
+                "name": "Horn of Bahamut",
                 "quantity": 1,
-                "dropChance": 100
+                "dropChance": 50
+              },
+              {
+                "name": "Silver Centrum",
+                "quantity": 2,
+                "dropChance": 50
               }
             ],
             "weight": 10000
-          },
-          {
-            "type": "chest",
-            "drops": [
-              {
-                "name": "GEEN_233_24",
-                "quantity": 1,
-                "dropChance": 28.57
-              },
-              {
-                "name": "GEEN_234_24",
-                "quantity": 1,
-                "dropChance": 28.57
-              },
-              {
-                "name": "GEEN_235_24",
-                "quantity": 1,
-                "dropChance": 42.86
-              }
-            ],
-            "weight": 8750
           }
         ]
       },
@@ -51603,17 +53584,17 @@
             "drops": [
               {
                 "name": "Demigod Feather",
-                "quantity": 1,
+                "quantity": 2,
                 "dropChance": 60
               },
               {
                 "name": "Demigod Feather",
-                "quantity": 2,
+                "quantity": 3,
                 "dropChance": 30
               },
               {
                 "name": "Demigod Feather",
-                "quantity": 3,
+                "quantity": 15,
                 "dropChance": 10
               }
             ],
@@ -51654,12 +53635,31 @@
             "quantity": 1
           }
         ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Heliotrope Urn",
+            "quantity": 5,
+            "goal": "Side Goal 1"
+          },
+          {
+            "name": "Demigod Feather",
+            "quantity": 3,
+            "goal": "Side Goal 2"
+          },
+          {
+            "name": "Curio (T4)",
+            "quantity": 1,
+            "goal": "Side Goal 3"
+          }
+        ]
       }
     }
   },
   {
     "id": "407324",
-    "name": "407324",
+    "name": "Pageant of Might and Magic",
     "tiers": {
       "0": {
         "lots": [
@@ -51704,9 +53704,14 @@
             "type": "chest",
             "drops": [
               {
-                "name": "Ambrosia",
+                "name": "Lunary Cell",
+                "quantity": 2,
+                "dropChance": 85
+              },
+              {
+                "name": "Lunary Cell",
                 "quantity": 1,
-                "dropChance": 100
+                "dropChance": 15
               }
             ],
             "weight": 10000
@@ -51715,9 +53720,30 @@
             "type": "chest",
             "drops": [
               {
-                "name": "Gold Spellbook",
+                "name": "Silver Wolf Clovis",
+                "quantity": 2,
+                "dropChance": 85
+              },
+              {
+                "name": "Silver Wolf Clovis",
                 "quantity": 1,
-                "dropChance": 100
+                "dropChance": 15
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Cutthroat Fang",
+                "quantity": 2,
+                "dropChance": 85
+              },
+              {
+                "name": "Cutthroat Fang",
+                "quantity": 1,
+                "dropChance": 15
               }
             ],
             "weight": 10000
@@ -51731,7 +53757,7 @@
             "drops": [
               {
                 "name": "Legendary Merit",
-                "quantity": 1,
+                "quantity": 2,
                 "dropChance": 100
               }
             ],
@@ -51741,22 +53767,22 @@
             "type": "chest",
             "drops": [
               {
-                "name": "GEEN_233_24",
+                "name": "Berserker Echo+",
                 "quantity": 1,
                 "dropChance": 28.57
               },
               {
-                "name": "GEEN_234_24",
+                "name": "Spartan Echo+",
                 "quantity": 1,
                 "dropChance": 42.86
               },
               {
-                "name": "GEEN_235_24",
+                "name": "Super Ultimate Perfect Dodge+",
                 "quantity": 1,
                 "dropChance": 28.57
               }
             ],
-            "weight": 8750
+            "weight": 11666
           }
         ]
       },
@@ -51782,24 +53808,41 @@
             "type": "chest",
             "drops": [
               {
+                "name": "Chronos Core",
+                "quantity": 2,
+                "dropChance": 70
+              },
+              {
+                "name": "Chronos Core",
+                "quantity": 3,
+                "dropChance": 30
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Silver Centrum",
+                "quantity": 1,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
                 "name": "Curio",
                 "quantity": 1,
-                "dropChance": 60
+                "dropChance": 30
               },
               {
                 "name": "Curio",
                 "quantity": 1,
-                "dropChance": 27
-              },
-              {
-                "name": "Curio",
-                "quantity": 1,
-                "dropChance": 10
-              },
-              {
-                "name": "Curio",
-                "quantity": 1,
-                "dropChance": 3
+                "dropChance": 70
               }
             ],
             "weight": 10000
@@ -51823,9 +53866,24 @@
             "type": "chest",
             "drops": [
               {
-                "name": "Knickknack Voucher",
-                "quantity": 30,
-                "dropChance": 100
+                "name": "Curio",
+                "quantity": 2,
+                "dropChance": 60
+              },
+              {
+                "name": "Curio",
+                "quantity": 2,
+                "dropChance": 27
+              },
+              {
+                "name": "Curio",
+                "quantity": 2,
+                "dropChance": 10
+              },
+              {
+                "name": "Curio",
+                "quantity": 2,
+                "dropChance": 3
               }
             ],
             "weight": 10000
@@ -51878,6 +53936,25 @@
           {
             "name": "Knickknack Voucher",
             "quantity": 100
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 10,
+            "goal": "Side Goal 1"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 40,
+            "goal": "Side Goal 2"
+          },
+          {
+            "name": "Curio (T4)",
+            "quantity": 1,
+            "goal": "Side Goal 3"
           }
         ]
       }
@@ -51885,7 +53962,7 @@
   },
   {
     "id": "407325",
-    "name": "407325",
+    "name": "Zathba's 'Volunteers'",
     "tiers": {
       "0": {
         "lots": [
@@ -51930,9 +54007,14 @@
             "type": "chest",
             "drops": [
               {
-                "name": "Damascus Ingot",
-                "quantity": 1,
-                "dropChance": 100
+                "name": "Tayu'itar Head Unit",
+                "quantity": 2,
+                "dropChance": 85
+              },
+              {
+                "name": "Tayu'itar Head Unit",
+                "quantity": 3,
+                "dropChance": 15
               }
             ],
             "weight": 10000
@@ -51941,9 +54023,30 @@
             "type": "chest",
             "drops": [
               {
-                "name": "Azurite's Splendor",
+                "name": "Ukhar Core",
+                "quantity": 2,
+                "dropChance": 85
+              },
+              {
+                "name": "Ukhar Core",
+                "quantity": 3,
+                "dropChance": 15
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Rancorous Lance",
+                "quantity": 2,
+                "dropChance": 85
+              },
+              {
+                "name": "Rancorous Lance",
                 "quantity": 1,
-                "dropChance": 100
+                "dropChance": 15
               }
             ],
             "weight": 10000
@@ -51957,7 +54060,7 @@
             "drops": [
               {
                 "name": "Legendary Merit",
-                "quantity": 1,
+                "quantity": 2,
                 "dropChance": 100
               }
             ],
@@ -51967,22 +54070,22 @@
             "type": "chest",
             "drops": [
               {
-                "name": "GEEN_233_24",
+                "name": "Berserker Echo+",
                 "quantity": 1,
                 "dropChance": 42.86
               },
               {
-                "name": "GEEN_234_24",
+                "name": "Spartan Echo+",
                 "quantity": 1,
                 "dropChance": 28.57
               },
               {
-                "name": "GEEN_235_24",
+                "name": "Super Ultimate Perfect Dodge+",
                 "quantity": 1,
                 "dropChance": 28.57
               }
             ],
-            "weight": 8750
+            "weight": 11666
           }
         ]
       },
@@ -52008,24 +54111,41 @@
             "type": "chest",
             "drops": [
               {
+                "name": "Crown of Lament",
+                "quantity": 2,
+                "dropChance": 70
+              },
+              {
+                "name": "Crown of Lament",
+                "quantity": 3,
+                "dropChance": 30
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
+                "name": "Revenant Medallion",
+                "quantity": 12,
+                "dropChance": 100
+              }
+            ],
+            "weight": 10000
+          },
+          {
+            "type": "chest",
+            "drops": [
+              {
                 "name": "Curio",
                 "quantity": 1,
-                "dropChance": 60
+                "dropChance": 30
               },
               {
                 "name": "Curio",
                 "quantity": 1,
-                "dropChance": 27
-              },
-              {
-                "name": "Curio",
-                "quantity": 1,
-                "dropChance": 10
-              },
-              {
-                "name": "Curio",
-                "quantity": 1,
-                "dropChance": 3
+                "dropChance": 70
               }
             ],
             "weight": 10000
@@ -52049,9 +54169,24 @@
             "type": "chest",
             "drops": [
               {
-                "name": "Knickknack Voucher",
-                "quantity": 30,
-                "dropChance": 100
+                "name": "Curio",
+                "quantity": 2,
+                "dropChance": 60
+              },
+              {
+                "name": "Curio",
+                "quantity": 2,
+                "dropChance": 27
+              },
+              {
+                "name": "Curio",
+                "quantity": 2,
+                "dropChance": 10
+              },
+              {
+                "name": "Curio",
+                "quantity": 2,
+                "dropChance": 3
               }
             ],
             "weight": 10000
@@ -52104,6 +54239,25 @@
           {
             "name": "Knickknack Voucher",
             "quantity": 100
+          }
+        ]
+      },
+      "subMission": {
+        "drops": [
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 10,
+            "goal": "Side Goal 1"
+          },
+          {
+            "name": "Knickknack Voucher",
+            "quantity": 40,
+            "goal": "Side Goal 2"
+          },
+          {
+            "name": "Curio (T4)",
+            "quantity": 1,
+            "goal": "Side Goal 3"
           }
         ]
       }
