@@ -25455,12 +25455,37 @@
                 "dropChance": 2.46
               },
               {
+                "name": "War Elemental",
+                "quantity": 1,
+                "dropChance": 2.46
+              },
+              {
+                "name": "Untouchable",
+                "quantity": 1,
+                "dropChance": 2.46
+              },
+              {
                 "name": "Berserker V",
                 "quantity": 1,
                 "dropChance": 2.46
               },
               {
+                "name": "Potent Greens",
+                "quantity": 1,
+                "dropChance": 2.46
+              },
+              {
+                "name": "Roll of the Die",
+                "quantity": 1,
+                "dropChance": 2.46
+              },
+              {
                 "name": "Glass Cannon V",
+                "quantity": 1,
+                "dropChance": 2.46
+              },
+              {
+                "name": "Flight over Fight",
                 "quantity": 1,
                 "dropChance": 2.46
               },
@@ -25490,12 +25515,32 @@
                 "dropChance": 0.73
               },
               {
+                "name": "Untouchable+",
+                "quantity": 1,
+                "dropChance": 0.73
+              },
+              {
                 "name": "Berserker V+",
                 "quantity": 1,
                 "dropChance": 0.73
               },
               {
+                "name": "Roll of the Die+",
+                "quantity": 1,
+                "dropChance": 0.73
+              },
+              {
                 "name": "Glass Cannon V+",
+                "quantity": 1,
+                "dropChance": 0.73
+              },
+              {
+                "name": "Flight over Fight+",
+                "quantity": 1,
+                "dropChance": 0.73
+              },
+              {
+                "name": "War Elemental+",
                 "quantity": 1,
                 "dropChance": 0.73
               }
