@@ -48,6 +48,26 @@
                 "name": "Fatebreaker V+",
                 "quantity": 1,
                 "dropChance": 30
+              },
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Linked Together V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Poison Resistance V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -121,6 +141,26 @@
                 "name": "Fatebreaker V+",
                 "quantity": 1,
                 "dropChance": 30
+              },
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Linked Together V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Poison Resistance V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -132,7 +172,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -295,6 +366,26 @@
                 "name": "Celestial Lumen V+",
                 "quantity": 1,
                 "dropChance": 30
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Burn Resistance V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -306,7 +397,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -485,6 +607,26 @@
                 "name": "Celestial Aqua V+",
                 "quantity": 1,
                 "dropChance": 30
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Burn Resistance V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -496,7 +638,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -669,6 +842,26 @@
                 "name": "Divergence V+",
                 "quantity": 1,
                 "dropChance": 30
+              },
+              {
+                "name": "Stun Power V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Garrison V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Stronghold V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -680,7 +873,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -858,6 +1082,26 @@
                 "name": "Celestial Incendo V+",
                 "quantity": 1,
                 "dropChance": 30
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Nimble Defense V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -869,7 +1113,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -1259,6 +1534,26 @@
                 "name": "Fatebreaker V+",
                 "quantity": 1,
                 "dropChance": 30
+              },
+              {
+                "name": "Quick Cooldown V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Cascade V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -1270,7 +1565,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -1440,6 +1766,26 @@
                 "name": "Celestial Lumen V+",
                 "quantity": 1,
                 "dropChance": 30
+              },
+              {
+                "name": "Critical Hit Rate V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Garrison V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -1451,7 +1797,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -1630,6 +2007,26 @@
                 "name": "Divergence V+",
                 "quantity": 1,
                 "dropChance": 30
+              },
+              {
+                "name": "Improved Guard V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Regen V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -1641,7 +2038,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -1849,12 +2277,64 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              }
+            ],
             "weight": 10001
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              }
+            ],
             "weight": 10001
           }
         ]
@@ -1897,7 +2377,12 @@
     "name": "Bestial Earth",
     "tiers": {
       "firstClear": {
-        "drops": []
+        "drops": [
+          {
+            "name": "War Elemental+",
+            "quantity": 1
+          }
+        ]
       },
       "subMission": {
         "drops": []
@@ -2008,6 +2493,26 @@
                 "name": "Celestial Ventus V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 25
+              },
+              {
+                "name": "Stun Power V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Sandtomb Resistance V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -2024,7 +2529,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -2309,6 +2845,26 @@
                 "name": "Celestial Aqua V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 25
+              },
+              {
+                "name": "Improved Healing V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Glaciate Resistance V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -2325,7 +2881,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -2499,6 +3086,26 @@
                 "name": "Celestial Nyx V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Stronghold V+",
+                "quantity": 1,
+                "dropChance": 25
+              },
+              {
+                "name": "Quick Charge V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Burn Resistance V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -2515,7 +3122,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -2689,6 +3327,26 @@
                 "name": "Celestial Incendo V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 25
+              },
+              {
+                "name": "Dodge Payback V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Firm Stance V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -2705,7 +3363,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -2878,6 +3567,26 @@
                 "name": "Celestial Nyx V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 25
+              },
+              {
+                "name": "Cascade V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Glaciate Resistance V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -2894,7 +3603,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -3067,6 +3807,26 @@
                 "name": "Celestial Ventus V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Linked Together V+",
+                "quantity": 1,
+                "dropChance": 25
+              },
+              {
+                "name": "Steel Nerves V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Burn Resistance V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -3083,7 +3843,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -3145,7 +3936,12 @@
     "name": "Revenge of the Ooze",
     "tiers": {
       "firstClear": {
-        "drops": []
+        "drops": [
+          {
+            "name": "Supplementary Damage V+",
+            "quantity": 1
+          }
+        ]
       },
       "subMission": {
         "drops": []
@@ -3257,7 +4053,12 @@
     "name": "Bring Light to the World",
     "tiers": {
       "firstClear": {
-        "drops": []
+        "drops": [
+          {
+            "name": "Supplementary Damage V+",
+            "quantity": 1
+          }
+        ]
       },
       "subMission": {
         "drops": []
@@ -3490,6 +4291,21 @@
                 "name": "Fatebreaker V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Critical Hit Rate V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Slow Resistance V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -3506,7 +4322,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -3710,6 +4557,21 @@
                 "name": "Divergence V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Precise Wrath V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Tyranny V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -3726,7 +4588,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -3940,6 +4833,21 @@
                 "name": "Divergence V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Stronghold V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Regen V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -3956,7 +4864,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -4150,6 +5089,21 @@
                 "name": "Celestial Ventus V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -4166,7 +5120,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -4383,12 +5368,64 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              }
+            ],
             "weight": 10001
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              }
+            ],
             "weight": 10001
           }
         ]
@@ -4557,6 +5594,21 @@
                 "name": "Celestial Ventus V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Improved Healing V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -4573,7 +5625,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -4758,6 +5841,21 @@
                 "name": "Divergence V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Stun Power V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Darkflame Resistance V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -4774,7 +5872,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -5079,6 +6208,21 @@
                 "name": "Celestial Lumen V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -5090,7 +6234,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -5395,7 +6570,12 @@
     "name": "All-Consuming Darkness",
     "tiers": {
       "firstClear": {
-        "drops": []
+        "drops": [
+          {
+            "name": "Supplementary Damage V+",
+            "quantity": 1
+          }
+        ]
       },
       "subMission": {
         "drops": []
@@ -5521,6 +6701,21 @@
                 "name": "Celestial Incendo V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Slow Resistance V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -5542,7 +6737,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -5723,6 +6949,21 @@
                 "name": "Celestial Ventus V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Cascade V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Quick Cooldown V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -5734,7 +6975,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -5920,6 +7192,21 @@
                 "name": "Celestial Lumen V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Quick Charge V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -5931,7 +7218,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -6117,6 +7435,21 @@
                 "name": "Celestial Aqua V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Guard Payback V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Precise Resilience V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -6128,7 +7461,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -6302,6 +7666,21 @@
                 "name": "Celestial Nyx V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Improved Guard V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Precise Wrath V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -6313,7 +7692,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -6486,6 +7896,21 @@
                 "name": "Divergence V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Linked Together V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -6497,7 +7922,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -6559,7 +8015,12 @@
     "name": "A Reckoning for the Reckoner",
     "tiers": {
       "firstClear": {
-        "drops": []
+        "drops": [
+          {
+            "name": "War Elemental+",
+            "quantity": 1
+          }
+        ]
       },
       "subMission": {
         "drops": []
@@ -6680,6 +8141,21 @@
                 "name": "Celestial Aqua V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Stun Power V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -6691,7 +8167,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -6861,6 +8368,21 @@
                 "name": "Celestial Aqua V+",
                 "quantity": 1,
                 "dropChance": 25
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -6872,7 +8394,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -7071,6 +8624,11 @@
                 "name": "Gamma+",
                 "quantity": 1,
                 "dropChance": 20
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -7082,7 +8640,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -7279,12 +8868,64 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              }
+            ],
             "weight": 10001
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              }
+            ],
             "weight": 10001
           }
         ]
@@ -7428,6 +9069,16 @@
                 "name": "Celestial Incendo V+",
                 "quantity": 1,
                 "dropChance": 20
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 20
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 10000
@@ -7439,7 +9090,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -7617,6 +9299,16 @@
                 "name": "Celestial Ventus V+",
                 "quantity": 1,
                 "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 9998
@@ -7628,7 +9320,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -7811,6 +9534,16 @@
                 "name": "Fatebreaker V+",
                 "quantity": 1,
                 "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 9998
@@ -7822,7 +9555,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -8005,6 +9769,16 @@
                 "name": "Celestial Nyx V+",
                 "quantity": 1,
                 "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 9998
@@ -8016,7 +9790,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -8199,6 +10004,16 @@
                 "name": "Celestial Terra V+",
                 "quantity": 1,
                 "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 9998
@@ -8210,7 +10025,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -8432,6 +10278,16 @@
                 "name": "Fatebreaker V+",
                 "quantity": 1,
                 "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 9998
@@ -8453,6 +10309,16 @@
                 "name": "Fatebreaker V+",
                 "quantity": 1,
                 "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 9998
@@ -8618,6 +10484,16 @@
                 "name": "Celestial Lumen V+",
                 "quantity": 1,
                 "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 9998
@@ -8629,7 +10505,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -8812,6 +10719,16 @@
                 "name": "Celestial Terra V+",
                 "quantity": 1,
                 "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 9998
@@ -8823,7 +10740,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -9006,6 +10954,16 @@
                 "name": "Fatebreaker V+",
                 "quantity": 1,
                 "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 9998
@@ -9017,7 +10975,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -9200,6 +11189,16 @@
                 "name": "Celestial Aqua V+",
                 "quantity": 1,
                 "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 9998
@@ -9211,7 +11210,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -9386,6 +11416,21 @@
                 "name": "Celestial Terra V+",
                 "quantity": 1,
                 "dropChance": 26.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 9998
@@ -9397,7 +11442,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -9568,6 +11644,21 @@
                 "name": "Celestial Aqua V+",
                 "quantity": 1,
                 "dropChance": 26.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 9998
@@ -9579,7 +11670,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -9750,6 +11872,21 @@
                 "name": "Fatebreaker V+",
                 "quantity": 1,
                 "dropChance": 26.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 9998
@@ -9761,7 +11898,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -9932,6 +12100,21 @@
                 "name": "Celestial Lumen V+",
                 "quantity": 1,
                 "dropChance": 26.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 9998
@@ -9943,7 +12126,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Greater Aegis V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Improved Dodge+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Uplift V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Nimble Onslaught V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Drain V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
@@ -10117,6 +12331,21 @@
                 "name": "Celestial Incendo V+",
                 "quantity": 1,
                 "dropChance": 26.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 26.67
+              },
+              {
+                "name": "Berserker Echo+",
+                "quantity": 1,
+                "dropChance": 10
+              },
+              {
+                "name": "Spartan Echo+",
+                "quantity": 1,
+                "dropChance": 10
               }
             ],
             "weight": 9998
@@ -10128,7 +12357,38 @@
           },
           {
             "type": "chest",
-            "drops": [],
+            "drops": [
+              {
+                "name": "Damage Cap V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "War Elemental+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Supplementary Damage V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Guts V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Autorevive V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              },
+              {
+                "name": "Potion Hoarder V+",
+                "quantity": 1,
+                "dropChance": 16.67
+              }
+            ],
             "weight": 9996
           }
         ]
