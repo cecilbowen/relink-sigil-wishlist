@@ -9,4 +9,4 @@ better communicate visually what a lot is and how drops are chosen from them
     maybe something like an icon at the top-left corner of each lot that displays a info tooltip when hovered to the affect of:
         "rolls one of the following drops in this group"
 add side goal items maybe (lol)
-add march update quests to og quest table
+update og (text-based) quest table

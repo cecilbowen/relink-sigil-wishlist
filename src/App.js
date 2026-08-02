@@ -7,9 +7,11 @@ import SIDEQUESTS from './data/sideQuests.json';
 import QUEST_INFO from './data/questInfo.json';
 import QUESTS_DATAMINE_ALL from './data/questDrops.json';
 import QUESTS_DATAMINE_SIGILS from './data/questDropsSigils.json';
+import QUESTS_DATAMINE_ALL_DLC from './data/questDrops_er.json';
+import QUESTS_DATAMINE_SIGILS_DLC from './data/questDropsSigils_er.json';
 import SIGILS_CURIO from './data/curioSigils.json';
 import SIGILS_TRANS from './data/transmarvelSigils.json';
-import { IconButton, TextField } from '@mui/material';
+import { IconButton, Switch, TextField } from '@mui/material';
 import React, { useState } from "react";
 import FormControlLabel from '@mui/material/FormControlLabel';
 import FiberNewIcon from '@mui/icons-material/FiberNew';
@@ -21,6 +23,7 @@ import debounce from 'lodash/debounce';
 import { replaceWithRomanNumerals } from './util';
 
 const App = () => {
+  const [dlc, setDlc] = useState(true);
   const [newUI, setNewUI] = useState(true);
   const [searchText, setSearchText] = useState("");
   const [showDropChance, setShowDropChance] = useState(true);
@@ -38,6 +41,9 @@ const App = () => {
   }, 300);
 
   const moddedTextFilter = replaceWithRomanNumerals(searchText);
+
+  const nenkaiLink = dlc ? "https://nenkai.github.io/relink-modding/resources/quest_drop_rates_er/" :
+    "https://nenkai.github.io/relink-modding/resources/quest_drop_rates/";
 
   return (
     <div className="App">
@@ -62,6 +68,8 @@ const App = () => {
           onChange={ev => setFilterAllItems(ev.target.checked)} />}
         {newUI && <FormControlLabel control={<Checkbox defaultChecked />} label="Show Drop Rates"
           onChange={ev => setShowDropChance(ev.target.checked)} />}
+        {newUI && <FormControlLabel control={<Switch defaultChecked />} label={dlc ? "DLC" : "Base Game"}
+          onChange={ev => setDlc(ev.target.checked)} />}
       </div>
 
       <div style={{ display: 'flex', flexWrap: 'wrap', flexDirection: 'row' }}>
@@ -73,7 +81,7 @@ const App = () => {
             firstClear: filterFirstClear
           }}
         />}
-        {newUI && <QuestTableBeta quests={filterAllItems ? QUESTS_DATAMINE_ALL : QUESTS_DATAMINE_SIGILS} sideQuests={SIDEQUESTS}
+        {newUI && !dlc && <QuestTableBeta quests={filterAllItems ? QUESTS_DATAMINE_ALL : QUESTS_DATAMINE_SIGILS} sideQuests={SIDEQUESTS}
           textFilter={moddedTextFilter}
           filters={{
             quests: filterQuests,
@@ -88,6 +96,25 @@ const App = () => {
           curioSigils={SIGILS_CURIO}
           transSigils={SIGILS_TRANS}
         />}
+
+        {newUI && dlc && <QuestTableBeta
+          quests={filterAllItems ? [...QUESTS_DATAMINE_ALL, ...QUESTS_DATAMINE_ALL_DLC] : [...QUESTS_DATAMINE_SIGILS, ...QUESTS_DATAMINE_SIGILS_DLC]}
+          sideQuests={SIDEQUESTS}
+          textFilter={moddedTextFilter}
+          filters={{
+            quests: filterQuests,
+            sideQuests: filterSideQuests,
+            firstClear: filterFirstClear,
+            exclusive: filterExclusive,
+            allItems: filterAllItems
+          }}
+          showDropChance={showDropChance}
+          blurExtras={blurExtras}
+          questInfo={QUEST_INFO}
+          curioSigils={SIGILS_CURIO}
+          transSigils={SIGILS_TRANS}
+          dlc={dlc}
+        />}
       </div>
 
       <div>
@@ -98,7 +125,7 @@ const App = () => {
             onClick={() => {
               const audio = newUI ? gotleWonderful : gotleUnbelievable;
               audio.play(); // lol
-              setNewUI(!newUI);
+              // setNewUI(!newUI); // disabled for now until I update legacy text table
             }}
           >
             {!newUI && <FiberNewIcon />}
@@ -107,8 +134,7 @@ const App = () => {
           <a target="_blank" rel="noopener noreferrer" href="https://github.com/cecilbowen/relink-sigil-wishlist">GitHub</a> |&nbsp;
           <a target="_blank" rel="noopener noreferrer" href="https://github.com/cecilbowen/relink-sigil-wishlist/issues">Bug Report</a> |
           References:&nbsp;
-          <a target="_blank" rel="noopener noreferrer" href="https://redd.it/1aqtuno">reddit</a>&nbsp;
-          <a target="_blank" rel="noopener noreferrer" href="https://nenkai.github.io/relink-modding/resources/quest_drop_rates/">nenkai</a>
+          <a target="_blank" rel="noopener noreferrer" href={nenkaiLink}>nenkai</a>
           <IconButton aria-label="swapBlur"
             color="primary" sx={{ cursor: 'pointer' }}
             title={blurExtras ? "Stop blurring unrelated search results" : 'Blur unrelated search results'}

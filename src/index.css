@@ -135,5 +135,21 @@ code {
     /*background: linear-gradient(to top, #09112e, #3d0f57, #300076)*/
     background-color: #2b1b58 !important;
   }
+
+  .MuiButtonBase-root.Mui-disabled {
+    opacity: 0.5;
+  }
+  .MuiTablePagination-displayedRows {
+    min-width: 80px;
+  }
+  .MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeMedium:hover {
+    background-color: rgba(135, 128, 179, 0.17);
+  }
+  .MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiNativeSelect-icon {
+    color: rgba(192, 189, 189, 0.54);
+  }
+  a {
+    color: #00c3ff;
+  }
 }
 

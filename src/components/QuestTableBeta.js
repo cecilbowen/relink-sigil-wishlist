@@ -56,7 +56,9 @@ const Difficulty = styled(Typography)`
 `;
 
 const QuestTableBeta = ({
-  quests, sideQuests, curioSigils, transSigils, questInfo, textFilter, filters, showDropChance, blurExtras
+  quests, sideQuests, curioSigils, transSigils,
+  questInfo, textFilter, filters, showDropChance,
+  blurExtras, dlc
 }) => {
   const [filteredQuests, setFilteredQuests] = useState([]);
   const pageOptions = [
@@ -121,7 +123,7 @@ const QuestTableBeta = ({
     tempFilteredQuests = tempFilteredQuests.filter(item => {
         return Object.values(item.tiers).some(tier => {
             return (tier.lots || [{ drops: tier.drops }]).some(lot => {
-                return lot.drops.some(drop => {
+                return (lot.drops || []).some(drop => {
                     return drop.name.toLowerCase().includes(textFilter.toLowerCase());
                 });
             });
@@ -163,7 +165,10 @@ const QuestTableBeta = ({
   };
 
   const flex = '1';
-  const rowStyle = { ...{ '&:last-child td, &:last-child th': { border: 0 }, '&:hover': { backgroundColor: darkMode ? '#2b677a17' : '#6edbff66' } } };
+  const rowStyle = {
+    ...{ '&:last-child td, &:last-child th': { border: 0 },
+    '&:hover': { backgroundColor: darkMode ? '#2b677a17' : '#6edbff66' } }
+  };
 
   let lotCount = 0;
   const procedes = [25, 50, 75, 100];
@@ -269,13 +274,18 @@ const QuestTableBeta = ({
   };
 
   const renderTier = (tier, tierName) => {
-    if (tier.drops && tier.drops.length === 0) {
+    let drops = tier?.drops ?? tier?.lots?.flatMap(x => x.drops) ?? [];
+
+    if (tier?.mainTrait) {
+      drops = [{
+        name: `${tier.name} • ${tier.mainTrait} • ${tier.equipBonus}`,
+        quantity: 1
+      }];
+      tier.drops = drops;
+    }
+
+    if (drops.length === 0) {
       return null;
-    } else if (!tier.drops) {
-      const myDrops = tier.lots.filter(x => x.drops.length > 0);
-      if (myDrops.length === 0) {
-        return null;
-      }
     }
 
     return <Grid item container direction="row" alignItems="center" spacing={1} xs="auto">
@@ -284,6 +294,38 @@ const QuestTableBeta = ({
       </Grid>
       {tier.drops && [{ drops: tier.drops }].map((x, i) => renderLot(x, i, true))}
       {!tier.drops && tier.lots.map((x, i) => renderLot(x, i))}
+    </Grid>;
+  };
+
+  const renderChanceTier = (tier, tierName) => {
+    const drops = tier?.drops ?? tier?.lots?.flatMap(x => x.drops) ?? [];
+
+    if (drops.length === 0) {
+      return null;
+    }
+
+    return <Grid item container direction="row" alignItems="center" spacing={1} xs="auto">
+      <Grid item xs={0.5} sx={{ minWidth: '6em' }}>
+        <Typography sx={{ fontSize: '12px', fontWeight: 'bold' }}>
+          {tierName} ({tier.chance}%)
+        </Typography>
+      </Grid>
+      {tier.drops && [{ drops: tier.drops }].map((x, i) => renderLot(x, i, true))}
+    </Grid>;
+  };
+
+  const renderSummonTier = tier => {
+    if (!tier) {
+      return null;
+    }
+
+    return <Grid item container direction="row" alignItems="center" spacing={1} xs="auto">
+      <Grid item xs={0.5} sx={{ minWidth: '6em' }}>
+        <Typography sx={{ fontSize: '12px', fontWeight: 'bold' }}>Summon First-Clear</Typography>
+      </Grid>
+      {tier.name}
+      {tier.mainTrait}
+      {tier.equipBonus}
     </Grid>;
   };
 
@@ -316,10 +358,13 @@ const QuestTableBeta = ({
         </Grid>
         <Grid container item direction="column" sx={{ marginLeft: '1em', maxWidth: 'fit-content !important' }} spacing={1}>
           {filters.firstClear && renderTier(quest.tiers.firstClear, "First-Clear")}
+          {filters.firstClear && quest.tiers.firstClearSummon && renderTier(quest.tiers.firstClearSummon, "Summon First Clear")}
+          {filters.firstClear && quest.tiers.summonClear && renderTier(quest.tiers.summonClear, "Summon Clear")}
           {renderTier(quest.tiers["0"], 'C Rank')}
           {score >= 1 && renderTier(quest.tiers["1"], 'B Rank')}
           {score >= 2 && renderTier(quest.tiers["2"], 'A Rank')}
           {score >= 3 && renderTier(quest.tiers["3"], 'S Rank')}
+          {score >= 3 && quest.tiers.sRankSummonClear && renderChanceTier(quest.tiers.sRankSummonClear, 'Summon S Rank')}
           {score >= 4 && renderTier(quest.tiers["4"], 'S+ Rank')}
           {score >= 5 && renderTier(quest.tiers["5"], 'S++ Rank')}
           {quest.tiers.npc && renderTier(quest.tiers.npc, quest.town)}
@@ -346,13 +391,16 @@ const QuestTableBeta = ({
     </div>;
   }
 
+  const tableTitle = filters.allItems ? 'Quest Drops' : 'Quest Sigil Drops';
+  const dlcTag = dlc ? ' (Endless Ragnarok)' : '';
+
   return (
     <Paper className="mainPaper" id="main1" sx={{ margin: "1em", flex, order: '1', overflow: 'auto', height: 'fit-content' }}>
       <TableContainer sx={{ maxHeight: "69vh", overflowY: "auto", width: '100%' }}>
         <Table size="small" stickyHeader>
           <TableHead>
             <TableRow>
-              <StyledTableCell align="left">{filters.allItems ? 'Quest Drops' : 'Quest Sigil Drops'}</StyledTableCell>
+              <StyledTableCell align="left">{tableTitle}{dlcTag}</StyledTableCell>
             </TableRow>
           </TableHead>
           <TableBody>
@@ -402,6 +450,7 @@ QuestTableBeta.propTypes = {
   textFilter: PropTypes.string,
   filters: PropTypes.object,
   showDropChance: PropTypes.bool,
-  blurExtras: PropTypes.bool
+  blurExtras: PropTypes.bool,
+  dlc: PropTypes.bool
 };
 export default QuestTableBeta;
